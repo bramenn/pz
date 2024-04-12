@@ -5,6 +5,6 @@ function SpawnRegions()
 		{ name = "Rosewood, KY", file = "media/maps/Rosewood, KY/spawnpoints.lua" },
 		{ name = "Riverside, KY", file = "media/maps/Riverside, KY/spawnpoints.lua" },
 		-- Uncomment the line below to add a custom spawnpoint for this server.
---		{ name = "Twiggy's Bar", serverfile = "pragmaticos_spawnpoints.lua" },
+		{ name = "Twiggy's Bar", serverfile = "pragmaticos_spawnpoints.lua" },
 	}
 end

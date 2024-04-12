@@ -1,0 +1,34 @@
+[12-04-24 22:30:22.420][info] Start chat server initialization....
+[12-04-24 22:30:22.422][info] General chat has id = 0.
+[12-04-24 22:30:22.422][info] Say chat has id = 1.
+[12-04-24 22:30:22.423][info] Shout chat has id = 2.
+[12-04-24 22:30:22.423][info] Radio chat has id = 3.
+[12-04-24 22:30:22.424][info] Admin chat has id = 4.
+[12-04-24 22:30:22.424][info] Server chat has id = 5.
+[12-04-24 22:30:22.425][info] Chat server successfully initialized.
+[12-04-24 22:33:12.517][info] Player with id = '0' tries to connect.
+[12-04-24 22:33:12.517][info] Adding player '0' to chat server.
+[12-04-24 22:33:12.518][info] Player joined to default chats.
+[12-04-24 22:33:12.518][info] Player bramen(0) joined to chat server successfully.
+[12-04-24 22:33:48.867][info] Player with id = '4' tries to connect.
+[12-04-24 22:33:48.867][info] Adding player '4' to chat server.
+[12-04-24 22:33:48.867][info] Player joined to default chats.
+[12-04-24 22:33:48.867][info] Player DonDiogo(4) joined to chat server successfully.
+[12-04-24 22:34:37.041][info] Player 0 disconnecting....
+[12-04-24 22:34:37.041][info] Disconnecting player 0 finished.
+[12-04-24 22:34:58.775][info] Player 0 disconnecting....
+[12-04-24 22:34:58.775][info] Disconnecting player 0 finished.
+[12-04-24 22:34:58.775][info] Player 0 disconnecting....
+[12-04-24 22:34:58.775][info] Disconnecting player 0 finished.
+[12-04-24 22:35:07.269][info] Player 4 disconnecting....
+[12-04-24 22:35:07.269][info] Disconnecting player 4 finished.
+[12-04-24 22:36:30.085][info] Player 4 disconnecting....
+[12-04-24 22:36:30.085][info] Disconnecting player 4 finished.
+[12-04-24 22:36:30.086][info] Player with id = '4' tries to connect.
+[12-04-24 22:36:30.086][info] Adding player '4' to chat server.
+[12-04-24 22:36:30.086][error] Player or connection is not found on server!.
+[12-04-24 22:36:30.086][error] player = null.
+[12-04-24 22:36:32.498][info] Player with id = '4' tries to connect.
+[12-04-24 22:36:32.498][info] Adding player '4' to chat server.
+[12-04-24 22:36:32.498][info] Player joined to default chats.
+[12-04-24 22:36:32.498][info] Player DonDiogo(4) joined to chat server successfully.

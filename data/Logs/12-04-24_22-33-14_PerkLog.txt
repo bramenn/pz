@@ -1,0 +1,8 @@
+[12-04-24 22:33:14.098] [76561199040661533][bramen][12021,6914,0][Login][Hours Survived: 0].
+[12-04-24 22:33:14.098] [76561199040661533][bramen][12021,6914,0][Cooking=0, Fitness=5, Strength=5, Blunt=0, Axe=1, Sprinting=0, Lightfoot=0, Nimble=0, Sneak=0, Woodwork=1, Aiming=0, Reloading=0, Farming=0, Fishing=0, Trapping=2, PlantScavenging=2, Doctor=0, Electricity=0, MetalWelding=0, Mechanics=0, Spear=0, Maintenance=0, SmallBlade=0, LongBlade=0, SmallBlunt=0, Tailoring=0][Hours Survived: 0].
+[12-04-24 22:33:49.104] [76561198430296167][DonDiogo][10917,10093,0][Login][Hours Survived: 0].
+[12-04-24 22:33:49.105] [76561198430296167][DonDiogo][10917,10093,0][Cooking=0, Fitness=7, Strength=7, Blunt=0, Axe=0, Sprinting=0, Lightfoot=0, Nimble=0, Sneak=0, Woodwork=0, Aiming=0, Reloading=0, Farming=0, Fishing=0, Trapping=0, PlantScavenging=0, Doctor=0, Electricity=0, MetalWelding=0, Mechanics=3, Spear=0, Maintenance=0, SmallBlade=0, LongBlade=0, SmallBlunt=1, Tailoring=0][Hours Survived: 0].
+[12-04-24 22:34:37.005] [76561199040661533][bramen][12018,6911,0][Died][Hours Survived: 0].
+[12-04-24 22:35:07.256] [76561198430296167][DonDiogo][10917,10090,1][Died][Hours Survived: 0].
+[12-04-24 22:36:32.850] [76561198430296167][DonDiogo][10976,9785,0][Created Player 1][Hours Survived: 0].
+[12-04-24 22:36:32.850] [76561198430296167][DonDiogo][10976,9785,0][Cooking=0, Fitness=7, Strength=7, Blunt=0, Axe=0, Sprinting=0, Lightfoot=0, Nimble=0, Sneak=0, Woodwork=0, Aiming=0, Reloading=0, Farming=0, Fishing=0, Trapping=0, PlantScavenging=0, Doctor=0, Electricity=0, MetalWelding=0, Mechanics=3, Spear=0, Maintenance=0, SmallBlade=0, LongBlade=0, SmallBlunt=1, Tailoring=0][Hours Survived: 0].

@@ -1,0 +1,5 @@
+[12-04-24 22:34:21.956] 76561198430296167 "DonDiogo" container -1 10912,10092,0 [Base.Screwdriver].
+[12-04-24 22:34:51.959] 76561198430296167 "DonDiogo" container -2 10919,10091,1 [Base.PipeWrench, Base.Pills].
+[12-04-24 22:35:07.255] 76561198430296167 "DonDiogo" floor +1 10917,10090,1 [Base.PipeWrench].
+[12-04-24 22:35:53.161] 76561198430296167 "DonDiogo" floor +1 10913,10094,0 [Base.UnusableWood].
+[12-04-24 22:35:53.162] 76561198430296167 "DonDiogo" floor +1 10913,10094,0 [Base.Doorknob].

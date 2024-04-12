@@ -418,7 +418,7 @@ SandboxVars = {
     -- 2 = Very Low
     -- 3 = Low
     -- 4 = Normal
-    CarSpawnRate = 3,
+    CarSpawnRate = 4,
     -- Governs the chances of finding vehicles with gas in the tank. Default=Low
     -- 1 = Low
     -- 2 = Normal
@@ -475,7 +475,7 @@ SandboxVars = {
     -- 3 = Rare
     -- 4 = Sometimes
     -- 5 = Often
-    CarAlarm = 2,
+    CarAlarm = 3,
     -- Enable or disable player getting damage from being in a car accident.
     PlayerDamageFromCrash = true,
     -- How many in-game hours before a wailing siren shuts off. Minimum=0.00 Maximum=168.00 Default=0.00
@@ -498,9 +498,9 @@ SandboxVars = {
     -- The higher the value, the longer lightbulbs last before breaking. If 0, lightbulbs will never break. Does not affect vehicle headlights. Minimum=0.00 Maximum=1000.00 Default=1.00
     LightBulbLifespan = 1.0,
     Map = {
-        AllowMiniMap = false,
+        AllowMiniMap = true,
         AllowWorldMap = true,
-        MapAllKnown = false,
+        MapAllKnown = true,
     },
     ZombieLore = {
         -- Controls the zombie movement rate. Default=Fast Shamblers
@@ -576,7 +576,7 @@ SandboxVars = {
         -- 2 = Night
         ActiveOnly = 1,
         -- Allows zombies to trigger house alarms when breaking through windows and doors.
-        TriggerHouseAlarm = false,
+        TriggerHouseAlarm = true,
         -- When enabled if multiple zombies are attacking they can drag you down to feed. Dependent on zombie strength.
         ZombiesDragDown = true,
         -- When enabled zombies will have a chance to lunge after climbing over a fence if you're too close.
@@ -590,23 +590,23 @@ SandboxVars = {
         -- Set by the "Zombie Count" population option. 4.0 = Insane, Very High = 3.0, 2.0 = High, 1.0 = Normal, 0.35 = Low, 0.0 = None. Minimum=0.00 Maximum=4.00 Default=1.00
         PopulationMultiplier = 1.0,
         -- Adjusts the desired population at the start of the game. Minimum=0.00 Maximum=4.00 Default=1.00
-        PopulationStartMultiplier = 1.0,
+        PopulationStartMultiplier = 1.5,
         -- Adjusts the desired population on the peak day. Minimum=0.00 Maximum=4.00 Default=1.50
-        PopulationPeakMultiplier = 1.5,
+        PopulationPeakMultiplier = 1.0,
         -- The day when the population reaches it's peak. Minimum=1 Maximum=365 Default=28
         PopulationPeakDay = 28,
         -- The number of hours that must pass before zombies may respawn in a cell. If zero, spawning is disabled. Minimum=0.00 Maximum=8760.00 Default=72.00
-        RespawnHours = 0.00,
+        RespawnHours = 0.0,
         -- The number of hours that a chunk must be unseen before zombies may respawn in it. Minimum=0.00 Maximum=8760.00 Default=16.00
-        RespawnUnseenHours = 0.00,
+        RespawnUnseenHours = 0.0,
         -- The fraction of a cell's desired population that may respawn every RespawnHours. Minimum=0.00 Maximum=1.00 Default=0.10
-        RespawnMultiplier = 0.00,
+        RespawnMultiplier = 0.0,
         -- The number of hours that must pass before zombies migrate to empty parts of the same cell. If zero, migration is disabled. Minimum=0.00 Maximum=8760.00 Default=12.00
         RedistributeHours = 12.0,
         -- The distance a zombie will try to walk towards the last sound it heard. Minimum=10 Maximum=1000 Default=100
         FollowSoundDistance = 100,
         -- The size of groups real zombies form when idle. Zero means zombies don't form groups. Groups don't form inside buildings or forest zones. Minimum=0 Maximum=1000 Default=20
-        RallyGroupSize = 20,
+        RallyGroupSize = 11,
         -- The distance real zombies travel to form groups when idle. Minimum=5 Maximum=50 Default=20
         RallyTravelDistance = 20,
         -- The distance between zombie groups. Minimum=5 Maximum=25 Default=15

@@ -1,4 +1,0 @@
-[10-04-24 23:33:19.308] added connection index=0 190.128.47.86.
-[10-04-24 23:33:20.323] 76561198430296167 "DonDiogo" attempting to join.
-[10-04-24 23:33:20.327] 76561198430296167 "DonDiogo" allowed to join.
-[10-04-24 23:33:34.162] 76561198430296167 "DonDiogo" attempting to join used queue.

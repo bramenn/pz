@@ -1,2 +1,0 @@
-[10-04-24 22:44:49.168] 76561198333912692 "carlosh" removed Door (fixtures_doors_01_12) at 10921,10131,0.
-[10-04-24 23:03:00.042] 76561199040661533 "bramen" removed Door (fixtures_doors_02_5) at 10814,10041,0.

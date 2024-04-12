@@ -1,0 +1,1 @@
+[12-04-24 22:35:53.168] 76561198430296167 "DonDiogo" removed Door (fixtures_doors_02_5) at 10913,10094,0.
