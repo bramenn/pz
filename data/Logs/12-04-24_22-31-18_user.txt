@@ -18,3 +18,5 @@
 [12-04-24 22:35:07.271] user DonDiogo died at (10917,10090,1) (non pvp).
 [12-04-24 22:36:30.086] 76561198430296167 "DonDiogo" disconnected player (10917,10090,1).
 [12-04-24 22:36:32.499] 76561198430296167 "DonDiogo" fully connected (10976,9785,0).
+[12-04-24 22:42:08.257] 76561198430296167 "DonDiogo" removed connection index=1.
+[12-04-24 22:42:08.268] 76561198430296167 "DonDiogo" disconnected player (10946,9783,0).

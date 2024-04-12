@@ -1224,3 +1224,16 @@ LOG  : General     , 1712961392497> 20,146,832> User:'DonDiogo' ip:190.85.174.24
 LOG  : General     , 1712961392497> 20,146,833> Warning, root node parent is always null.
 LOG  : Network     , 1712961392498> 20,146,833> [12-04-24 22:36:32.498] > ZNet: BUpdateUserData 'DonDiogo' id=76561198430296167
 LOG  : Network     , 1712961392498> 20,146,834> [12-04-24 22:36:32.498] > ConnectionManager: [fully-connected] "" connection: guid=752101241396309499 ip=190.85.174.242 steam-id=76561198430296167 access= username="DonDiogo" connection-type="UDPRakNet"
+LOG  : General     , 1712961649055> 20,403,390> Updated MoonPhase = Waning gibbous, float = 0.75, int = 5
+LOG  : Network     , 1712961728253> 20,482,588> [12-04-24 22:42:08.253] > ZNet: SRakNet -> SZombienet: OnClosedConnection
+LOG  : Network     , 1712961728253> 20,482,588> [12-04-24 22:42:08.253] > ZNet: OnClosedConnection: reason=DisconnectionNotification port=23732
+LOG  : Network     , 1712961728253> 20,482,588> [12-04-24 22:42:08.253] > ZNet: Disconnecting client #0 SteamID=76561198430296167
+LOG  : Network     , 1712961728253> 20,482,588> [12-04-24 22:42:08.253] > ZNet: Disconnect: DisconnectionNotification (1105) SteamID=76561198430296167
+LOG  : Network     , 1712961728253> 20,482,589> [12-04-24 22:42:08.253] > ConnectionManager: [RakNet] "disconnection-notification" connection: guid=752101241396309499 ip=190.85.174.242 steam-id=76561198430296167 access= username="DonDiogo" connection-type="Disconnected"
+LOG  : Network     , 1712961728268> 20,482,603> Disconnected player "DonDiogo" 76561198430296167
+LOG  : Network     , 1712961728268> 20,482,603> [12-04-24 22:42:08.268] > ConnectionManager: [disconnect] "receive-disconnect" connection: guid=752101241396309499 ip=190.85.174.242 steam-id=76561198430296167 access= username="DonDiogo" connection-type="Disconnected"
+LOG  : Network     , 1712961729355> 20,483,690> [12-04-24 22:42:09.355] > ZNet: Finally disconnected client 76561198430296167
+LOG  : Network     , 1712961729355> 20,483,690> [12-04-24 22:42:09.355] > ZNet: SZombienet -> SZombienet: CloseConnection
+LOG  : Network     , 1712961729355> 20,483,690> [12-04-24 22:42:09.355] > ZNet: CloseConnection: Finally disconnected (1101) SteamID=76561198430296167
+LOG  : Network     , 1712961729355> 20,483,690> [12-04-24 22:42:09.355] > ZNet: SZombienet -> SSteamSDK: CloseP2PSessionWithUser
+LOG  : Network     , 1712961729355> 20,483,691> [12-04-24 22:42:09.355] > ZNet: SZombienet -> SSteamSDK: EndAuthSession

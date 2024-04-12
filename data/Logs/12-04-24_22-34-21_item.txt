@@ -3,3 +3,19 @@
 [12-04-24 22:35:07.255] 76561198430296167 "DonDiogo" floor +1 10917,10090,1 [Base.PipeWrench].
 [12-04-24 22:35:53.161] 76561198430296167 "DonDiogo" floor +1 10913,10094,0 [Base.UnusableWood].
 [12-04-24 22:35:53.162] 76561198430296167 "DonDiogo" floor +1 10913,10094,0 [Base.Doorknob].
+[12-04-24 22:36:39.959] 76561198430296167 "DonDiogo" container -1 10974,9783,0 [Base.BluePen].
+[12-04-24 22:36:54.951] 76561198430296167 "DonDiogo" container -1 10974,9781,0 [Base.Bandage].
+[12-04-24 22:37:00.951] 76561198430296167 "DonDiogo" container -2 10974,9778,0 [Base.CannedMilk, Base.CannedFruitCocktail].
+[12-04-24 22:37:03.961] 76561198430296167 "DonDiogo" container -2 10974,9778,0 [Base.CannedMushroomSoup, Base.CannedSardines].
+[12-04-24 22:37:24.955] 76561198430296167 "DonDiogo" container -1 10981,9783,0 [Base.EmptyPetrolCan].
+[12-04-24 22:38:06.691] 76561198430296167 "DonDiogo" floor +1 10955,9784,0 [Base.Hat_BandanaTINT].
+[12-04-24 22:38:27.955] 76561198430296167 "DonDiogo" container -2 10945,9781,0 [Base.TinOpener, Base.TunaTin].
+[12-04-24 22:38:30.957] 76561198430296167 "DonDiogo" container -1 10945,9781,0 [Base.CannedPeas].
+[12-04-24 22:38:33.961] 76561198430296167 "DonDiogo" container -1 10945,9782,0 [Base.Cereal].
+[12-04-24 22:38:45.954] 76561198430296167 "DonDiogo" container -1 10945,9783,0 [Base.Pan].
+[12-04-24 22:39:45.952] 76561198430296167 "DonDiogo" container -1 10922,9804,0 [Base.BeefJerky].
+[12-04-24 22:40:41.010] 76561198430296167 "DonDiogo" floor +1 10924,9805,0 [Base.Hat_Police_Grey].
+[12-04-24 22:41:18.958] 76561198430296167 "DonDiogo" container -1 10925,9797,0 [Base.Nightstick].
+[12-04-24 22:41:24.963] 76561198430296167 "DonDiogo" container -1 10925,9797,0 [Base.Jacket_Police].
+[12-04-24 22:41:27.965] 76561198430296167 "DonDiogo" container +0 10925,9797,0 [Base.Shirt_Denim].
+[12-04-24 22:41:30.954] 76561198430296167 "DonDiogo" container +0 10925,9797,0 [Base.Vest_DefaultTEXTURE_TINT].
