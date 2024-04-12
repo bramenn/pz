@@ -1,0 +1,2 @@
+[11-04-24 00:27:31.132] 76561199040661533 "bramen" removed IsoBrokenGlass (brokenglass_1_2) at 10602,9411,0.
+[11-04-24 00:32:53.601] 76561199040661533 "bramen" added IsoBrokenGlass (brokenglass_1_0) at 10597.0,9309.0,0.0.

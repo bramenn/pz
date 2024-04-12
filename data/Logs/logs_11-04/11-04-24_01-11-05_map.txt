@@ -1,0 +1,16 @@
+[11-04-24 01:11:05.039] 76561198430296167 "DonDiogo" removed Door (fixtures_doors_02_40) at 10624,9224,0.
+[11-04-24 01:24:44.885] 76561199040661533 "bramen" removed IsoObject (location_community_school_01_33) at 10616,9223,1.
+[11-04-24 01:25:46.843] 76561198430296167 "DonDiogo" removed Door (fixtures_doors_01_16) at 10628,9234,0.
+[11-04-24 01:49:19.144] 76561199040661533 "bramen" removed Door (fixtures_doors_01_57) at 10627,9365,0.
+[11-04-24 01:52:04.080] 76561198430296167 "DonDiogo" removed Door (fixtures_doors_02_17) at 10610,9437,0.
+[11-04-24 01:54:29.401] 76561199040661533 "bramen" removed Radio (appliances_radio_01_0) at 10631,9382,0.
+[11-04-24 01:54:41.217] 76561198430296167 "DonDiogo" removed Door (fixtures_doors_01_25) at 10630,9438,0.
+[11-04-24 01:55:08.565] 76561199040661533 "bramen" removed Door (fixtures_doors_01_60) at 10622,9438,0.
+[11-04-24 01:56:06.678] 76561198430296167 "DonDiogo" removed Door (fixtures_doors_01_49) at 10621,9444,0.
+[11-04-24 01:56:29.055] 76561199040661533 "bramen" removed Door (fixtures_doors_01_49) at 10610,9444,0.
+[11-04-24 02:01:57.839] 76561198430296167 "DonDiogo" removed Door (fixtures_doors_01_13) at 10655,9423,0.
+[11-04-24 02:04:43.211] 76561199040661533 "bramen" removed Door (location_restaurant_pileocrepe_01_52) at 10619,9509,0.
+[11-04-24 02:04:46.784] 76561199040661533 "bramen" removed Door (location_restaurant_pileocrepe_01_49) at 10622,9521,0.
+[11-04-24 02:05:01.166] 76561199040661533 "bramen" removed Door (fixtures_doors_01_60) at 10622,9509,0.
+[11-04-24 02:07:42.262] 76561198430296167 "DonDiogo" removed Door (fixtures_doors_02_17) at 10612,9437,0.
+[11-04-24 02:14:16.211] 76561198430296167 "DonDiogo" removed Door (fixtures_doors_02_45) at 10620,9576,0.

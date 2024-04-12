@@ -1,0 +1,20 @@
+[11-04-24 01:07:26.636] added connection index=0 181.129.215.156.
+[11-04-24 01:07:27.691] 76561199040661533 "bramen" attempting to join.
+[11-04-24 01:07:27.693] 76561199040661533 "bramen" allowed to join.
+[11-04-24 01:07:34.259] added connection index=1 190.128.47.86.
+[11-04-24 01:07:35.341] 76561198430296167 "DonDiogo" attempting to join.
+[11-04-24 01:07:35.342] 76561198430296167 "DonDiogo" allowed to join.
+[11-04-24 01:07:35.947] 76561199040661533 "bramen" attempting to join used queue.
+[11-04-24 01:07:47.782] player bramen loading time was: 11539 ms.
+[11-04-24 01:07:49.261] 76561198430296167 "DonDiogo" attempting to join used queue.
+[11-04-24 01:07:51.232] 76561199040661533 "bramen" fully connected (10597,9272,0).
+[11-04-24 01:08:01.294] player DonDiogo loading time was: 11370 ms.
+[11-04-24 01:08:04.384] 76561198430296167 "DonDiogo" fully connected (10635,9242,0).
+[11-04-24 01:11:33.613] user bramen died at (10631,9227,0) (non pvp).
+[11-04-24 01:11:50.632] 76561199040661533 "bramen" disconnected player (10631,9227,0).
+[11-04-24 01:11:53.206] 76561199040661533 "bramen" fully connected (10951,9490,0).
+[11-04-24 02:43:24.043] Error: Dupe item ID for bramen (10635,9609,0).
+[11-04-24 03:11:17.133] 76561198430296167 "DonDiogo" removed connection index=1.
+[11-04-24 03:11:17.144] 76561198430296167 "DonDiogo" disconnected player (10757,10553,0).
+[11-04-24 03:11:51.109] 76561199040661533 "bramen" removed connection index=0.
+[11-04-24 03:11:51.121] 76561199040661533 "bramen" disconnected player (10767,10569,0).

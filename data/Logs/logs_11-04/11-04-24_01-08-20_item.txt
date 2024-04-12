@@ -1,0 +1,541 @@
+[11-04-24 01:08:20.940] 76561198430296167 "DonDiogo" floor +1 10628,9250,0 [Base.Glasses_Reading].
+[11-04-24 01:08:52.403] 76561198430296167 "DonDiogo" container -20 10625,9254,0 [Base.Cigarettes].
+[11-04-24 01:11:05.035] 76561198430296167 "DonDiogo" floor +1 10624,9224,0 [Base.Doorknob].
+[11-04-24 01:11:12.807] 76561199040661533 "bramen" floor +1 10630,9223,0 [Base.Glasses_SafetyGoggles].
+[11-04-24 01:11:21.939] 76561199040661533 "bramen" floor +1 10630,9228,0 [Base.RippedSheets].
+[11-04-24 01:11:21.939] 76561199040661533 "bramen" floor +1 10630,9228,0 [Base.RippedSheets].
+[11-04-24 01:11:21.940] 76561199040661533 "bramen" floor +1 10630,9228,0 [Base.RippedSheets].
+[11-04-24 01:11:21.955] 76561199040661533 "bramen" floor +1 10630,9228,0 [Base.RippedSheetsDirty].
+[11-04-24 01:11:21.972] 76561199040661533 "bramen" floor +1 10630,9228,0 [Base.RedPen].
+[11-04-24 01:11:21.987] 76561199040661533 "bramen" floor +1 10630,9228,0 [Base.WristWatch_Left_DigitalBlack].
+[11-04-24 01:11:22.005] 76561199040661533 "bramen" floor +1 10630,9228,0 [Base.MarchRidgeMap].
+[11-04-24 01:11:22.022] 76561199040661533 "bramen" floor +1 10630,9228,0 [Base.Pop3Empty].
+[11-04-24 01:11:22.056] 76561199040661533 "bramen" floor +1 10630,9228,0 [Base.PillsVitamins].
+[11-04-24 01:11:22.090] 76561199040661533 "bramen" floor +1 10630,9228,0 [Base.Pop].
+[11-04-24 01:11:22.123] 76561199040661533 "bramen" floor +1 10630,9228,0 [Base.Disinfectant].
+[11-04-24 01:11:22.173] 76561199040661533 "bramen" floor +1 10630,9228,0 [Base.Screwdriver].
+[11-04-24 01:11:22.219] 76561199040661533 "bramen" floor +1 10630,9228,0 [Base.HandTorch].
+[11-04-24 01:11:22.269] 76561199040661533 "bramen" floor +1 10630,9228,0 [Base.HandTorch].
+[11-04-24 01:11:22.318] 76561199040661533 "bramen" floor +1 10630,9228,0 [Base.HandTorch].
+[11-04-24 01:11:22.388] 76561199040661533 "bramen" floor +1 10630,9228,0 [Base.TinOpener].
+[11-04-24 01:11:22.487] 76561199040661533 "bramen" floor +1 10630,9228,0 [Base.CannedCarrots2].
+[11-04-24 01:11:22.569] 76561199040661533 "bramen" floor +1 10630,9228,0 [Base.CannedBolognese].
+[11-04-24 01:11:22.669] 76561199040661533 "bramen" floor +1 10630,9228,0 [Base.SheetRope].
+[11-04-24 01:11:22.789] 76561199040661533 "bramen" floor +1 10630,9228,0 [Base.BallPeenHammer].
+[11-04-24 01:11:22.915] 76561199040661533 "bramen" floor +1 10630,9228,0 [Base.Hammer].
+[11-04-24 01:11:33.610] 76561199040661533 "bramen" floor +1 10631,9227,0 [Base.Crowbar].
+[11-04-24 01:12:19.402] 76561198430296167 "DonDiogo" container -1 10616,9219,0 [Base.Carrots].
+[11-04-24 01:12:30.193] 76561199040661533 "bramen" container -3 10949,9494,0 [Base.JuiceBox, Base.Salami, Base.Baloney].
+[11-04-24 01:13:03.184] 76561199040661533 "bramen" container -2 10950,9485,0 [Base.Shirt_FormalWhite, Base.Socks_Ankle].
+[11-04-24 01:13:10.395] 76561198430296167 "DonDiogo" container -21 10620,9216,0 [Base.Cigarettes, Base.Lighter].
+[11-04-24 01:17:37.946] 76561199040661533 "bramen" floor +1 10616,9313,0 [Base.Glasses_Reading].
+[11-04-24 01:17:55.421] 76561198430296167 "DonDiogo" container -1 10619,9310,0 [Base.RosewoodMap].
+[11-04-24 01:17:57.178] 76561199040661533 "bramen" container -1 10618,9308,0 [Base.PipeWrench].
+[11-04-24 01:18:39.507] 76561199040661533 "bramen" floor -1 10630,9228,0 [Base.RippedSheets].
+[11-04-24 01:18:39.507] 76561199040661533 "bramen" floor -1 10630,9228,0 [Base.RippedSheets].
+[11-04-24 01:18:39.507] 76561199040661533 "bramen" floor -1 10630,9228,0 [Base.RippedSheets].
+[11-04-24 01:18:39.556] 76561199040661533 "bramen" floor -1 10630,9228,0 [Base.RippedSheetsDirty].
+[11-04-24 01:18:39.676] 76561199040661533 "bramen" floor -1 10630,9228,0 [Base.RedPen].
+[11-04-24 01:18:39.791] 76561199040661533 "bramen" floor -1 10630,9228,0 [Base.WristWatch_Left_DigitalBlack].
+[11-04-24 01:18:39.906] 76561199040661533 "bramen" floor -1 10630,9228,0 [Base.MarchRidgeMap].
+[11-04-24 01:18:40.025] 76561199040661533 "bramen" floor -1 10630,9228,0 [Base.Pop3Empty].
+[11-04-24 01:18:40.238] 76561199040661533 "bramen" floor -1 10630,9228,0 [Base.PillsVitamins].
+[11-04-24 01:18:40.558] 76561199040661533 "bramen" floor -1 10630,9228,0 [Base.Pop].
+[11-04-24 01:18:40.874] 76561199040661533 "bramen" floor -1 10630,9228,0 [Base.Disinfectant].
+[11-04-24 01:18:41.290] 76561199040661533 "bramen" floor -1 10630,9228,0 [Base.Screwdriver].
+[11-04-24 01:18:41.825] 76561199040661533 "bramen" floor -1 10630,9228,0 [Base.HandTorch].
+[11-04-24 01:18:42.356] 76561199040661533 "bramen" floor -1 10630,9228,0 [Base.HandTorch].
+[11-04-24 01:18:42.889] 76561199040661533 "bramen" floor -1 10630,9228,0 [Base.HandTorch].
+[11-04-24 01:18:43.527] 76561199040661533 "bramen" floor -1 10630,9228,0 [Base.TinOpener].
+[11-04-24 01:18:44.357] 76561199040661533 "bramen" floor -1 10630,9228,0 [Base.CannedCarrots2].
+[11-04-24 01:18:45.190] 76561199040661533 "bramen" floor -1 10630,9228,0 [Base.CannedBolognese].
+[11-04-24 01:18:46.042] 76561199040661533 "bramen" floor -1 10630,9228,0 [Base.SheetRope].
+[11-04-24 01:18:47.093] 76561199040661533 "bramen" floor -1 10630,9228,0 [Base.BallPeenHammer].
+[11-04-24 01:18:48.143] 76561199040661533 "bramen" floor -1 10630,9228,0 [Base.Hammer].
+[11-04-24 01:18:51.179] 76561199040661533 "bramen" container -6 10631,9227,0 [Base.Wound_Neck_Bite_Male, Base.Bandage_LeftHand, Base.KeyRing, Base.Bandage_Abdomen, Base.Wound_LForearm_Bite_Male, Base.Wound_Chest_Bite_Male].
+[11-04-24 01:18:54.175] 76561199040661533 "bramen" container -5 10631,9227,0 [Base.Belt2, Base.Shoes_Random, Base.Trousers_Denim, Base.Socks_Ankle, Base.Hat_DustMask].
+[11-04-24 01:18:57.180] 76561199040661533 "bramen" container -3 10631,9227,0 [Base.Jumper_RoundNeck, Base.Shirt_Denim, Base.Hat_HardHat].
+[11-04-24 01:19:00.177] 76561199040661533 "bramen" container -1 10631,9227,0 [Base.Jacket_WhiteTINT].
+[11-04-24 01:19:03.451] 76561199040661533 "bramen" floor +1 10632,9228,0 [Base.Belt2].
+[11-04-24 01:19:13.001] 76561199040661533 "bramen" floor +1 10632,9228,0 [Base.Shirt_Denim].
+[11-04-24 01:19:30.148] 76561199040661533 "bramen" floor +1 10632,9228,0 [Base.RippedSheetsDirty].
+[11-04-24 01:19:34.349] 76561199040661533 "bramen" floor +1 10632,9228,0 [Base.Shoes_Random].
+[11-04-24 01:19:39.466] 76561199040661533 "bramen" floor +1 10632,9228,0 [Base.Trousers_Denim].
+[11-04-24 01:19:52.149] 76561199040661533 "bramen" floor +1 10632,9228,0 [Base.BallPeenHammer].
+[11-04-24 01:20:02.316] 76561199040661533 "bramen" floor +1 10632,9228,0 [Base.Pop3Empty].
+[11-04-24 01:20:06.550] 76561199040661533 "bramen" floor +1 10632,9228,0 [Base.Socks_Ankle].
+[11-04-24 01:21:19.407] 76561198430296167 "DonDiogo" container -1 10616,9215,0 [Base.Baloney].
+[11-04-24 01:21:44.234] 76561199040661533 "bramen" floor -1 10631,9227,0 [Base.Crowbar].
+[11-04-24 01:21:57.761] 76561199040661533 "bramen" floor +1 10631,9227,0 [Base.PipeWrench].
+[11-04-24 01:22:03.594] 76561199040661533 "bramen" floor +1 10631,9227,0 [Base.Hat_DustMask].
+[11-04-24 01:22:56.231] 76561199040661533 "bramen" floor +1 10618,9218,0 [Base.MarchRidgeMap].
+[11-04-24 01:23:01.645] 76561198430296167 "DonDiogo" floor -1 10618,9218,0 [Base.MarchRidgeMap].
+[11-04-24 01:23:14.836] 76561199040661533 "bramen" floor +1 10617,9219,0 [Base.SheetRope].
+[11-04-24 01:23:14.934] 76561199040661533 "bramen" floor +1 10617,9219,0 [Base.SheetRope].
+[11-04-24 01:23:15.044] 76561199040661533 "bramen" floor +1 10617,9219,0 [Base.SheetRope].
+[11-04-24 01:23:18.668] 76561198430296167 "DonDiogo" floor +1 10618,9218,0 [Base.MarchRidgeMap].
+[11-04-24 01:23:20.051] 76561198430296167 "DonDiogo" floor +1 10618,9218,0 [Base.RosewoodMap].
+[11-04-24 01:23:23.227] 76561199040661533 "bramen" floor +1 10617,9219,0 [Base.PopEmpty].
+[11-04-24 01:23:25.049] 76561198430296167 "DonDiogo" floor -1 10617,9219,0 [Base.SheetRope].
+[11-04-24 01:23:25.908] 76561198430296167 "DonDiogo" floor -1 10617,9219,0 [Base.SheetRope].
+[11-04-24 01:23:26.764] 76561198430296167 "DonDiogo" floor -1 10617,9219,0 [Base.SheetRope].
+[11-04-24 01:23:33.165] 76561199040661533 "bramen" container -2 10616,9219,0 [Base.Corn, Base.Milk].
+[11-04-24 01:23:52.653] 76561198430296167 "DonDiogo" floor -1 10632,9228,0 [Base.BallPeenHammer].
+[11-04-24 01:25:10.422] 76561199040661533 "bramen" floor +1 10622,9221,0 [Base.Screwdriver].
+[11-04-24 01:25:15.036] 76561198430296167 "DonDiogo" floor -1 10622,9221,0 [Base.Screwdriver].
+[11-04-24 01:25:46.846] 76561198430296167 "DonDiogo" floor +1 10628,9234,0 [Base.Doorknob].
+[11-04-24 01:25:46.847] 76561198430296167 "DonDiogo" floor +1 10628,9234,0 [Base.UnusableWood].
+[11-04-24 01:25:46.847] 76561198430296167 "DonDiogo" floor +1 10628,9234,0 [Base.UnusableWood].
+[11-04-24 01:25:57.910] 76561198430296167 "DonDiogo" floor +1 10623,9233,1 [Base.Glasses_Reading].
+[11-04-24 01:26:07.410] 76561198430296167 "DonDiogo" container -1 10622,9232,1 [Base.JacketLong_Random].
+[11-04-24 01:26:28.406] 76561198430296167 "DonDiogo" container -1 10616,9229,1 [Base.PillsVitamins].
+[11-04-24 01:27:48.165] 76561199040661533 "bramen" container -1 10621,9227,1 [Base.DuctTape].
+[11-04-24 01:28:03.157] 76561199040661533 "bramen" container -1 10619,9229,1 [Base.AlarmClock2].
+[11-04-24 01:28:05.195] 76561199040661533 "bramen" container -1 10619,9229,1 [Base.PillsVitamins].
+[11-04-24 01:28:34.411] 76561198430296167 "DonDiogo" container -1 10616,9233,1 [Base.CarKey].
+[11-04-24 01:28:37.418] 76561198430296167 "DonDiogo" container -1 10616,9233,1 [Base.CannedCarrots2].
+[11-04-24 01:28:40.408] 76561198430296167 "DonDiogo" container -1 10616,9233,1 [Base.CannedTomato2].
+[11-04-24 01:28:43.408] 76561198430296167 "DonDiogo" container -1 10616,9232,1 [Base.Milk].
+[11-04-24 01:28:55.407] 76561198430296167 "DonDiogo" container -3 10619,9234,1 [Base.Crisps, Base.Cereal, Base.BeefJerky].
+[11-04-24 01:29:01.412] 76561198430296167 "DonDiogo" container -1 10616,9234,1 [Base.MeatCleaver].
+[11-04-24 01:29:04.416] 76561198430296167 "DonDiogo" container +0 10616,9234,1 [Base.KitchenKnife].
+[11-04-24 01:29:40.675] 76561198430296167 "DonDiogo" floor +1 10625,9228,1 [Base.HoodieUP_WhiteTINT].
+[11-04-24 01:30:22.407] 76561198430296167 "DonDiogo" container +0 10622,9241,0 [Base.Rake].
+[11-04-24 01:32:04.408] 76561198430296167 "DonDiogo" container -1 10643,9320,0 [Base.EmptyPetrolCan].
+[11-04-24 01:35:49.406] 76561198430296167 "DonDiogo" container +0 10635,9317,0 [Base.EmptyPetrolCan].
+[11-04-24 01:36:10.417] 76561198430296167 "DonDiogo" container +0 10635,9317,0 [Base.Jacket_WhiteTINT].
+[11-04-24 01:36:12.145] 76561199040661533 "bramen" container -1 10616,9321,0 [Base.Glasses_SafetyGoggles].
+[11-04-24 01:36:12.154] 76561198430296167 "DonDiogo" floor +1 10637,9316,0 [Base.Jacket_WhiteTINT].
+[11-04-24 01:36:13.409] 76561198430296167 "DonDiogo" container -1 10635,9317,0 [Base.Jacket_WhiteTINT].
+[11-04-24 01:36:18.146] 76561199040661533 "bramen" container -1 10616,9321,0 [Base.BallPeenHammer].
+[11-04-24 01:36:24.149] 76561199040661533 "bramen" container -1 10616,9321,0 [Base.Screwdriver].
+[11-04-24 01:36:39.146] 76561199040661533 "bramen" container -2 10620,9321,0 [farming.TomatoBagSeed, farming.CarrotBagSeed].
+[11-04-24 01:36:48.142] 76561199040661533 "bramen" container -2 10622,9321,0 [Base.GardenSaw, Base.DuctTape].
+[11-04-24 01:36:51.141] 76561199040661533 "bramen" container -1 10622,9321,0 [Base.ScrewsBox].
+[11-04-24 01:36:54.148] 76561199040661533 "bramen" container -1 10622,9321,0 [Base.Hat_DustMask].
+[11-04-24 01:37:00.147] 76561199040661533 "bramen" container -2 10623,9321,0 [Base.NailsBox].
+[11-04-24 01:37:03.147] 76561199040661533 "bramen" container -1 10623,9321,0 [Base.Woodglue].
+[11-04-24 01:37:06.147] 76561199040661533 "bramen" container -2 10623,9321,0 [Base.ScrewsBox].
+[11-04-24 01:37:15.144] 76561199040661533 "bramen" container -1 10626,9321,0 [Base.HandAxe].
+[11-04-24 01:37:25.415] 76561198430296167 "DonDiogo" container -1 10643,9320,0 [Base.PopBottleEmpty].
+[11-04-24 01:37:57.140] 76561199040661533 "bramen" container +0 10635,9317,0 [Base.NailsBox].
+[11-04-24 01:37:58.424] 76561198430296167 "DonDiogo" container -1 10625,9315,0 [Base.Hat_HardHat].
+[11-04-24 01:38:00.141] 76561199040661533 "bramen" container +0 10635,9317,0 [Base.ScrewsBox].
+[11-04-24 01:38:03.146] 76561199040661533 "bramen" container +0 10635,9317,0 [Base.DuctTape].
+[11-04-24 01:38:09.147] 76561199040661533 "bramen" container +0 10635,9317,0 [Base.BallPeenHammer].
+[11-04-24 01:38:12.143] 76561199040661533 "bramen" container +0 10635,9317,0 [Base.Hat_DustMask].
+[11-04-24 01:38:18.139] 76561199040661533 "bramen" container +0 10635,9317,0 [Base.AlarmClock2].
+[11-04-24 01:38:46.411] 76561198430296167 "DonDiogo" container -1 10616,9322,0 [Base.Screwdriver].
+[11-04-24 01:38:48.143] 76561199040661533 "bramen" container +0 10635,9317,0 [Base.GardenSaw, Base.Woodglue].
+[11-04-24 01:38:51.149] 76561199040661533 "bramen" container +0 10635,9317,0 [farming.TomatoBagSeed, farming.CarrotBagSeed].
+[11-04-24 01:39:09.142] 76561199040661533 "bramen" container +0 10635,9317,0 [Base.HandAxe].
+[11-04-24 01:39:54.138] 76561199040661533 "bramen" container -1 10626,9315,0 [Base.BucketEmpty].
+[11-04-24 01:39:55.416] 76561198430296167 "DonDiogo" container -1 10635,9317,0 [Base.HandAxe].
+[11-04-24 01:39:57.145] 76561199040661533 "bramen" container -2 10625,9315,0 [Base.ScrewsBox, Base.NailsBox].
+[11-04-24 01:39:58.416] 76561198430296167 "DonDiogo" container +0 10635,9317,0 [Base.MeatCleaver].
+[11-04-24 01:40:06.137] 76561199040661533 "bramen" container -2 10624,9315,0 [Base.DuctTape, Base.NailsBox].
+[11-04-24 01:40:18.138] 76561199040661533 "bramen" container -1 10620,9315,0 [Base.Wire].
+[11-04-24 01:40:21.145] 76561199040661533 "bramen" container -1 10620,9315,0 [Base.MetalPipe].
+[11-04-24 01:40:25.415] 76561198430296167 "DonDiogo" container +0 10635,9317,0 [Base.Crowbar].
+[11-04-24 01:40:31.411] 76561198430296167 "DonDiogo" container +0 10635,9317,0 [Base.Screwdriver].
+[11-04-24 01:40:42.139] 76561199040661533 "bramen" container -2 10616,9315,0 [Base.Rope, Base.HandAxe].
+[11-04-24 01:40:46.420] 76561198430296167 "DonDiogo" container -1 10615,9308,0 [Base.Crisps].
+[11-04-24 01:41:36.139] 76561199040661533 "bramen" container -1 10619,9314,0 [Base.Axe].
+[11-04-24 01:41:39.137] 76561199040661533 "bramen" container -1 10619,9314,0 [Base.LugWrench].
+[11-04-24 01:41:45.346] 76561199040661533 "bramen" floor +1 10616,9312,0 [Base.Axe].
+[11-04-24 01:42:08.711] 76561198430296167 "DonDiogo" floor -1 10616,9312,0 [Base.Axe].
+[11-04-24 01:42:18.141] 76561199040661533 "bramen" container -1 10622,9313,0 [Base.Rope].
+[11-04-24 01:42:31.414] 76561198430296167 "DonDiogo" container +0 10635,9317,0 [Base.CannedCarrots2, Base.CannedTomato2].
+[11-04-24 01:42:34.418] 76561198430296167 "DonDiogo" container +0 10635,9317,0 [Base.PillsVitamins].
+[11-04-24 01:42:45.131] 76561199040661533 "bramen" container -1 10624,9313,0 [Base.PipeWrench].
+[11-04-24 01:42:57.136] 76561199040661533 "bramen" container -1 10624,9313,0 [Base.HandAxe].
+[11-04-24 01:43:00.131] 76561199040661533 "bramen" container -1 10624,9313,0 [Base.Hammer].
+[11-04-24 01:43:18.132] 76561199040661533 "bramen" container +0 10635,9317,0 [Base.Rope].
+[11-04-24 01:43:29.018] 76561199040661533 "bramen" floor +1 10637,9316,0 [Base.TinCanEmpty].
+[11-04-24 01:43:30.135] 76561199040661533 "bramen" container +0 10635,9317,0 [Base.HandAxe].
+[11-04-24 01:43:45.308] 76561199040661533 "bramen" floor +1 10637,9316,0 [Base.LugWrench].
+[11-04-24 01:43:53.614] 76561199040661533 "bramen" floor -1 10637,9316,0 [Base.LugWrench].
+[11-04-24 01:44:06.138] 76561199040661533 "bramen" container +0 10635,9317,0 [Base.LugWrench].
+[11-04-24 01:44:12.140] 76561199040661533 "bramen" container +0 10635,9317,0 [Base.BucketEmpty, Base.ScrewsBox].
+[11-04-24 01:44:15.139] 76561199040661533 "bramen" container +0 10635,9317,0 [Base.NailsBox].
+[11-04-24 01:44:27.260] 76561199040661533 "bramen" floor +1 10638,9315,0 [Base.DuctTape].
+[11-04-24 01:44:29.358] 76561199040661533 "bramen" floor +1 10638,9315,0 [Base.Wire].
+[11-04-24 01:44:35.523] 76561199040661533 "bramen" floor +1 10638,9315,0 [Base.MetalPipe].
+[11-04-24 01:44:49.418] 76561198430296167 "DonDiogo" container -1 10610,9362,0 [Base.LouisvilleMap1].
+[11-04-24 01:44:54.007] 76561199040661533 "bramen" floor +1 10638,9315,0 [Base.Hammer].
+[11-04-24 01:45:26.969] 76561198430296167 "DonDiogo" floor +1 10608,9386,0 [Base.Hat_BaseballCap].
+[11-04-24 01:45:43.662] 76561198430296167 "DonDiogo" floor +1 10609,9386,0 [Base.Glasses_Reading].
+[11-04-24 01:47:02.141] 76561198430296167 "DonDiogo" floor +1 10614,9405,0 [Base.Glasses_Normal].
+[11-04-24 01:48:12.805] 76561198430296167 "DonDiogo" floor +1 10590,9350,0 [Base.SheetRope].
+[11-04-24 01:48:12.887] 76561198430296167 "DonDiogo" floor +1 10590,9350,0 [Base.SheetRope].
+[11-04-24 01:48:13.010] 76561198430296167 "DonDiogo" floor +1 10590,9350,0 [Base.SheetRope].
+[11-04-24 01:48:22.429] 76561198430296167 "DonDiogo" container -1 10588,9350,0 [Base.Socks_Ankle].
+[11-04-24 01:49:19.145] 76561199040661533 "bramen" floor +1 10627,9365,0 [Base.Hinge].
+[11-04-24 01:49:19.146] 76561199040661533 "bramen" floor +1 10627,9365,0 [Base.UnusableWood].
+[11-04-24 01:49:39.128] 76561199040661533 "bramen" container -1 10628,9361,0 [Base.Hat_FootballHelmet].
+[11-04-24 01:49:54.131] 76561199040661533 "bramen" container -1 10627,9361,0 [Base.BucketEmpty].
+[11-04-24 01:50:08.049] 76561199040661533 "bramen" floor +1 10628,9362,0 [Base.BucketEmpty].
+[11-04-24 01:50:36.926] 76561199040661533 "bramen" floor +1 10616,9366,0 [Base.Glasses_SafetyGoggles].
+[11-04-24 01:51:42.123] 76561199040661533 "bramen" container -1 10629,9376,0 [Base.Wrench].
+[11-04-24 01:51:45.312] 76561199040661533 "bramen" floor +1 10630,9377,0 [Base.Hat_HardHat].
+[11-04-24 01:52:04.080] 76561198430296167 "DonDiogo" floor +1 10610,9437,0 [Base.UnusableWood].
+[11-04-24 01:52:04.080] 76561198430296167 "DonDiogo" floor +1 10610,9437,0 [Base.Doorknob].
+[11-04-24 01:52:30.124] 76561199040661533 "bramen" container -1 10633,9377,0 [Base.Hat_DustMask].
+[11-04-24 01:52:48.118] 76561199040661533 "bramen" container -1 10635,9375,0 [Base.Saw].
+[11-04-24 01:53:12.116] 76561199040661533 "bramen" container -1 10632,9380,0 [Base.BlowTorch].
+[11-04-24 01:53:16.195] 76561199040661533 "bramen" floor +1 10633,9381,0 [Base.Hat_DustMask].
+[11-04-24 01:53:30.122] 76561199040661533 "bramen" container -1 10631,9380,0 [Base.ClubHammer].
+[11-04-24 01:54:23.463] 76561198430296167 "DonDiogo" floor +1 10624,9451,0 [Base.Hat_FastFood].
+[11-04-24 01:54:32.582] 76561198430296167 "DonDiogo" floor +1 10624,9453,0 [Base.Glasses_Normal].
+[11-04-24 01:54:41.216] 76561198430296167 "DonDiogo" floor +1 10630,9438,0 [Base.SheetMetal].
+[11-04-24 01:54:41.217] 76561198430296167 "DonDiogo" floor +1 10630,9438,0 [Base.Doorknob].
+[11-04-24 01:54:41.217] 76561198430296167 "DonDiogo" floor +1 10630,9438,0 [Base.Hinge].
+[11-04-24 01:54:55.426] 76561198430296167 "DonDiogo" container -1 10623,9454,0 [Base.Lighter].
+[11-04-24 01:55:08.564] 76561199040661533 "bramen" floor +1 10622,9438,0 [Base.UnusableWood].
+[11-04-24 01:55:08.565] 76561199040661533 "bramen" floor +1 10622,9438,0 [Base.UnusableWood].
+[11-04-24 01:55:08.565] 76561199040661533 "bramen" floor +1 10622,9438,0 [Base.Doorknob].
+[11-04-24 01:55:36.317] 76561198430296167 "DonDiogo" floor +1 10620,9451,0 [Base.Glasses_Reading].
+[11-04-24 01:55:53.761] 76561198430296167 "DonDiogo" floor +1 10618,9453,0 [Base.Glasses_Normal].
+[11-04-24 01:56:06.677] 76561198430296167 "DonDiogo" floor +1 10621,9444,0 [Base.Doorknob].
+[11-04-24 01:56:06.677] 76561198430296167 "DonDiogo" floor +1 10621,9444,0 [Base.Hinge].
+[11-04-24 01:56:06.678] 76561198430296167 "DonDiogo" floor +1 10621,9444,0 [Base.Hinge].
+[11-04-24 01:56:09.518] 76561198430296167 "DonDiogo" floor +1 10622,9446,0 [Base.Hat_ChefHat].
+[11-04-24 01:56:11.427] 76561198430296167 "DonDiogo" floor +1 10622,9448,0 [Base.Hat_Ranger].
+[11-04-24 01:56:29.054] 76561199040661533 "bramen" floor +1 10610,9444,0 [Base.Doorknob].
+[11-04-24 01:56:29.055] 76561199040661533 "bramen" floor +1 10610,9444,0 [Base.Hinge].
+[11-04-24 01:56:45.114] 76561199040661533 "bramen" container +0 10615,9393,0 [Base.HandTorch].
+[11-04-24 01:56:48.114] 76561199040661533 "bramen" container +0 10615,9393,0 [Base.HandTorch].
+[11-04-24 01:56:51.117] 76561199040661533 "bramen" container +0 10615,9393,0 [Base.BlowTorch].
+[11-04-24 01:56:57.111] 76561199040661533 "bramen" container +0 10615,9393,0 [Base.Saw].
+[11-04-24 01:57:00.109] 76561199040661533 "bramen" container +0 10615,9393,0 [Base.PipeWrench].
+[11-04-24 01:57:04.431] 76561198430296167 "DonDiogo" container -1 10619,9458,0 [Base.Screwdriver].
+[11-04-24 01:57:06.116] 76561199040661533 "bramen" container +0 10615,9393,0 [Base.Wrench].
+[11-04-24 01:57:19.423] 76561198430296167 "DonDiogo" container +0 10619,9458,0 [Base.SnowShovel].
+[11-04-24 01:58:03.111] 76561199040661533 "bramen" container -1 10615,9393,0 [Base.BlowTorch].
+[11-04-24 01:58:28.427] 76561198430296167 "DonDiogo" container -1 10612,9465,0 [Base.Key2].
+[11-04-24 01:58:43.427] 76561198430296167 "DonDiogo" container -1 10607,9465,0 [Base.Key1].
+[11-04-24 01:58:45.112] 76561199040661533 "bramen" container -1 10630,9380,0 [Base.Glasses_SafetyGoggles].
+[11-04-24 01:59:46.438] 76561198430296167 "DonDiogo" container -6 10615,9393,0 [Base.Saw, Base.HandTorch, Base.PipeWrench, Base.Wrench].
+[11-04-24 01:59:46.439] 76561198430296167 "DonDiogo" container +0 10615,9393,0 [Base.Saw, Base.HandTorch, Base.PipeWrench, Base.Wrench].
+[11-04-24 02:00:37.854] 76561198430296167 "DonDiogo" floor +1 10616,9472,0 [Base.AlcoholRippedSheets].
+[11-04-24 02:00:45.620] 76561199040661533 "bramen" floor -1 10616,9472,0 [Base.AlcoholRippedSheets].
+[11-04-24 02:00:55.430] 76561198430296167 "DonDiogo" container -1 10612,9478,0 [Base.Key4].
+[11-04-24 02:01:12.103] 76561199040661533 "bramen" container -1 10612,9478,0 [Base.Apron_White].
+[11-04-24 02:01:18.105] 76561199040661533 "bramen" container -1 10612,9478,0 [Base.Socks_Ankle].
+[11-04-24 02:01:42.111] 76561199040661533 "bramen" container -1 10609,9478,0 [Base.WineEmpty2].
+[11-04-24 02:01:57.838] 76561198430296167 "DonDiogo" floor +1 10655,9423,0 [Base.UnusableWood].
+[11-04-24 02:01:57.838] 76561198430296167 "DonDiogo" floor +1 10655,9423,0 [Base.Doorknob].
+[11-04-24 02:01:57.839] 76561198430296167 "DonDiogo" floor +1 10655,9423,0 [Base.Hinge].
+[11-04-24 02:02:09.101] 76561199040661533 "bramen" container -1 10605,9477,0 [Base.Apron_White].
+[11-04-24 02:02:10.436] 76561198430296167 "DonDiogo" container +0 10609,9478,0 [Base.Pills].
+[11-04-24 02:02:10.775] 76561198430296167 "DonDiogo" floor +1 10610,9477,0 [Base.Pills].
+[11-04-24 02:02:13.436] 76561198430296167 "DonDiogo" container -1 10609,9478,0 [Base.Pills].
+[11-04-24 02:02:22.402] 76561199040661533 "bramen" floor -1 10610,9477,0 [Base.Pills].
+[11-04-24 02:02:28.434] 76561198430296167 "DonDiogo" container -1 10616,9478,0 [Base.EmptyPetrolCan].
+[11-04-24 02:02:43.429] 76561198430296167 "DonDiogo" container -1 10616,9478,0 [Base.LouisvilleMap5].
+[11-04-24 02:02:46.437] 76561198430296167 "DonDiogo" container -1 10616,9478,0 [Base.Lighter].
+[11-04-24 02:02:49.429] 76561198430296167 "DonDiogo" container -20 10616,9478,0 [Base.Cigarettes].
+[11-04-24 02:02:52.431] 76561198430296167 "DonDiogo" container -2 10616,9478,0 [Base.Matches, Base.Bandaid].
+[11-04-24 02:03:05.447] 76561198430296167 "DonDiogo" floor +1 10618,9478,0 [Base.LouisvilleMap1].
+[11-04-24 02:03:05.476] 76561198430296167 "DonDiogo" floor +1 10618,9478,0 [Base.LouisvilleMap5].
+[11-04-24 02:03:18.333] 76561199040661533 "bramen" floor -1 10618,9478,0 [Base.LouisvilleMap1].
+[11-04-24 02:03:18.452] 76561199040661533 "bramen" floor -1 10618,9478,0 [Base.LouisvilleMap5].
+[11-04-24 02:03:22.435] 76561198430296167 "DonDiogo" container +0 10620,9475,0 [Base.Lighter].
+[11-04-24 02:03:25.441] 76561198430296167 "DonDiogo" container +0 10620,9475,0 [Base.Screwdriver].
+[11-04-24 02:03:54.466] 76561199040661533 "bramen" floor +1 10620,9481,0 [Base.LouisvilleMap1].
+[11-04-24 02:03:54.495] 76561199040661533 "bramen" floor +1 10620,9481,0 [Base.LouisvilleMap5].
+[11-04-24 02:04:00.068] 76561199040661533 "bramen" floor -1 10620,9481,0 [Base.LouisvilleMap1].
+[11-04-24 02:04:12.341] 76561199040661533 "bramen" floor +1 10619,9482,0 [Base.LouisvilleMap1].
+[11-04-24 02:04:18.784] 76561199040661533 "bramen" floor -1 10620,9481,0 [Base.LouisvilleMap5].
+[11-04-24 02:04:33.711] 76561199040661533 "bramen" floor +1 10622,9482,0 [Base.LouisvilleMap5].
+[11-04-24 02:04:43.210] 76561199040661533 "bramen" floor +1 10619,9509,0 [Base.UnusableWood].
+[11-04-24 02:04:43.210] 76561199040661533 "bramen" floor +1 10619,9509,0 [Base.UnusableWood].
+[11-04-24 02:04:43.211] 76561199040661533 "bramen" floor +1 10619,9509,0 [Base.Doorknob].
+[11-04-24 02:04:46.783] 76561199040661533 "bramen" floor +1 10622,9521,0 [Base.UnusableWood].
+[11-04-24 02:04:46.783] 76561199040661533 "bramen" floor +1 10622,9521,0 [Base.Doorknob].
+[11-04-24 02:04:46.784] 76561199040661533 "bramen" floor +1 10622,9521,0 [Base.Hinge].
+[11-04-24 02:04:46.803] 76561198430296167 "DonDiogo" floor +1 10622,9521,0 [Base.UnusableWood].
+[11-04-24 02:04:46.804] 76561198430296167 "DonDiogo" floor +1 10622,9521,0 [Base.UnusableWood].
+[11-04-24 02:04:46.806] 76561198430296167 "DonDiogo" floor +1 10622,9521,0 [Base.Doorknob].
+[11-04-24 02:04:46.806] 76561198430296167 "DonDiogo" floor -1 10622,9521,0 [Base.UnusableWood].
+[11-04-24 02:05:01.166] 76561199040661533 "bramen" floor +1 10622,9509,0 [Base.UnusableWood].
+[11-04-24 02:05:01.166] 76561199040661533 "bramen" floor +1 10622,9509,0 [Base.Doorknob].
+[11-04-24 02:06:01.870] 76561198430296167 "DonDiogo" floor +1 10615,9526,0 [Base.Glasses_Normal].
+[11-04-24 02:06:10.069] 76561199040661533 "bramen" floor +1 10614,9496,0 [Base.Glasses_Reading].
+[11-04-24 02:06:24.983] 76561199040661533 "bramen" floor +1 10620,9487,0 [Base.Hat_Beret].
+[11-04-24 02:06:37.436] 76561198430296167 "DonDiogo" container -1 10620,9503,0 [].
+[11-04-24 02:06:55.473] 76561198430296167 "DonDiogo" floor +1 10628,9472,0 [Base.Hat_Beret].
+[11-04-24 02:07:40.437] 76561198430296167 "DonDiogo" container -1 10616,9503,0 [Base.PopBottleEmpty].
+[11-04-24 02:07:42.261] 76561198430296167 "DonDiogo" floor +1 10612,9437,0 [Base.UnusableWood].
+[11-04-24 02:07:42.262] 76561198430296167 "DonDiogo" floor +1 10612,9437,0 [Base.Doorknob].
+[11-04-24 02:08:51.097] 76561199040661533 "bramen" container -1 10625,9502,0 [Base.Orange].
+[11-04-24 02:08:57.090] 76561199040661533 "bramen" container -1 10625,9502,0 [Base.Cherry].
+[11-04-24 02:09:00.090] 76561199040661533 "bramen" container -1 10625,9503,0 [Base.Carrots].
+[11-04-24 02:09:06.097] 76561199040661533 "bramen" container -2 10625,9503,0 [Base.Milk, Base.Lime].
+[11-04-24 02:09:07.438] 76561198430296167 "DonDiogo" container -1 10626,9510,0 [Base.PancakesRecipe].
+[11-04-24 02:09:09.087] 76561199040661533 "bramen" container -2 10625,9503,0 [Base.Ham, farming.Strewberrie].
+[11-04-24 02:09:18.092] 76561199040661533 "bramen" container -1 10628,9510,0 [Base.Spoon].
+[11-04-24 02:09:30.096] 76561199040661533 "bramen" container +0 10629,9510,0 [Base.Spoon].
+[11-04-24 02:09:39.091] 76561199040661533 "bramen" container -3 10626,9510,0 [Base.PancakesRecipe].
+[11-04-24 02:09:40.982] 76561199040661533 "bramen" floor +1 10627,9509,0 [Base.Thread].
+[11-04-24 02:09:40.983] 76561199040661533 "bramen" floor +1 10627,9509,0 [Base.Thread].
+[11-04-24 02:09:40.983] 76561199040661533 "bramen" floor +1 10627,9509,0 [Base.Thread].
+[11-04-24 02:09:43.715] 76561199040661533 "bramen" floor +1 10627,9509,0 [Base.TinCanEmpty].
+[11-04-24 02:09:47.398] 76561199040661533 "bramen" floor +1 10627,9509,0 [Base.Hammer].
+[11-04-24 02:09:52.553] 76561199040661533 "bramen" floor +1 10627,9509,0 [Base.RippedSheetsDirty].
+[11-04-24 02:09:52.553] 76561199040661533 "bramen" floor +1 10627,9509,0 [Base.RippedSheetsDirty].
+[11-04-24 02:09:52.554] 76561199040661533 "bramen" floor +1 10627,9509,0 [Base.RippedSheetsDirty].
+[11-04-24 02:10:37.445] 76561198430296167 "DonDiogo" container -1 10614,9535,0 [Base.Bandaid].
+[11-04-24 02:11:24.445] 76561198430296167 "DonDiogo" floor +1 10624,9544,0 [Base.Glasses_Reading].
+[11-04-24 02:11:28.965] 76561198430296167 "DonDiogo" floor +1 10623,9543,0 [Base.Hat_BaseballCapKY].
+[11-04-24 02:12:02.221] 76561198430296167 "DonDiogo" floor +1 10638,9550,0 [Base.Hat_BaseballCap].
+[11-04-24 02:12:20.440] 76561198430296167 "DonDiogo" floor +1 10642,9567,0 [Base.Glasses_Reading].
+[11-04-24 02:13:29.324] 76561198430296167 "DonDiogo" floor +1 10621,9578,0 [Base.Hat_BaseballCap].
+[11-04-24 02:13:30.555] 76561199040661533 "bramen" floor +1 10620,9578,0 [Base.Hat_BaseballCap].
+[11-04-24 02:13:33.616] 76561198430296167 "DonDiogo" floor +1 10621,9580,0 [Base.Glasses_Normal].
+[11-04-24 02:14:07.549] 76561199040661533 "bramen" floor +1 10625,9579,0 [Base.BlowTorch].
+[11-04-24 02:14:16.210] 76561198430296167 "DonDiogo" floor +1 10620,9576,0 [Base.Doorknob].
+[11-04-24 02:14:17.825] 76561199040661533 "bramen" floor +1 10625,9579,0 [Base.ClubHammer].
+[11-04-24 02:14:43.443] 76561198430296167 "DonDiogo" container -21 10619,9575,0 [Base.Key1, Base.Cigarettes].
+[11-04-24 02:14:53.291] 76561199040661533 "bramen" floor +1 10621,9567,0 [Base.Glasses_Normal].
+[11-04-24 02:15:52.450] 76561198430296167 "DonDiogo" container -1 10621,9563,0 [Base.Key5].
+[11-04-24 02:16:18.084] 76561199040661533 "bramen" container -1 10620,9562,0 [Base.JacketLong_Random].
+[11-04-24 02:16:22.888] 76561199040661533 "bramen" floor +1 10621,9561,0 [Base.Shirt_Denim].
+[11-04-24 02:16:55.448] 76561198430296167 "DonDiogo" container -1 10621,9567,0 [Base.Key4].
+[11-04-24 02:17:34.443] 76561198430296167 "DonDiogo" container -1 10622,9556,0 [Base.Milk].
+[11-04-24 02:19:31.448] 76561198430296167 "DonDiogo" container -20 10624,9587,0 [Base.Cigarettes].
+[11-04-24 02:19:34.451] 76561198430296167 "DonDiogo" container -1 10624,9587,0 [Base.MarchRidgeMap].
+[11-04-24 02:19:37.448] 76561198430296167 "DonDiogo" container -1 10624,9587,0 [Base.RosewoodMap].
+[11-04-24 02:19:40.456] 76561198430296167 "DonDiogo" container +0 10624,9587,0 [Base.MarchRidgeMap].
+[11-04-24 02:19:43.455] 76561198430296167 "DonDiogo" container +0 10624,9587,0 [Base.RosewoodMap].
+[11-04-24 02:20:03.112] 76561199040661533 "bramen" floor +1 10626,9568,0 [Base.Jacket_WhiteTINT].
+[11-04-24 02:20:42.075] 76561199040661533 "bramen" container -1 10624,9587,0 [Base.FirstAidKit].
+[11-04-24 02:20:51.074] 76561199040661533 "bramen" container -1 10624,9587,0 [Base.Axe].
+[11-04-24 02:21:11.592] 76561199040661533 "bramen" floor +1 10606,9580,0 [Base.Glasses_Normal].
+[11-04-24 02:21:26.310] 76561198430296167 "DonDiogo" floor +1 10607,9576,0 [Base.Glasses_Normal].
+[11-04-24 02:21:31.520] 76561198430296167 "DonDiogo" floor +1 10607,9577,0 [Base.Glasses_Reading].
+[11-04-24 02:22:58.445] 76561198430296167 "DonDiogo" container -1 10606,9548,0 [Base.Socks_Ankle].
+[11-04-24 02:23:51.212] 76561199040661533 "bramen" floor +1 10601,9573,0 [Base.Cherry].
+[11-04-24 02:23:53.192] 76561199040661533 "bramen" floor +1 10601,9573,0 [Base.Ham].
+[11-04-24 02:23:54.795] 76561199040661533 "bramen" floor +1 10601,9573,0 [Base.Milk].
+[11-04-24 02:23:56.262] 76561199040661533 "bramen" floor +1 10601,9573,0 [Base.Lime].
+[11-04-24 02:24:01.451] 76561198430296167 "DonDiogo" container -1 10609,9587,0 [Base.FirstAidKit].
+[11-04-24 02:24:11.473] 76561198430296167 "DonDiogo" floor +1 10609,9584,0 [Base.FirstAidKit].
+[11-04-24 02:24:16.460] 76561198430296167 "DonDiogo" container -2 10609,9584,0 [Base.AlcoholWipes, Base.Bandage].
+[11-04-24 02:25:13.239] 76561199040661533 "bramen" floor +1 10595,9580,0 [Base.Glasses_Normal].
+[11-04-24 02:25:29.525] 76561198430296167 "DonDiogo" floor -1 10601,9573,0 [Base.Cherry].
+[11-04-24 02:25:35.473] 76561199040661533 "bramen" floor +1 10598,9577,0 [Base.RippedSheetsDirty].
+[11-04-24 02:25:35.474] 76561199040661533 "bramen" floor +1 10598,9577,0 [Base.RippedSheetsDirty].
+[11-04-24 02:25:47.364] 76561198430296167 "DonDiogo" floor -1 10601,9573,0 [Base.Ham].
+[11-04-24 02:26:14.366] 76561198430296167 "DonDiogo" floor -1 10601,9573,0 [Base.Lime].
+[11-04-24 02:26:16.380] 76561198430296167 "DonDiogo" floor -1 10601,9573,0 [Base.Milk].
+[11-04-24 02:26:45.673] 76561198430296167 "DonDiogo" floor +1 10637,9579,0 [Base.Hat_Beret].
+[11-04-24 02:27:28.397] 76561199040661533 "bramen" floor +1 10638,9574,0 [Base.Glasses_Normal].
+[11-04-24 02:27:32.201] 76561198430296167 "DonDiogo" floor +1 10639,9572,0 [Base.Glasses_Normal].
+[11-04-24 02:28:06.065] 76561199040661533 "bramen" container -1 10639,9556,0 [Base.Shorts_ShortFormal].
+[11-04-24 02:28:12.063] 76561199040661533 "bramen" container -1 10639,9556,0 [Base.Tshirt_PoloStripedTINT].
+[11-04-24 02:29:39.060] 76561199040661533 "bramen" container -1 10642,9592,0 [Base.Shirt_Denim].
+[11-04-24 02:29:42.063] 76561199040661533 "bramen" container -1 10642,9592,0 [Base.Scarf_White].
+[11-04-24 02:29:53.264] 76561198430296167 "DonDiogo" floor +1 10636,9605,0 [Base.Glasses_Reading].
+[11-04-24 02:30:33.062] 76561199040661533 "bramen" container -1 10623,9606,0 [Base.Cherry].
+[11-04-24 02:30:39.058] 76561199040661533 "bramen" container -1 10623,9606,0 [Base.Icing].
+[11-04-24 02:31:13.457] 76561198430296167 "DonDiogo" container -1 10623,9606,0 [Base.Margarine].
+[11-04-24 02:31:18.055] 76561199040661533 "bramen" container -1 10623,9609,0 [Base.PieBlueberry].
+[11-04-24 02:31:27.715] 76561199040661533 "bramen" floor +1 10620,9608,0 [Base.RippedSheetsDirty].
+[11-04-24 02:31:52.450] 76561198430296167 "DonDiogo" container -1 10623,9609,0 [Base.PieApple].
+[11-04-24 02:31:55.462] 76561198430296167 "DonDiogo" container -1 10623,9609,0 [Base.PieKeyLime].
+[11-04-24 02:31:58.455] 76561198430296167 "DonDiogo" container -1 10623,9611,0 [Base.DoughnutChocolate].
+[11-04-24 02:32:30.054] 76561199040661533 "bramen" container -1 10611,9610,0 [Base.WristWatch_Left_DigitalRed].
+[11-04-24 02:32:40.466] 76561198430296167 "DonDiogo" container -1 10620,9618,0 [Base.Battery].
+[11-04-24 02:32:56.377] 76561199040661533 "bramen" floor +1 10605,9613,0 [Base.Hat_Bandana].
+[11-04-24 02:32:57.396] 76561199040661533 "bramen" floor +1 10604,9612,0 [Base.Hat_BandanaMaskTINT].
+[11-04-24 02:33:16.451] 76561198430296167 "DonDiogo" container -1 10606,9610,0 [Base.LouisvilleMap6].
+[11-04-24 02:33:19.451] 76561198430296167 "DonDiogo" container +0 10606,9610,0 [Base.LouisvilleMap6].
+[11-04-24 02:33:21.062] 76561199040661533 "bramen" container -1 10606,9610,0 [Base.MarchRidgeMap].
+[11-04-24 02:33:24.057] 76561199040661533 "bramen" container -5 10606,9610,0 [Base.RosewoodMap, Base.LouisvilleMap6, Base.LouisvilleMap4].
+[11-04-24 02:33:30.058] 76561199040661533 "bramen" container -1 10607,9610,0 [Base.MagazineWordsearch1].
+[11-04-24 02:33:41.674] 76561198430296167 "DonDiogo" floor +1 10610,9621,0 [Base.Glasses_Normal].
+[11-04-24 02:33:42.059] 76561199040661533 "bramen" container -1 10607,9610,0 [Base.MagazineCrossword3].
+[11-04-24 02:34:09.052] 76561199040661533 "bramen" container -1 10608,9610,0 [Base.Pop2].
+[11-04-24 02:34:18.051] 76561199040661533 "bramen" container -1 10608,9610,0 [Base.Pop3].
+[11-04-24 02:34:21.053] 76561199040661533 "bramen" container -1 10609,9610,0 [Base.JuiceBox].
+[11-04-24 02:34:22.465] 76561198430296167 "DonDiogo" container -1 10601,9621,0 [Base.Pills].
+[11-04-24 02:34:33.059] 76561199040661533 "bramen" container -1 10609,9610,0 [Base.PeanutButterSandwich].
+[11-04-24 02:34:39.048] 76561199040661533 "bramen" container -1 10609,9613,0 [Base.PopBottle].
+[11-04-24 02:34:42.053] 76561199040661533 "bramen" container -1 10609,9613,0 [Base.WaterBottleFull].
+[11-04-24 02:34:45.057] 76561199040661533 "bramen" container -4 10609,9613,0 [Base.Pop2, Base.Pop3, Base.Pop].
+[11-04-24 02:34:58.077] 76561199040661533 "bramen" floor +1 10608,9612,0 [Base.Pop2Empty].
+[11-04-24 02:34:58.455] 76561198430296167 "DonDiogo" container -1 10594,9609,0 [Base.Matches].
+[11-04-24 02:35:02.745] 76561199040661533 "bramen" floor +1 10608,9612,0 [Base.WristWatch_Left_DigitalBlack].
+[11-04-24 02:35:05.932] 76561199040661533 "bramen" floor +1 10608,9612,0 [Base.PillsVitamins].
+[11-04-24 02:35:05.974] 76561199040661533 "bramen" floor +1 10608,9612,0 [Base.PillsVitamins].
+[11-04-24 02:35:09.002] 76561199040661533 "bramen" floor +1 10608,9612,0 [Base.PancakesRecipe].
+[11-04-24 02:35:09.034] 76561199040661533 "bramen" floor +1 10608,9612,0 [Base.PancakesRecipe].
+[11-04-24 02:35:09.077] 76561199040661533 "bramen" floor +1 10608,9612,0 [Base.PancakesRecipe].
+[11-04-24 02:35:27.507] 76561199040661533 "bramen" floor +1 10608,9612,0 [Base.FirstAidKit].
+[11-04-24 02:35:36.052] 76561199040661533 "bramen" container -1 10608,9612,0 [Base.Bandage].
+[11-04-24 02:35:40.768] 76561199040661533 "bramen" floor +1 10608,9612,0 [Base.Glasses_SafetyGoggles].
+[11-04-24 02:35:54.047] 76561199040661533 "bramen" container -1 10607,9613,0 [Base.WaterBottleFull].
+[11-04-24 02:35:57.049] 76561199040661533 "bramen" container -4 10607,9613,0 [Base.Pop2, Base.Pop3, Base.Pop].
+[11-04-24 02:36:18.046] 76561199040661533 "bramen" container -2 10607,9616,0 [Base.PopBottle, Base.WaterBottleFull].
+[11-04-24 02:36:24.050] 76561199040661533 "bramen" container -1 10609,9616,0 [Base.Jujubes].
+[11-04-24 02:36:36.054] 76561199040661533 "bramen" container -1 10609,9616,0 [Base.GummyWorms].
+[11-04-24 02:36:45.048] 76561199040661533 "bramen" container -1 10608,9616,0 [Base.Pop2].
+[11-04-24 02:36:48.047] 76561199040661533 "bramen" container -2 10608,9616,0 [Base.PopBottle, Base.WaterBottleFull].
+[11-04-24 02:37:03.057] 76561199040661533 "bramen" container -4 10602,9612,0 [Base.Jujubes, Base.PopBottle, Base.JellyBeans, Base.ChocoCakes].
+[11-04-24 02:37:06.051] 76561199040661533 "bramen" container -2 10602,9612,0 [Base.PopBottle, Base.WaterBottleFull].
+[11-04-24 02:37:12.047] 76561199040661533 "bramen" container -23 10602,9612,0 [Base.HiHis, Base.Pop3, Base.Cigarettes, Base.Lighter].
+[11-04-24 02:37:15.054] 76561199040661533 "bramen" container -2 10602,9612,0 [Base.Pop2, Base.Pop].
+[11-04-24 02:37:21.047] 76561199040661533 "bramen" container -87 10602,9611,0 [Base.BeefJerky, Base.Peanuts, Base.Cigarettes, Base.Chocolate, Base.QuaggaCakes, Base.Gum, Base.ChocoCakes].
+[11-04-24 02:37:24.048] 76561199040661533 "bramen" container -5 10602,9611,0 [Base.Crisps4, Base.Pop2, Base.Crisps2, Base.WaterBottleFull, Base.SnoGlobes].
+[11-04-24 02:37:36.053] 76561199040661533 "bramen" container -1 10607,9610,0 [Base.HerbalistMag].
+[11-04-24 02:37:46.967] 76561198430296167 "DonDiogo" floor +1 10628,9538,0 [Base.Hat_BaseballCap].
+[11-04-24 02:38:13.464] 76561198430296167 "DonDiogo" container -1 10626,9535,0 [Base.EmptyPetrolCan].
+[11-04-24 02:39:46.466] 76561198430296167 "DonDiogo" container +0 10635,9609,0 [Base.EmptyPetrolCan].
+[11-04-24 02:39:55.977] 76561198430296167 "DonDiogo" floor +1 10635,9606,0 [Base.Glasses_Reading].
+[11-04-24 02:40:39.047] 76561199040661533 "bramen" container +0 10635,9609,0 [Base.Peanuts].
+[11-04-24 02:40:42.043] 76561199040661533 "bramen" container +0 10635,9609,0 [Base.WineWaterFull, Base.WaterBottleFull].
+[11-04-24 02:40:45.042] 76561199040661533 "bramen" container +0 10635,9609,0 [Base.WaterBottleFull].
+[11-04-24 02:40:48.040] 76561199040661533 "bramen" container +0 10635,9609,0 [Base.WaterBottleFull].
+[11-04-24 02:40:54.049] 76561199040661533 "bramen" container +0 10635,9609,0 [Base.ChocoCakes].
+[11-04-24 02:41:08.492] 76561199040661533 "bramen" floor +1 10630,9603,0 [Base.SnoGlobes].
+[11-04-24 02:41:11.608] 76561199040661533 "bramen" floor +1 10631,9599,0 [Base.BeefJerky].
+[11-04-24 02:41:15.330] 76561199040661533 "bramen" floor +1 10632,9602,0 [Base.Chocolate].
+[11-04-24 02:41:18.425] 76561199040661533 "bramen" floor +1 10629,9605,0 [Base.Screwdriver].
+[11-04-24 02:41:20.881] 76561199040661533 "bramen" floor +1 10627,9608,0 [Base.JellyBeans].
+[11-04-24 02:41:22.810] 76561199040661533 "bramen" floor +1 10627,9611,0 [Base.Jujubes].
+[11-04-24 02:41:28.450] 76561199040661533 "bramen" floor +1 10631,9617,0 [Base.LouisvilleMap4].
+[11-04-24 02:41:30.207] 76561199040661533 "bramen" floor +1 10632,9619,0 [Base.MarchRidgeMap].
+[11-04-24 02:41:55.460] 76561198430296167 "DonDiogo" container -1 10637,9618,0 [Base.Gloves_LeatherGloves].
+[11-04-24 02:42:01.895] 76561198430296167 "DonDiogo" floor -1 10632,9619,0 [Base.MarchRidgeMap].
+[11-04-24 02:42:06.950] 76561198430296167 "DonDiogo" floor -1 10631,9617,0 [Base.LouisvilleMap4].
+[11-04-24 02:42:08.696] 76561199040661533 "bramen" floor -1 10627,9608,0 [Base.JellyBeans].
+[11-04-24 02:42:19.472] 76561198430296167 "DonDiogo" container +0 10635,9609,0 [Base.MarchRidgeMap].
+[11-04-24 02:42:22.459] 76561198430296167 "DonDiogo" container +0 10635,9609,0 [Base.LouisvilleMap4].
+[11-04-24 02:42:22.969] 76561199040661533 "bramen" floor -1 10632,9602,0 [Base.Chocolate].
+[11-04-24 02:42:28.465] 76561198430296167 "DonDiogo" container -1 10635,9609,0 [Base.ChocoCakes].
+[11-04-24 02:42:39.044] 76561199040661533 "bramen" container -5 10635,9609,0 [Base.MarchRidgeMap, Base.Peanuts, Base.LouisvilleMap4, Base.ChocoCakes].
+[11-04-24 02:42:42.038] 76561199040661533 "bramen" container -3 10635,9609,0 [Base.WineWaterFull, Base.WaterBottleFull].
+[11-04-24 02:42:43.465] 76561198430296167 "DonDiogo" container -1 10635,9609,0 [].
+[11-04-24 02:42:43.465] 76561198430296167 "DonDiogo" container +0 10635,9609,0 [Base.WineWaterFull].
+[11-04-24 02:42:45.036] 76561199040661533 "bramen" container -4 10635,9609,0 [Base.WaterBottleFull].
+[11-04-24 02:42:51.044] 76561199040661533 "bramen" container +0 10635,9609,0 [Base.Wound_Neck_Bite_Male, Base.Battery, Base.RippedSheets, Base.Bandage_LeftHand, Base.WristWatch_Left_DigitalRed, Base.Bandage_Abdomen, Base.Wound_LForearm_Bite_Male, Base.Wound_Chest_Bite_Male, Base.Cigarettes, Base.RedPen].
+[11-04-24 02:42:54.041] 76561199040661533 "bramen" container +0 10635,9609,0 [Base.HerbalistMag, Base.HiHis, Base.RosewoodMap, Base.JellyBeans, Base.MarchRidgeMap, Base.LouisvilleMap6, Base.Bandage, Base.Lighter, Base.Pills, Base.LouisvilleMap4, Base.QuaggaCakes, Base.Gum].
+[11-04-24 02:43:01.471] 76561198430296167 "DonDiogo" container -1 10635,9609,0 [Base.HiHis].
+[11-04-24 02:43:15.040] 76561199040661533 "bramen" container +0 10635,9609,0 [Base.Chocolate].
+[11-04-24 02:43:18.039] 76561199040661533 "bramen" container +0 10635,9609,0 [Base.Crisps4, Base.Pop2, Base.Pop3, Base.Crisps2, Base.Pop, Base.Peanuts, Base.ChocoCakes].
+[11-04-24 02:43:21.042] 76561199040661533 "bramen" container +0 10635,9609,0 [Base.Pop2, Base.Pop3, Base.Pop, Base.PeanutButterSandwich].
+[11-04-24 02:43:24.044] 76561199040661533 "bramen" container +0 10635,9609,0 [Base.WaterBottleFull].
+[11-04-24 02:43:27.043] 76561199040661533 "bramen" container +0 10635,9609,0 [Base.WaterBottleFull].
+[11-04-24 02:43:47.173] 76561199040661533 "bramen" container +0 10609,9626,0 [Base.TinOpener].
+[11-04-24 02:43:48.039] 76561199040661533 "bramen" container +0 10602,9627,0 [Base.PopBottle].
+[11-04-24 02:43:48.817] 76561199040661533 "bramen" container +0 10597,9628,0 [Base.PopBottle].
+[11-04-24 02:43:51.039] 76561199040661533 "bramen" container +0 10589,9635,0 [Base.PopBottle].
+[11-04-24 02:43:51.518] 76561199040661533 "bramen" container +0 10588,9637,0 [Base.PopBottle].
+[11-04-24 02:43:53.691] 76561199040661533 "bramen" container +0 10588,9649,0 [Base.WaterBottleFull].
+[11-04-24 02:43:59.054] 76561199040661533 "bramen" container -1 10590,9673,0 [Base.TinOpener].
+[11-04-24 02:44:03.744] 76561199040661533 "bramen" container -1 10593,9699,0 [Base.WaterBottleFull].
+[11-04-24 02:44:10.518] 76561199040661533 "bramen" container -1 10596,9745,0 [Base.HandTorch].
+[11-04-24 02:44:20.020] 76561199040661533 "bramen" container -2 10590,9816,0 [Base.Crisps4, Base.Crisps2].
+[11-04-24 02:44:26.496] 76561199040661533 "bramen" container -1 10588,9868,0 [Base.Pills].
+[11-04-24 02:44:37.305] 76561199040661533 "bramen" container -1 10593,9938,0 [Base.WristWatch_Left_DigitalRed].
+[11-04-24 02:44:38.507] 76561199040661533 "bramen" container -1 10596,9947,0 [Base.Bandage].
+[11-04-24 02:44:40.956] 76561199040661533 "bramen" container -1 10595,9966,0 [Base.RedPen].
+[11-04-24 02:46:32.576] 76561199040661533 "bramen" floor +1 10620,10700,0 [Base.Shovel].
+[11-04-24 02:46:32.577] 76561199040661533 "bramen" floor +1 10624,10705,0 [Base.WhiskeyEmpty].
+[11-04-24 02:46:32.577] 76561199040661533 "bramen" floor +1 10625,10705,0 [Base.WineEmpty].
+[11-04-24 02:47:16.016] 76561199040661533 "bramen" floor +1 10663,10649,0 [Base.Glasses_Reading].
+[11-04-24 02:49:10.467] 76561198430296167 "DonDiogo" container -1 10631,10621,0 [Base.Bag_WorkerBag].
+[11-04-24 02:49:30.023] 76561199040661533 "bramen" container -1 10672,10625,0 [Base.Plonkies].
+[11-04-24 02:49:36.028] 76561199040661533 "bramen" container -1 10672,10625,0 [Base.SnoGlobes].
+[11-04-24 02:49:54.032] 76561199040661533 "bramen" container -1 10672,10620,0 [Base.ComicBook].
+[11-04-24 02:50:03.031] 76561199040661533 "bramen" container -1 10672,10620,0 [Base.Magazine].
+[11-04-24 02:50:19.266] 76561199040661533 "bramen" floor +1 10672,10621,0 [Base.RippedSheetsDirty].
+[11-04-24 02:50:30.024] 76561199040661533 "bramen" container -1 10671,10620,0 [Base.MarchRidgeMap].
+[11-04-24 02:50:36.027] 76561199040661533 "bramen" container -1 10671,10620,0 [Base.LouisvilleMap7].
+[11-04-24 02:50:42.031] 76561199040661533 "bramen" container -1 10671,10620,0 [Base.LouisvilleMap4].
+[11-04-24 02:50:43.473] 76561198430296167 "DonDiogo" container -20 10675,10630,0 [Base.Cigarettes].
+[11-04-24 02:50:45.022] 76561199040661533 "bramen" container -1 10671,10620,0 [Base.RiversideMap].
+[11-04-24 02:50:49.467] 76561198430296167 "DonDiogo" container -2 10675,10630,0 [Base.Matches, Base.Lighter].
+[11-04-24 02:50:51.029] 76561199040661533 "bramen" container -1 10671,10620,0 [Base.WestpointMap].
+[11-04-24 02:51:03.940] 76561199040661533 "bramen" floor +1 10671,10621,0 [Base.LouisvilleMap7].
+[11-04-24 02:51:03.965] 76561199040661533 "bramen" floor +1 10671,10621,0 [Base.LouisvilleMap4].
+[11-04-24 02:51:06.266] 76561199040661533 "bramen" floor +1 10671,10621,0 [Base.RiversideMap].
+[11-04-24 02:51:07.667] 76561199040661533 "bramen" floor +1 10671,10621,0 [Base.WestpointMap].
+[11-04-24 02:51:19.472] 76561198430296167 "DonDiogo" container -1 10672,10615,0 [Base.EmptyPetrolCan].
+[11-04-24 02:51:22.467] 76561198430296167 "DonDiogo" container -20 10672,10616,0 [Base.Cigarettes].
+[11-04-24 02:51:28.469] 76561198430296167 "DonDiogo" container -1 10672,10616,0 [Base.WaterBottleFull].
+[11-04-24 02:51:34.473] 76561198430296167 "DonDiogo" container -1 10674,10615,0 [Base.Crisps2].
+[11-04-24 02:51:37.477] 76561198430296167 "DonDiogo" container -1 10674,10615,0 [Base.Lighter].
+[11-04-24 02:51:43.466] 76561198430296167 "DonDiogo" container -1 10673,10615,0 [Base.HiHis].
+[11-04-24 02:52:02.316] 76561198430296167 "DonDiogo" floor -1 10671,10621,0 [Base.WestpointMap].
+[11-04-24 02:52:05.638] 76561198430296167 "DonDiogo" floor -1 10671,10621,0 [Base.RiversideMap].
+[11-04-24 02:52:08.554] 76561198430296167 "DonDiogo" floor -1 10671,10621,0 [Base.LouisvilleMap7].
+[11-04-24 02:52:11.286] 76561198430296167 "DonDiogo" floor -1 10671,10621,0 [Base.LouisvilleMap4].
+[11-04-24 02:52:13.661] 76561198430296167 "DonDiogo" floor +1 10671,10621,0 [Base.LouisvilleMap7].
+[11-04-24 02:52:13.682] 76561198430296167 "DonDiogo" floor +1 10671,10621,0 [Base.LouisvilleMap4].
+[11-04-24 02:52:17.605] 76561198430296167 "DonDiogo" floor +1 10671,10621,0 [Base.RiversideMap].
+[11-04-24 02:52:17.651] 76561198430296167 "DonDiogo" floor +1 10671,10621,0 [Base.WestpointMap].
+[11-04-24 02:54:18.018] 76561199040661533 "bramen" container -1 10612,10569,0 [Radio.WalkieTalkie2].
+[11-04-24 02:54:28.773] 76561198430296167 "DonDiogo" floor +1 10619,10564,0 [Base.Hat_ChefHat].
+[11-04-24 02:55:37.472] 76561198430296167 "DonDiogo" container -1 10617,10557,0 [Base.Salami].
+[11-04-24 02:56:42.101] 76561199040661533 "bramen" floor +1 10607,10575,0 [Base.Glasses_Normal].
+[11-04-24 02:56:51.964] 76561198430296167 "DonDiogo" floor +1 10608,10575,0 [Base.Glasses_Normal].
+[11-04-24 02:58:36.097] 76561198430296167 "DonDiogo" floor +1 10591,10633,0 [Base.Pills].
+[11-04-24 02:58:47.060] 76561199040661533 "bramen" floor -1 10591,10633,0 [Base.Pills].
+[11-04-24 03:00:12.012] 76561199040661533 "bramen" container -1 10673,10625,0 [Base.WaterBottleFull].
+[11-04-24 03:00:18.008] 76561199040661533 "bramen" container -1 10673,10625,0 [Base.Pop].
+[11-04-24 03:00:24.008] 76561199040661533 "bramen" container -1 10673,10625,0 [Base.Pop3].
+[11-04-24 03:00:41.818] 76561199040661533 "bramen" floor +1 10672,10626,0 [Base.Scarf_White].
+[11-04-24 03:00:48.409] 76561199040661533 "bramen" floor +1 10672,10626,0 [Base.Pills].
+[11-04-24 03:00:48.442] 76561199040661533 "bramen" floor +1 10672,10626,0 [Base.Pills].
+[11-04-24 03:00:52.123] 76561199040661533 "bramen" floor -1 10672,10626,0 [Base.Pills].
+[11-04-24 03:00:52.339] 76561199040661533 "bramen" floor -1 10672,10626,0 [Base.Pills].
+[11-04-24 03:01:06.007] 76561199040661533 "bramen" container -1 10674,10625,0 [Base.Pills].
+[11-04-24 03:01:09.013] 76561199040661533 "bramen" container -1 10674,10625,0 [Base.AlcoholWipes].
+[11-04-24 03:01:13.477] 76561198430296167 "DonDiogo" container +0 10644,10629,0 [Base.PetrolCan].
+[11-04-24 03:01:19.489] 76561198430296167 "DonDiogo" container -1 10644,10629,0 [Base.EmptyPetrolCan].
+[11-04-24 03:01:39.013] 76561199040661533 "bramen" container -1 10672,10622,0 [Base.Chocolate].
+[11-04-24 03:01:42.005] 76561199040661533 "bramen" container -1 10672,10622,0 [Base.BeefJerky].
+[11-04-24 03:02:00.003] 76561199040661533 "bramen" container -5 10669,10620,0 [Base.HuntingMag3, Base.Magazine, Base.ComicBook, Base.MagazineCrossword3, Base.MagazineWordsearch2].
+[11-04-24 03:02:03.012] 76561199040661533 "bramen" container -5 10670,10620,0 [Base.HuntingMag2, Base.Magazine, Base.ComicBook, Base.FarmingMag1].
+[11-04-24 03:02:06.005] 76561199040661533 "bramen" container -1 10670,10620,0 [Base.MagazineWordsearch2].
+[11-04-24 03:02:24.011] 76561199040661533 "bramen" container -7 10644,10629,0 [Base.PopBottle, Base.WaterBottleFull].
+[11-04-24 03:02:24.011] 76561199040661533 "bramen" container +0 10644,10629,0 [Base.PopBottle, Base.WaterBottleFull].
+[11-04-24 03:03:53.917] 76561199040661533 "bramen" floor -1 10760,10555,0 [Base.CardDeck].
+[11-04-24 03:04:36.009] 76561199040661533 "bramen" container -1 10763,10551,0 [Base.BeerBottle].
+[11-04-24 03:04:54.009] 76561199040661533 "bramen" container -1 10763,10551,0 [Base.WhiskeyFull].
+[11-04-24 03:04:55.479] 76561198430296167 "DonDiogo" container -1 10761,10552,1 [Base.RippedSheets].
+[11-04-24 03:05:15.003] 76561199040661533 "bramen" container -2 10759,10548,0 [Base.WhiskeyFull].
+[11-04-24 03:05:30.008] 76561199040661533 "bramen" container -1 10761,10548,0 [Base.Extinguisher].
+[11-04-24 03:05:38.998] 76561199040661533 "bramen" container -1 10763,10550,0 [Base.Pickles].
+[11-04-24 03:05:51.000] 76561199040661533 "bramen" container -2 10763,10549,0 [Base.WhiskeyFull].
+[11-04-24 03:05:59.103] 76561199040661533 "bramen" container -1 10763,10548,0 [Base.WhiskeyFull].
+[11-04-24 03:06:49.484] 76561198430296167 "DonDiogo" container -1 10772,10564,0 [Base.RiversideMap].
+[11-04-24 03:07:46.488] 76561198430296167 "DonDiogo" container -1 10760,10582,0 [Base.LouisvilleMap2].
+[11-04-24 03:07:49.480] 76561198430296167 "DonDiogo" container -1 10760,10582,0 [Base.AlcoholWipes].
+[11-04-24 03:07:52.485] 76561198430296167 "DonDiogo" container -1 10760,10582,0 [Base.Bandaid].
+[11-04-24 03:08:03.004] 76561199040661533 "bramen" container -1 10772,10585,0 [Base.Battery].
+[11-04-24 03:09:08.998] 76561199040661533 "bramen" container +0 10772,10567,0 [Base.PopEmpty, Base.HuntingMag3, Base.HuntingMag2, Base.WristWatch_Left_DigitalRed, Base.RippedSheetsDirty, Base.ComicBook, Base.MarchRidgeMap, Base.FarmingMag1, Base.RedPen, Base.Pop3Empty].
+[11-04-24 03:09:12.000] 76561199040661533 "bramen" container +0 10772,10567,0 [Base.AlcoholWipes, Base.Battery, Base.Magazine, Base.Crisps4, Base.BeerEmpty, Base.CardDeck, Base.MagazineCrossword3, Base.Pills, Base.MagazineWordsearch2].
+[11-04-24 03:09:14.997] 76561199040661533 "bramen" container +0 10772,10567,0 [Base.HandTorch, Base.WhiskeyFull, Base.WaterBottleFull].
+[11-04-24 03:09:17.990] 76561199040661533 "bramen" container +0 10772,10567,0 [Base.WhiskeyFull].
+[11-04-24 03:09:23.997] 76561199040661533 "bramen" container +0 10772,10567,0 [Base.TinOpener, Base.WhiskeyFull].
+[11-04-24 03:09:29.990] 76561199040661533 "bramen" container -13 10772,10567,0 [Base.PopEmpty, Base.PopBottle, Base.WristWatch_Left_DigitalRed, Base.RippedSheetsDirty, Base.WaterBottleFull, Base.MarchRidgeMap, Base.RedPen, Base.Pop3Empty].
+[11-04-24 03:09:29.991] 76561199040661533 "bramen" container +0 10772,10567,0 [Base.PopEmpty, Base.PopBottle, Base.WristWatch_Left_DigitalRed, Base.RippedSheetsDirty, Base.WaterBottleFull, Base.MarchRidgeMap, Base.RedPen, Base.Pop3Empty].
+[11-04-24 03:09:32.993] 76561199040661533 "bramen" container -15 10772,10567,0 [Base.HuntingMag3, Base.HuntingMag2, Base.Battery, Base.Magazine, Base.BeerEmpty, Base.ComicBook, Base.MagazineCrossword3, Base.FarmingMag1, Base.Pills, Base.MagazineWordsearch2].
+[11-04-24 03:09:32.993] 76561199040661533 "bramen" container +0 10772,10567,0 [Base.HuntingMag3, Base.HuntingMag2, Base.Battery, Base.Magazine, Base.BeerEmpty, Base.ComicBook, Base.MagazineCrossword3, Base.FarmingMag1, Base.Pills, Base.MagazineWordsearch2].
+[11-04-24 03:09:35.995] 76561199040661533 "bramen" container -8 10772,10567,0 [Base.AlcoholWipes, Base.Crisps4, Base.HandTorch, Base.WhiskeyFull, Base.CardDeck, Base.WaterBottleFull, Base.MagazineWordsearch2].
+[11-04-24 03:09:35.995] 76561199040661533 "bramen" container +0 10772,10567,0 [Base.AlcoholWipes, Base.Crisps4, Base.HandTorch, Base.WhiskeyFull, Base.CardDeck, Base.WaterBottleFull, Base.MagazineWordsearch2].
+[11-04-24 03:10:03.003] 76561199040661533 "bramen" container +0 10772,10567,0 [Base.WhiskeyFull, Radio.WalkieTalkie2].
+[11-04-24 03:10:05.993] 76561199040661533 "bramen" container +0 10772,10567,0 [Base.Extinguisher].
+[11-04-24 03:10:11.997] 76561199040661533 "bramen" container -1 10772,10567,0 [Base.HandTorch].
+[11-04-24 03:10:11.998] 76561199040661533 "bramen" container +0 10772,10567,0 [Base.HandTorch].
+[11-04-24 03:10:13.794] 76561199040661533 "bramen" container -2 10772,10567,0 [Base.Saw, Base.HandTorch].
+[11-04-24 03:10:13.794] 76561199040661533 "bramen" container +0 10772,10567,0 [Base.Saw, Base.HandTorch].
+[11-04-24 03:10:29.991] 76561199040661533 "bramen" container -3 10772,10567,0 [Base.HandTorch, Base.WhiskeyFull].
+[11-04-24 03:10:32.999] 76561199040661533 "bramen" container -4 10772,10567,0 [Base.Saw, Base.WhiskeyFull].
+[11-04-24 03:10:35.995] 76561199040661533 "bramen" container -2 10772,10567,0 [Base.Extinguisher, Radio.WalkieTalkie2].
+[11-04-24 03:10:44.998] 76561199040661533 "bramen" container +0 10772,10567,0 [Base.HandTorch, Base.WhiskeyFull].
+[11-04-24 03:11:13.037] 76561198430296167 "DonDiogo" floor +1 10757,10553,0 [Base.RiversideMap].
+[11-04-24 03:11:13.066] 76561198430296167 "DonDiogo" floor +1 10757,10553,0 [Base.LouisvilleMap2].

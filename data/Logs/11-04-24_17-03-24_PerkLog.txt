@@ -1,0 +1,34 @@
+[11-04-24 17:03:24.390] [76561199040661533][bramen][10767,10569,0][Login][Hours Survived: 47].
+[11-04-24 17:03:24.391] [76561199040661533][bramen][10767,10569,0][Cooking=0, Fitness=3, Strength=5, Blunt=1, Axe=0, Sprinting=1, Lightfoot=0, Nimble=0, Sneak=0, Woodwork=0, Aiming=0, Reloading=0, Farming=3, Fishing=0, Trapping=0, PlantScavenging=1, Doctor=1, Electricity=0, MetalWelding=0, Mechanics=0, Spear=0, Maintenance=0, SmallBlade=0, LongBlade=0, SmallBlunt=0, Tailoring=0][Hours Survived: 47].
+[11-04-24 17:03:49.475] [76561198430296167][DonDiogo][10757,10553,0][Login][Hours Survived: 56].
+[11-04-24 17:03:49.475] [76561198430296167][DonDiogo][10757,10553,0][Cooking=0, Fitness=8, Strength=8, Blunt=0, Axe=3, Sprinting=1, Lightfoot=0, Nimble=0, Sneak=0, Woodwork=0, Aiming=0, Reloading=0, Farming=0, Fishing=0, Trapping=0, PlantScavenging=0, Doctor=0, Electricity=0, MetalWelding=0, Mechanics=0, Spear=0, Maintenance=0, SmallBlade=0, LongBlade=0, SmallBlunt=0, Tailoring=0][Hours Survived: 56].
+[11-04-24 17:09:11.063] [76561198430296167][DonDiogo][10774,10417,0][Level Changed][Maintenance][1][Hours Survived: 58].
+[11-04-24 17:50:03.176] [76561199040661533][bramen][10595,11190,0][Level Changed][Doctor][2][Hours Survived: 66].
+[12-04-24 00:10:52.842] [76561198430296167][DonDiogo][10597,11217,0][Login][Hours Survived: 78].
+[12-04-24 00:10:52.842] [76561198430296167][DonDiogo][10597,11217,0][Cooking=0, Fitness=8, Strength=8, Blunt=0, Axe=3, Sprinting=1, Lightfoot=0, Nimble=0, Sneak=0, Woodwork=0, Aiming=0, Reloading=0, Farming=0, Fishing=0, Trapping=0, PlantScavenging=0, Doctor=0, Electricity=0, MetalWelding=0, Mechanics=0, Spear=0, Maintenance=1, SmallBlade=0, LongBlade=0, SmallBlunt=0, Tailoring=0][Hours Survived: 78].
+[12-04-24 00:12:52.829] [76561198333912692][carlosh][10759,10552,1][Login][Hours Survived: 15].
+[12-04-24 00:12:52.829] [76561198333912692][carlosh][10759,10552,1][Cooking=0, Fitness=9, Strength=9, Blunt=0, Axe=0, Sprinting=0, Lightfoot=2, Nimble=2, Sneak=2, Woodwork=0, Aiming=0, Reloading=0, Farming=0, Fishing=0, Trapping=0, PlantScavenging=0, Doctor=0, Electricity=0, MetalWelding=0, Mechanics=0, Spear=0, Maintenance=0, SmallBlade=0, LongBlade=0, SmallBlunt=0, Tailoring=0][Hours Survived: 15].
+[12-04-24 00:14:30.546] [76561199040661533][bramen][10597,11216,0][Login][Hours Survived: 69].
+[12-04-24 00:14:30.546] [76561199040661533][bramen][10597,11216,0][Cooking=0, Fitness=3, Strength=5, Blunt=1, Axe=0, Sprinting=1, Lightfoot=0, Nimble=0, Sneak=0, Woodwork=0, Aiming=0, Reloading=0, Farming=3, Fishing=0, Trapping=0, PlantScavenging=1, Doctor=2, Electricity=0, MetalWelding=0, Mechanics=0, Spear=0, Maintenance=0, SmallBlade=0, LongBlade=0, SmallBlunt=0, Tailoring=0][Hours Survived: 69].
+[12-04-24 00:42:56.430] [76561198430296167][DonDiogo][10256,9336,0][Level Changed][Axe][4][Hours Survived: 91].
+[12-04-24 00:45:03.658] [76561198430296167][DonDiogo][10272,9332,0][Login][Hours Survived: 91].
+[12-04-24 00:45:03.658] [76561198430296167][DonDiogo][10272,9332,0][Cooking=0, Fitness=8, Strength=8, Blunt=0, Axe=4, Sprinting=1, Lightfoot=0, Nimble=0, Sneak=0, Woodwork=0, Aiming=0, Reloading=0, Farming=0, Fishing=0, Trapping=0, PlantScavenging=0, Doctor=0, Electricity=0, MetalWelding=0, Mechanics=0, Spear=0, Maintenance=1, SmallBlade=0, LongBlade=0, SmallBlunt=0, Tailoring=0][Hours Survived: 91].
+[12-04-24 00:45:47.267] [76561199040661533][bramen][10289,9428,0][Login][Hours Survived: 81].
+[12-04-24 00:45:47.267] [76561199040661533][bramen][10289,9428,0][Cooking=0, Fitness=3, Strength=5, Blunt=1, Axe=0, Sprinting=1, Lightfoot=0, Nimble=0, Sneak=0, Woodwork=0, Aiming=0, Reloading=0, Farming=3, Fishing=0, Trapping=0, PlantScavenging=1, Doctor=2, Electricity=0, MetalWelding=0, Mechanics=0, Spear=0, Maintenance=0, SmallBlade=0, LongBlade=0, SmallBlunt=0, Tailoring=0][Hours Survived: 81].
+[12-04-24 01:01:37.999] [76561198333912692][carlosh][10344,9345,0][Level Changed][Blunt][1][Hours Survived: 34].
+[12-04-24 01:03:32.195] [76561199040661533][bramen][10305,9422,0][Login][Hours Survived: 88].
+[12-04-24 01:03:32.195] [76561199040661533][bramen][10305,9422,0][Cooking=0, Fitness=3, Strength=5, Blunt=1, Axe=0, Sprinting=1, Lightfoot=0, Nimble=0, Sneak=0, Woodwork=0, Aiming=0, Reloading=0, Farming=3, Fishing=0, Trapping=0, PlantScavenging=1, Doctor=2, Electricity=0, MetalWelding=0, Mechanics=0, Spear=0, Maintenance=0, SmallBlade=0, LongBlade=0, SmallBlunt=0, Tailoring=0][Hours Survived: 88].
+[12-04-24 01:31:07.911] [76561198333912692][carlosh][10262,9495,0][Level Changed][Sprinting][1][Hours Survived: 46].
+[12-04-24 01:57:10.496] [76561199040661533][bramen][10758,10434,0][Level Changed][Sprinting][2][Hours Survived: 109].
+[12-04-24 02:19:21.643] [76561198430296167][DonDiogo][10775,10236,0][Level Changed][Sprinting][2][Hours Survived: 128].
+[12-04-24 02:42:47.137] [76561199040661533][bramen][10117,11130,0][Died][Hours Survived: 127].
+[12-04-24 02:46:24.555] [76561199040661533][bramen][10854,9894,0][Created Player 1][Hours Survived: 0].
+[12-04-24 02:46:24.555] [76561199040661533][bramen][10854,9894,0][Cooking=0, Fitness=3, Strength=5, Blunt=0, Axe=0, Sprinting=0, Lightfoot=0, Nimble=0, Sneak=0, Woodwork=0, Aiming=0, Reloading=0, Farming=0, Fishing=0, Trapping=0, PlantScavenging=0, Doctor=0, Electricity=0, MetalWelding=0, Mechanics=3, Spear=0, Maintenance=0, SmallBlade=0, LongBlade=0, SmallBlunt=1, Tailoring=0][Hours Survived: 0].
+[12-04-24 02:58:03.065] [76561198333912692][carlosh][10575,11185,0][Died][Hours Survived: 81].
+[12-04-24 02:58:29.871] [76561198333912692][carlosh][10976,9785,0][Created Player 1][Hours Survived: 0].
+[12-04-24 02:58:29.875] [76561198333912692][carlosh][10976,9785,0][Cooking=0, Fitness=9, Strength=9, Blunt=0, Axe=0, Sprinting=0, Lightfoot=2, Nimble=2, Sneak=2, Woodwork=0, Aiming=0, Reloading=0, Farming=0, Fishing=0, Trapping=0, PlantScavenging=0, Doctor=0, Electricity=0, MetalWelding=0, Mechanics=0, Spear=0, Maintenance=0, SmallBlade=0, LongBlade=0, SmallBlunt=0, Tailoring=0][Hours Survived: 0].
+[12-04-24 03:45:53.155] [76561199040661533][bramen][5601,12485,0][Died][Hours Survived: 23].
+[12-04-24 03:50:48.241] [76561199040661533][bramen][10884,10159,0][Created Player 1][Hours Survived: 0].
+[12-04-24 03:50:48.241] [76561199040661533][bramen][10884,10159,0][Cooking=0, Fitness=2, Strength=5, Blunt=0, Axe=0, Sprinting=0, Lightfoot=1, Nimble=1, Sneak=0, Woodwork=0, Aiming=0, Reloading=0, Farming=0, Fishing=0, Trapping=0, PlantScavenging=0, Doctor=0, Electricity=0, MetalWelding=0, Mechanics=3, Spear=0, Maintenance=0, SmallBlade=0, LongBlade=0, SmallBlunt=1, Tailoring=0][Hours Survived: 0].
+[12-04-24 04:04:14.709] [76561198333912692][carlosh][5737,12566,0][Level Changed][Sprinting][1][Hours Survived: 26].
+[12-04-24 04:07:56.552] [76561198333912692][carlosh][5798,12483,0][Died][Hours Survived: 27].

@@ -1,0 +1,35 @@
+[10-04-24 22:35:07.945] added connection index=0 181.129.215.156.
+[10-04-24 22:35:09.022] 76561199040661533 "bramen" attempting to join.
+[10-04-24 22:35:09.025] 76561199040661533 "bramen" was added.
+[10-04-24 22:35:09.025] 76561199040661533 "bramen" allowed to join.
+[10-04-24 22:35:23.150] 76561199040661533 "bramen" removed connection index=0.
+[10-04-24 22:35:44.988] added connection index=0 181.129.215.156.
+[10-04-24 22:35:45.933] 76561199040661533 "bramen" attempting to join.
+[10-04-24 22:35:45.937] 76561199040661533 "bramen" allowed to join.
+[10-04-24 22:36:55.666] 76561199040661533 "bramen" removed connection index=0.
+[10-04-24 22:37:22.537] added connection index=0 200.210.60.174.
+[10-04-24 22:37:24.055] 76561198333912692 "carlosh" attempting to join.
+[10-04-24 22:37:24.057] 76561198333912692 "carlosh" was added.
+[10-04-24 22:37:24.057] 76561198333912692 "carlosh" allowed to join.
+[10-04-24 22:37:37.957] added connection index=1 181.129.215.156.
+[10-04-24 22:37:38.937] 76561199040661533 "bramen" attempting to join.
+[10-04-24 22:37:38.937] 76561199040661533 "bramen" allowed to join.
+[10-04-24 22:38:05.248] 76561199040661533 "bramen" attempting to join used queue.
+[10-04-24 22:38:26.397] player bramen loading time was: 20191 ms.
+[10-04-24 22:39:33.757] 76561199040661533 "bramen" fully connected (10854,9894,0).
+[10-04-24 22:39:58.832] 76561198333912692 "carlosh" attempting to join used queue.
+[10-04-24 22:41:09.702] player carlosh loading time was: 68101 ms.
+[10-04-24 22:41:15.074] 76561198333912692 "carlosh" fully connected (10919,10132,0).
+[10-04-24 22:49:29.817] user bramen died at (10799,9824,0) (non pvp).
+[10-04-24 22:51:06.385] 76561199040661533 "bramen" disconnected player (10799,9824,0).
+[10-04-24 22:51:08.761] 76561199040661533 "bramen" fully connected (10803,10073,0).
+[10-04-24 23:05:22.890] added connection index=2 190.128.47.86.
+[10-04-24 23:05:23.903] 76561198430296167 "DonDiogo" attempting to join.
+[10-04-24 23:05:23.906] 76561198430296167 "DonDiogo" was added.
+[10-04-24 23:05:23.906] 76561198430296167 "DonDiogo" allowed to join.
+[10-04-24 23:09:01.671] 76561198430296167 "DonDiogo" attempting to join used queue.
+[10-04-24 23:09:54.822] player DonDiogo loading time was: 51910 ms.
+[10-04-24 23:09:59.601] 76561198430296167 "DonDiogo" fully connected (10944,9374,0).
+[10-04-24 23:10:16.807] user bramen died at (10778,9965,0) (non pvp).
+[10-04-24 23:15:40.235] 76561199040661533 "bramen" removed connection index=1.
+[10-04-24 23:15:40.236] 76561199040661533 "bramen" disconnected player (10778,9965,0).

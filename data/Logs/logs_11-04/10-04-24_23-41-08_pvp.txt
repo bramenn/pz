@@ -1,0 +1,7 @@
+[10-04-24 23:41:08.090][INFO] user "DonDiogo" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[10-04-24 23:41:44.136][INFO] user "bramen" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[10-04-24 23:55:57.156] user "bramen" (10594,9270,0) enabled safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[10-04-24 23:55:57.157] user "bramen" (10594,9270,0) disabled safety enabled=false last=true cooldown=0.0 toggle=2.0.
+[11-04-24 00:11:42.422] user "bramen" (10637,9268,0) disabled safety enabled=false last=true cooldown=3.0 toggle=0.0.
+[11-04-24 00:11:47.882][INFO] user "DonDiogo" clear safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[11-04-24 00:15:35.069][INFO] user "DonDiogo" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.

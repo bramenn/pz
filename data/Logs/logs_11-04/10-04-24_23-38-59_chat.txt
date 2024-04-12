@@ -1,0 +1,52 @@
+[10-04-24 23:38:59.274][info] Start chat server initialization....
+[10-04-24 23:38:59.281][info] General chat has id = 0.
+[10-04-24 23:38:59.281][info] Say chat has id = 1.
+[10-04-24 23:38:59.281][info] Shout chat has id = 2.
+[10-04-24 23:38:59.281][info] Radio chat has id = 3.
+[10-04-24 23:38:59.281][info] Admin chat has id = 4.
+[10-04-24 23:38:59.281][info] Server chat has id = 5.
+[10-04-24 23:38:59.281][info] Chat server successfully initialized.
+[10-04-24 23:41:08.081][info] Player with id = '0' tries to connect.
+[10-04-24 23:41:08.082][info] Adding player '0' to chat server.
+[10-04-24 23:41:08.083][info] Player joined to default chats.
+[10-04-24 23:41:08.083][info] Player DonDiogo(0) joined to chat server successfully.
+[10-04-24 23:41:44.135][info] Player with id = '4' tries to connect.
+[10-04-24 23:41:44.135][info] Adding player '4' to chat server.
+[10-04-24 23:41:44.136][info] Player joined to default chats.
+[10-04-24 23:41:44.136][info] Player bramen(4) joined to chat server successfully.
+[10-04-24 23:54:18.073][info] Got message:ChatMessage{chat=Local, author='bramen', text='oe pa'}.
+[10-04-24 23:54:18.077][info] Message ChatMessage{chat=Local, author='bramen', text='oe pa'} sent to chat (id = 1) members.
+[10-04-24 23:54:41.157][info] Got message:ChatMessage{chat=Local, author='bramen', text='tondes'}.
+[10-04-24 23:54:41.157][info] Message ChatMessage{chat=Local, author='bramen', text='tondes'} sent to chat (id = 1) members.
+[10-04-24 23:56:39.038][info] Got message:ChatMessage{chat=Local, author='bramen', text='psssst'}.
+[10-04-24 23:56:39.041][info] Message ChatMessage{chat=Local, author='bramen', text='psssst'} sent to chat (id = 2) members.
+[10-04-24 23:56:42.606][info] Got message:ChatMessage{chat=Local, author='bramen', text='psst psst'}.
+[10-04-24 23:56:42.609][info] Message ChatMessage{chat=Local, author='bramen', text='psst psst'} sent to chat (id = 2) members.
+[11-04-24 00:11:47.877][info] Player 0 disconnecting....
+[11-04-24 00:11:47.878][info] Disconnecting player 0 finished.
+[11-04-24 00:15:18.730][info] Got message:ChatMessage{chat=Local, author='bramen', text='psssst'}.
+[11-04-24 00:15:18.731][info] Message ChatMessage{chat=Local, author='bramen', text='psssst'} sent to chat (id = 2) members.
+[11-04-24 00:15:21.613][info] Got message:ChatMessage{chat=Local, author='bramen', text='psssst'}.
+[11-04-24 00:15:21.614][info] Message ChatMessage{chat=Local, author='bramen', text='psssst'} sent to chat (id = 2) members.
+[11-04-24 00:15:23.696][info] Got message:ChatMessage{chat=Local, author='bramen', text='psst psst'}.
+[11-04-24 00:15:23.696][info] Message ChatMessage{chat=Local, author='bramen', text='psst psst'} sent to chat (id = 2) members.
+[11-04-24 00:15:26.948][info] Got message:ChatMessage{chat=Local, author='bramen', text='psst psst'}.
+[11-04-24 00:15:26.948][info] Message ChatMessage{chat=Local, author='bramen', text='psst psst'} sent to chat (id = 2) members.
+[11-04-24 00:15:30.597][info] Got message:ChatMessage{chat=Local, author='bramen', text='psssst'}.
+[11-04-24 00:15:30.598][info] Message ChatMessage{chat=Local, author='bramen', text='psssst'} sent to chat (id = 2) members.
+[11-04-24 00:15:32.723][info] Player 0 disconnecting....
+[11-04-24 00:15:32.723][info] Disconnecting player 0 finished.
+[11-04-24 00:15:32.729][info] Player with id = '0' tries to connect.
+[11-04-24 00:15:32.729][info] Adding player '0' to chat server.
+[11-04-24 00:15:32.730][error] Player or connection is not found on server!.
+[11-04-24 00:15:32.730][error] player = null.
+[11-04-24 00:15:34.944][info] Got message:ChatMessage{chat=Local, author='bramen', text='psssst'}.
+[11-04-24 00:15:34.944][info] Message ChatMessage{chat=Local, author='bramen', text='psssst'} sent to chat (id = 2) members.
+[11-04-24 00:15:35.069][info] Player with id = '0' tries to connect.
+[11-04-24 00:15:35.069][info] Adding player '0' to chat server.
+[11-04-24 00:15:35.069][info] Player joined to default chats.
+[11-04-24 00:15:35.069][info] Player DonDiogo(0) joined to chat server successfully.
+[11-04-24 00:17:09.726][info] Got message:ChatMessage{chat=Local, author='bramen', text='hey'}.
+[11-04-24 00:17:09.726][info] Message ChatMessage{chat=Local, author='bramen', text='hey'} sent to chat (id = 2) members.
+[11-04-24 00:23:48.054][info] Got message:ChatMessage{chat=Local, author='bramen', text='?POR AQU?!'}.
+[11-04-24 00:23:48.055][info] Message ChatMessage{chat=Local, author='bramen', text='?POR AQU?!'} sent to chat (id = 2) members.
