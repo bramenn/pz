@@ -1,0 +1,136 @@
+[17-05-24 20:52:59.177] added connection index=0 181.129.215.156.
+[17-05-24 20:53:00.045] 76561199040661533 "bramen" attempting to join.
+[17-05-24 20:53:00.048] 76561199040661533 "bramen" allowed to join.
+[17-05-24 20:53:08.763] 76561199040661533 "bramen" attempting to join used queue.
+[17-05-24 20:53:18.738] player bramen loading time was: 9641 ms.
+[17-05-24 20:53:22.832] 76561199040661533 "bramen" fully connected (10418,9740,0).
+[17-05-24 20:53:36.239] added connection index=1 36.101.60.139.
+[17-05-24 20:53:37.918] 76561198333912692 "carlosh" attempting to join.
+[17-05-24 20:53:37.919] 76561198333912692 "carlosh" allowed to join.
+[17-05-24 20:55:03.740] added connection index=2 190.128.47.86.
+[17-05-24 20:55:04.803] 76561198430296167 "DonDiego" attempting to join.
+[17-05-24 20:55:04.808] 76561198430296167 "DonDiego" allowed to join.
+[17-05-24 20:55:12.560] 76561198333912692 "carlosh" attempting to join used queue.
+[17-05-24 20:55:18.227] 76561198430296167 "DonDiego" attempting to join used queue.
+[17-05-24 20:55:30.749] player DonDiego loading time was: 11888 ms.
+[17-05-24 20:55:45.186] 76561198430296167 "DonDiego" fully connected (10611,10374,0).
+[17-05-24 20:55:55.443] player carlosh loading time was: 41031 ms.
+[17-05-24 20:56:01.668] 76561198333912692 "carlosh" fully connected (10596,10303,0).
+[17-05-24 21:00:29.742] 76561198430296167 "DonDiego" disconnected player (10606,10373,0).
+[17-05-24 21:00:32.631] 76561198430296167 "DonDiego" fully connected (10854,9894,0).
+[17-05-24 21:26:33.202] 76561198333912692 "carlosh" removed connection index=1.
+[17-05-24 21:26:33.217] 76561198333912692 "carlosh" disconnected player (10071,9549,0).
+[17-05-24 22:08:23.864] 76561198430296167 "DonDiego" removed connection index=2.
+[17-05-24 22:08:23.879] 76561198430296167 "DonDiego" disconnected player (10073,9549,0).
+[18-05-24 02:49:09.280] user bramen died at (11651,6751,0) (non pvp).
+[18-05-24 02:49:18.726] 76561199040661533 "bramen" removed connection index=0.
+[18-05-24 02:49:18.738] 76561199040661533 "bramen" disconnected player (11651,6751,0).
+[20-05-24 14:04:07.373] added connection index=0 228.171.237.1.
+[20-05-24 14:04:09.505] 76561198333912692 "carlosh" attempting to join.
+[20-05-24 14:04:09.507] 76561198333912692 "carlosh" allowed to join.
+[20-05-24 14:06:14.442] 76561198333912692 "carlosh" attempting to join used queue.
+[20-05-24 14:07:44.765] player carlosh loading time was: 87013 ms.
+[20-05-24 14:07:53.217] 76561198333912692 "carlosh" fully connected (10071,9549,0).
+[20-05-24 14:23:23.301] added connection index=1 190.128.47.86.
+[20-05-24 14:23:24.487] 76561198430296167 "DonDiego" attempting to join.
+[20-05-24 14:23:24.493] 76561198430296167 "DonDiego" allowed to join.
+[20-05-24 14:23:39.045] 76561198430296167 "DonDiego" attempting to join used queue.
+[20-05-24 14:24:30.221] player DonDiego loading time was: 49993 ms.
+[20-05-24 14:24:45.707] 76561198430296167 "DonDiego" fully connected (10073,9549,0).
+[20-05-24 16:36:29.479] 76561198333912692 "carlosh" removed connection index=0.
+[20-05-24 16:36:29.491] 76561198333912692 "carlosh" disconnected player (10069,9552,0).
+[20-05-24 16:36:29.491] 76561198333912692 "carlosh" removed connection index=0.
+[20-05-24 16:41:11.134] added connection index=0 94.193.49.94.
+[20-05-24 16:41:12.686] 76561198333912692 "carlosh" attempting to join.
+[20-05-24 16:41:12.687] 76561198333912692 "carlosh" allowed to join.
+[20-05-24 16:42:59.077] 76561198333912692 "carlosh" attempting to join used queue.
+[20-05-24 16:43:30.348] player carlosh loading time was: 29072 ms.
+[20-05-24 16:43:35.241] 76561198333912692 "carlosh" fully connected (10081,9548,0).
+[20-05-24 17:50:08.703] 76561198333912692 "carlosh" removed connection index=0.
+[20-05-24 17:50:08.715] 76561198333912692 "carlosh" disconnected player (10162,9564,0).
+[20-05-24 17:50:08.715] 76561198333912692 "carlosh" removed connection index=0.
+[20-05-24 18:30:40.930] 76561198430296167 "DonDiego" removed connection index=1.
+[20-05-24 18:30:40.942] 76561198430296167 "DonDiego" disconnected player (10291,9736,0).
+[20-05-24 18:31:49.833] added connection index=0 190.128.47.86.
+[20-05-24 18:31:50.901] 76561198430296167 "DonDiego" attempting to join.
+[20-05-24 18:31:50.904] 76561198430296167 "DonDiego" allowed to join.
+[20-05-24 18:32:05.646] 76561198430296167 "DonDiego" attempting to join used queue.
+[20-05-24 18:32:48.407] player DonDiego loading time was: 42159 ms.
+[20-05-24 18:32:50.872] 76561198430296167 "DonDiego" fully connected (10291,9736,0).
+[20-05-24 18:37:59.558] 76561198430296167 "DonDiego" removed connection index=0.
+[20-05-24 18:37:59.569] 76561198430296167 "DonDiego" disconnected player (10299,9741,0).
+[20-05-24 19:43:26.342] added connection index=0 190.128.47.86.
+[20-05-24 19:43:27.400] 76561198430296167 "DonDiego" attempting to join.
+[20-05-24 19:43:27.402] 76561198430296167 "DonDiego" allowed to join.
+[20-05-24 19:43:41.032] 76561198430296167 "DonDiego" attempting to join used queue.
+[20-05-24 19:44:23.674] player DonDiego loading time was: 42043 ms.
+[20-05-24 19:44:27.469] 76561198430296167 "DonDiego" fully connected (10299,9741,0).
+[20-05-24 20:09:00.792] 76561198430296167 "DonDiego" removed connection index=0.
+[20-05-24 20:09:00.803] 76561198430296167 "DonDiego" disconnected player (10071,9549,0).
+[20-05-24 20:40:52.078] added connection index=0 190.128.47.86.
+[20-05-24 20:40:53.138] 76561198430296167 "DonDiego" attempting to join.
+[20-05-24 20:40:53.140] 76561198430296167 "DonDiego" allowed to join.
+[20-05-24 20:41:07.103] 76561198430296167 "DonDiego" attempting to join used queue.
+[20-05-24 20:41:52.375] player DonDiego loading time was: 44633 ms.
+[20-05-24 20:41:54.795] 76561198430296167 "DonDiego" fully connected (10071,9549,0).
+[20-05-24 21:35:02.147] 76561198430296167 "DonDiego" removed connection index=0.
+[20-05-24 21:35:02.168] 76561198430296167 "DonDiego" disconnected player (10072,9549,0).
+[20-05-24 23:12:32.200] added connection index=0 190.128.47.86.
+[20-05-24 23:12:33.186] 76561198430296167 "DonDiego" attempting to join.
+[20-05-24 23:12:33.188] 76561198430296167 "DonDiego" allowed to join.
+[20-05-24 23:12:45.607] 76561198430296167 "DonDiego" attempting to join used queue.
+[20-05-24 23:13:29.787] player DonDiego loading time was: 43589 ms.
+[20-05-24 23:13:37.816] 76561198430296167 "DonDiego" fully connected (10072,9549,0).
+[21-05-24 00:05:28.000] 76561198430296167 "DonDiego" removed connection index=0.
+[21-05-24 00:05:28.012] 76561198430296167 "DonDiego" disconnected player (10420,9738,0).
+[21-05-24 00:07:21.906] added connection index=0 190.128.47.86.
+[21-05-24 00:07:22.838] 76561198430296167 "DonDiego" attempting to join.
+[21-05-24 00:07:22.840] 76561198430296167 "DonDiego" allowed to join.
+[21-05-24 00:07:36.007] 76561198430296167 "DonDiego" attempting to join used queue.
+[21-05-24 00:07:48.853] player DonDiego loading time was: 12279 ms.
+[21-05-24 00:07:51.120] 76561198430296167 "DonDiego" fully connected (10420,9738,0).
+[21-05-24 00:19:05.853] added connection index=1 244.246.94.85.
+[21-05-24 00:19:07.519] 76561198333912692 "carlosh" attempting to join.
+[21-05-24 00:19:07.520] 76561198333912692 "carlosh" allowed to join.
+[21-05-24 00:20:46.258] 76561198333912692 "carlosh" attempting to join used queue.
+[21-05-24 00:21:39.140] player carlosh loading time was: 49912 ms.
+[21-05-24 00:21:51.826] 76561198333912692 "carlosh" fully connected (10163,9564,0).
+[21-05-24 02:27:52.343] 76561198333912692 "carlosh" removed connection index=1.
+[21-05-24 02:27:52.355] 76561198333912692 "carlosh" disconnected player (10071,9549,0).
+[21-05-24 02:27:52.355] 76561198333912692 "carlosh" removed connection index=1.
+[21-05-24 03:05:39.993] 76561198430296167 "DonDiego" removed connection index=0.
+[21-05-24 03:05:40.005] 76561198430296167 "DonDiego" disconnected player (10144,9550,0).
+[21-05-24 12:37:04.720] added connection index=0 190.128.47.86.
+[21-05-24 12:37:05.815] 76561198430296167 "DonDiego" attempting to join.
+[21-05-24 12:37:05.817] 76561198430296167 "DonDiego" allowed to join.
+[21-05-24 12:37:18.858] 76561198430296167 "DonDiego" attempting to join used queue.
+[21-05-24 12:38:05.691] player DonDiego loading time was: 45568 ms.
+[21-05-24 12:38:14.183] 76561198430296167 "DonDiego" fully connected (10144,9550,0).
+[21-05-24 13:36:19.645] 76561198430296167 "DonDiego" removed connection index=0.
+[21-05-24 13:36:19.658] 76561198430296167 "DonDiego" disconnected player (10140,9548,0).
+[21-05-24 13:57:24.655] added connection index=0 109.41.62.144.
+[21-05-24 13:57:27.084] 76561198333912692 "carlosh" attempting to join.
+[21-05-24 13:57:27.086] 76561198333912692 "carlosh" allowed to join.
+[21-05-24 13:58:54.924] added connection index=1 190.128.47.86.
+[21-05-24 13:58:56.012] 76561198430296167 "DonDiego" attempting to join.
+[21-05-24 13:58:56.013] 76561198430296167 "DonDiego" allowed to join.
+[21-05-24 13:59:04.692] 76561198333912692 "carlosh" attempting to join used queue.
+[21-05-24 13:59:11.295] 76561198430296167 "DonDiego" attempting to join used queue.
+[21-05-24 13:59:55.358] player DonDiego loading time was: 43349 ms.
+[21-05-24 13:59:59.814] player carlosh loading time was: 52176 ms.
+[21-05-24 14:00:13.725] 76561198333912692 "carlosh" fully connected (10071,9549,0).
+[21-05-24 14:00:25.114] 76561198430296167 "DonDiego" fully connected (10140,9548,0).
+[21-05-24 14:56:15.464] added connection index=2 181.129.215.156.
+[21-05-24 14:56:16.418] 76561199040661533 "bramen" attempting to join.
+[21-05-24 14:56:16.419] 76561199040661533 "bramen" allowed to join.
+[21-05-24 15:02:16.086] 76561199040661533 "bramen" attempting to join used queue.
+[21-05-24 15:02:39.423] player bramen loading time was: 22158 ms.
+[21-05-24 15:02:49.617] 76561199040661533 "bramen" fully connected (10908,9994,0).
+[21-05-24 15:08:49.919] 76561199040661533 "bramen" removed connection index=2.
+[21-05-24 15:08:49.932] 76561199040661533 "bramen" disconnected player (10768,9979,0).
+[21-05-24 15:09:48.397] added connection index=2 181.129.215.156.
+[21-05-24 15:09:49.349] 76561199040661533 "bramen" attempting to join.
+[21-05-24 15:09:49.351] 76561199040661533 "bramen" allowed to join.
+[21-05-24 15:09:58.061] 76561199040661533 "bramen" attempting to join used queue.
+[21-05-24 15:10:07.038] player bramen loading time was: 8652 ms.
+[21-05-24 15:10:08.228] 76561199040661533 "bramen" fully connected (10768,9979,0).

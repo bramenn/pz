@@ -1,0 +1,33 @@
+[17-05-24 20:50:45.683] LOG  : General     , 1715979045683> 1,202,790,669> cachedir set to "/home/steam/Zomboid".
+[17-05-24 20:50:45.888] LOG  : General     , 1715979045887> 1,202,790,874> version=41.78.16 demo=false.
+[17-05-24 20:50:45.888] LOG  : General     , 1715979045888> 1,202,790,875> revision= date= time=.
+[17-05-24 20:50:45.889] LOG  : General     , 1715979045889> 1,202,790,876> unknown option "-modfolders".
+[17-05-24 20:50:45.890] LOG  : General     , 1715979045890> 1,202,790,876> unknown option "workshop,steam,mods".
+[17-05-24 20:50:45.896] LOG  : General     , 1715979045896> 1,202,790,882> server name is "pragmaticos".
+[17-05-24 20:50:45.897] LOG  : General     , 1715979045897> 1,202,790,884> checking server WorldVersion in map_t.bin.
+[17-05-24 20:50:45.902] LOG  : General     , 1715979045902> 1,202,790,888> Loading networking libraries....
+[17-05-24 20:50:45.903] LOG  : General     , 1715979045903> 1,202,790,890> Loading steam_api....
+[17-05-24 20:50:45.904] LOG  : General     , 1715979045904> 1,202,790,891> Loading RakNet64....
+[17-05-24 20:50:45.909] LOG  : General     , 1715979045909> 1,202,790,896> Loading ZNetJNI64....
+[17-05-24 20:50:45.922] LOG  : Network     , 1715979045921> 1,202,790,908> [17-05-24 20:50:45.921] > ZNet: SetLogLevel 2.
+[17-05-24 20:50:45.926] LOG  : Network     , 1715979045925> 1,202,790,912> [17-05-24 20:50:45.925] > ZNet: SteamAPI initialised successfully.
+[17-05-24 20:50:45.926] LOG  : General     , 1715979045926> 1,202,790,913> SteamUtils initialised successfully.
+[17-05-24 20:50:47.906] LOG  : General     , 1715979047905> 1,202,792,892> translator: language is EN.
+[17-05-24 20:50:48.286] LOG  : General     , 1715979048285> 1,202,793,272> LightingFPS set to 15.
+[17-05-24 20:50:48.312] LOG  : General     , 1715979048312> 1,202,793,299> reading /home/steam/Zomboid/Server/pragmaticos.ini.
+[17-05-24 20:50:48.319] LOG  : General     , 1715979048319> 1,202,793,305> writing /home/steam/Zomboid/Server/pragmaticos.ini.
+[17-05-24 20:50:48.339] LOG  : Network     , 1715979048338> 1,202,793,325> [17-05-24 20:50:48.338] > ZNet: SZombienet -> SZombienet: Init.
+[17-05-24 20:50:48.635] LOG  : Network     , 1715979048635> 1,202,793,622> [17-05-24 20:50:48.635] > ZNet: SteamGameServer seems to be initialized.
+[17-05-24 20:50:48.639] LOG  : Network     , 1715979048639> 1,202,793,626> [17-05-24 20:50:48.639] > ZNet: SZombienet -> SSteamSDK: SetMaxPlayerCount.
+[17-05-24 20:50:48.647] LOG  : General     , 1715979048646> 1,202,793,633> Waiting for response from Steam servers.
+[17-05-24 20:50:49.350] LOG  : Network     , 1715979049350> 1,202,794,337> [17-05-24 20:50:49.350] > ZNet: SSteamSDK -> SZombienet: OnSteamServersConnected.
+[17-05-24 20:50:49.351] LOG  : Network     , 1715979049351> 1,202,794,338> [17-05-24 20:50:49.351] > ZNet: OnSteamServersConnected.
+[17-05-24 20:50:49.352] LOG  : Network     , 1715979049352> 1,202,794,338> [17-05-24 20:50:49.351] > ZNet: SZombienet -> SSteamSDK: SetMaxPlayerCount.
+[17-05-24 20:50:49.353] LOG  : Network     , 1715979049353> 1,202,794,340> [17-05-24 20:50:49.353] > ZNet: Public IP: 159.89.124.137.
+[17-05-24 20:50:49.359] LOG  : General     , 1715979049359> 1,202,794,346> Start making backup to: /home/steam/Zomboid/backups/startup.
+[17-05-24 20:50:55.009] LOG  : General     , 1715979055009> 1,202,799,996> compressionElapsed=4518ms, mergingElapsed=1111ms.
+[17-05-24 20:50:55.137] LOG  : General     , 1715979055137> 1,202,800,123> Backup made in 5772 ms.
+[17-05-24 20:50:55.141] LOG  : General     , 1715979055141> 1,202,800,128> user database "/home/steam/Zomboid/db/pragmaticos.db".
+[17-05-24 20:50:55.902] LOG  : General     , 1715979055901> 1,202,800,888> admin password changed via -adminpassword option.
+[17-05-24 20:50:55.902] LOG  : General     , 1715979055902> 1,202,800,889> Router detection/configuration starting..
+[17-05-24 20:50:55.903] LOG  : General     , 1715979055903> 1,202,800,889> If the server hangs here, set UPnP=false..

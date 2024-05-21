@@ -1,0 +1,200 @@
+[17-05-24 20:52:26.931][info] Start chat server initialization....
+[17-05-24 20:52:26.950][info] General chat has id = 0.
+[17-05-24 20:52:26.952][info] Say chat has id = 1.
+[17-05-24 20:52:26.953][info] Shout chat has id = 2.
+[17-05-24 20:52:26.955][info] Radio chat has id = 3.
+[17-05-24 20:52:26.956][info] Admin chat has id = 4.
+[17-05-24 20:52:26.956][info] Server chat has id = 5.
+[17-05-24 20:52:26.956][info] Chat server successfully initialized.
+[17-05-24 20:53:22.815][info] Player with id = '0' tries to connect.
+[17-05-24 20:53:22.815][info] Adding player '0' to chat server.
+[17-05-24 20:53:22.817][info] Player joined to default chats.
+[17-05-24 20:53:22.818][info] Player bramen(0) joined to chat server successfully.
+[17-05-24 20:55:45.181][info] Player with id = '8' tries to connect.
+[17-05-24 20:55:45.181][info] Adding player '8' to chat server.
+[17-05-24 20:55:45.182][info] Player joined to default chats.
+[17-05-24 20:55:45.182][info] Player DonDiego(8) joined to chat server successfully.
+[17-05-24 20:56:01.663][info] Player with id = '4' tries to connect.
+[17-05-24 20:56:01.663][info] Adding player '4' to chat server.
+[17-05-24 20:56:01.664][info] Player joined to default chats.
+[17-05-24 20:56:01.664][info] Player carlosh(4) joined to chat server successfully.
+[17-05-24 20:58:23.797][info] Player 8 disconnecting....
+[17-05-24 20:58:23.798][info] Disconnecting player 8 finished.
+[17-05-24 21:00:29.741][info] Player 8 disconnecting....
+[17-05-24 21:00:29.741][info] Disconnecting player 8 finished.
+[17-05-24 21:00:29.743][info] Player with id = '8' tries to connect.
+[17-05-24 21:00:29.743][info] Adding player '8' to chat server.
+[17-05-24 21:00:29.743][error] Player or connection is not found on server!.
+[17-05-24 21:00:29.743][error] player = null.
+[17-05-24 21:00:32.620][info] Player with id = '8' tries to connect.
+[17-05-24 21:00:32.620][info] Adding player '8' to chat server.
+[17-05-24 21:00:32.620][info] Player joined to default chats.
+[17-05-24 21:00:32.620][info] Player DonDiego(8) joined to chat server successfully.
+[17-05-24 21:26:33.215][info] Player 4 disconnecting....
+[17-05-24 21:26:33.215][info] Disconnecting player 4 finished.
+[17-05-24 21:26:33.216][info] Player 4 disconnecting....
+[17-05-24 21:26:33.216][info] Disconnecting player 4 finished.
+[17-05-24 22:08:23.875][info] Player 8 disconnecting....
+[17-05-24 22:08:23.876][info] Disconnecting player 8 finished.
+[17-05-24 22:08:23.877][info] Player 8 disconnecting....
+[17-05-24 22:08:23.877][info] Disconnecting player 8 finished.
+[17-05-24 22:52:10.643][info] Got message:ChatMessage{chat=Local, author='bramen', text='psssst'}.
+[17-05-24 22:52:10.645][info] Message ChatMessage{chat=Local, author='bramen', text='psssst'} sent to chat (id = 2) members.
+[17-05-24 22:52:13.813][info] Got message:ChatMessage{chat=Local, author='bramen', text='hey'}.
+[17-05-24 22:52:13.813][info] Message ChatMessage{chat=Local, author='bramen', text='hey'} sent to chat (id = 2) members.
+[17-05-24 22:53:14.805][info] Got message:ChatMessage{chat=Local, author='bramen', text='psst psst'}.
+[17-05-24 22:53:14.806][info] Message ChatMessage{chat=Local, author='bramen', text='psst psst'} sent to chat (id = 2) members.
+[17-05-24 22:53:18.912][info] Got message:ChatMessage{chat=Local, author='bramen', text='psst psst'}.
+[17-05-24 22:53:18.912][info] Message ChatMessage{chat=Local, author='bramen', text='psst psst'} sent to chat (id = 2) members.
+[17-05-24 22:53:24.022][info] Got message:ChatMessage{chat=Local, author='bramen', text='hey'}.
+[17-05-24 22:53:24.023][info] Message ChatMessage{chat=Local, author='bramen', text='hey'} sent to chat (id = 2) members.
+[17-05-24 22:53:28.436][info] Got message:ChatMessage{chat=Local, author='bramen', text='psst psst'}.
+[17-05-24 22:53:28.437][info] Message ChatMessage{chat=Local, author='bramen', text='psst psst'} sent to chat (id = 2) members.
+[17-05-24 22:53:31.087][info] Got message:ChatMessage{chat=Local, author='bramen', text='hey'}.
+[17-05-24 22:53:31.087][info] Message ChatMessage{chat=Local, author='bramen', text='hey'} sent to chat (id = 2) members.
+[18-05-24 02:49:09.273][info] Player 0 disconnecting....
+[18-05-24 02:49:09.274][info] Disconnecting player 0 finished.
+[18-05-24 02:49:18.737][info] Player 0 disconnecting....
+[18-05-24 02:49:18.737][info] Disconnecting player 0 finished.
+[18-05-24 02:49:18.737][info] Player 0 disconnecting....
+[18-05-24 02:49:18.737][info] Disconnecting player 0 finished.
+[20-05-24 14:07:53.213][info] Player with id = '0' tries to connect.
+[20-05-24 14:07:53.213][info] Adding player '0' to chat server.
+[20-05-24 14:07:53.214][info] Player joined to default chats.
+[20-05-24 14:07:53.214][info] Player carlosh(0) joined to chat server successfully.
+[20-05-24 14:19:44.728][info] Got message:ChatMessage{chat=Local, author='carlosh', text='?HEY!'}.
+[20-05-24 14:19:44.729][info] Message ChatMessage{chat=Local, author='carlosh', text='?HEY!'} sent to chat (id = 2) members.
+[20-05-24 14:24:45.704][info] Player with id = '4' tries to connect.
+[20-05-24 14:24:45.704][info] Adding player '4' to chat server.
+[20-05-24 14:24:45.704][info] Player joined to default chats.
+[20-05-24 14:24:45.704][info] Player DonDiego(4) joined to chat server successfully.
+[20-05-24 16:24:55.220][info] Got message:ChatMessage{chat=Local, author='DonDiego', text='?EH T?!'}.
+[20-05-24 16:24:55.221][info] Message ChatMessage{chat=Local, author='DonDiego', text='?EH T?!'} sent to chat (id = 2) members.
+[20-05-24 16:36:29.489][info] Player 0 disconnecting....
+[20-05-24 16:36:29.489][info] Disconnecting player 0 finished.
+[20-05-24 16:36:29.490][info] Player 0 disconnecting....
+[20-05-24 16:36:29.490][info] Disconnecting player 0 finished.
+[20-05-24 16:36:34.195][info] Got message:ChatMessage{chat=Local, author='DonDiego', text='?POR AQU?!'}.
+[20-05-24 16:36:34.196][info] Message ChatMessage{chat=Local, author='DonDiego', text='?POR AQU?!'} sent to chat (id = 2) members.
+[20-05-24 16:36:36.281][info] Got message:ChatMessage{chat=Local, author='DonDiego', text='?EH T?!'}.
+[20-05-24 16:36:36.281][info] Message ChatMessage{chat=Local, author='DonDiego', text='?EH T?!'} sent to chat (id = 2) members.
+[20-05-24 16:43:35.239][info] Player with id = '0' tries to connect.
+[20-05-24 16:43:35.239][info] Adding player '0' to chat server.
+[20-05-24 16:43:35.239][info] Player joined to default chats.
+[20-05-24 16:43:35.239][info] Player carlosh(0) joined to chat server successfully.
+[20-05-24 17:50:08.713][info] Player 0 disconnecting....
+[20-05-24 17:50:08.713][info] Disconnecting player 0 finished.
+[20-05-24 17:50:08.713][info] Player 0 disconnecting....
+[20-05-24 17:50:08.713][info] Disconnecting player 0 finished.
+[20-05-24 18:30:40.941][info] Player 4 disconnecting....
+[20-05-24 18:30:40.941][info] Disconnecting player 4 finished.
+[20-05-24 18:30:40.941][info] Player 4 disconnecting....
+[20-05-24 18:30:40.941][info] Disconnecting player 4 finished.
+[20-05-24 18:32:50.870][info] Player with id = '0' tries to connect.
+[20-05-24 18:32:50.870][info] Adding player '0' to chat server.
+[20-05-24 18:32:50.870][info] Player joined to default chats.
+[20-05-24 18:32:50.870][info] Player DonDiego(0) joined to chat server successfully.
+[20-05-24 18:37:59.568][info] Player 0 disconnecting....
+[20-05-24 18:37:59.569][info] Disconnecting player 0 finished.
+[20-05-24 18:37:59.569][info] Player 0 disconnecting....
+[20-05-24 18:37:59.569][info] Disconnecting player 0 finished.
+[20-05-24 19:44:27.467][info] Player with id = '0' tries to connect.
+[20-05-24 19:44:27.467][info] Adding player '0' to chat server.
+[20-05-24 19:44:27.467][info] Player joined to default chats.
+[20-05-24 19:44:27.467][info] Player DonDiego(0) joined to chat server successfully.
+[20-05-24 19:53:31.412][info] Got message:ChatMessage{chat=Local, author='DonDiego', text='?EH T?!'}.
+[20-05-24 19:53:31.413][info] Message ChatMessage{chat=Local, author='DonDiego', text='?EH T?!'} sent to chat (id = 2) members.
+[20-05-24 19:53:33.481][info] Got message:ChatMessage{chat=Local, author='DonDiego', text='?POR AQU?!'}.
+[20-05-24 19:53:33.481][info] Message ChatMessage{chat=Local, author='DonDiego', text='?POR AQU?!'} sent to chat (id = 2) members.
+[20-05-24 19:53:36.003][info] Got message:ChatMessage{chat=Local, author='DonDiego', text='?POR AQU?!'}.
+[20-05-24 19:53:36.003][info] Message ChatMessage{chat=Local, author='DonDiego', text='?POR AQU?!'} sent to chat (id = 2) members.
+[20-05-24 19:54:00.461][info] Got message:ChatMessage{chat=Local, author='DonDiego', text='?HEY!'}.
+[20-05-24 19:54:00.461][info] Message ChatMessage{chat=Local, author='DonDiego', text='?HEY!'} sent to chat (id = 2) members.
+[20-05-24 20:09:00.802][info] Player 0 disconnecting....
+[20-05-24 20:09:00.803][info] Disconnecting player 0 finished.
+[20-05-24 20:09:00.803][info] Player 0 disconnecting....
+[20-05-24 20:09:00.803][info] Disconnecting player 0 finished.
+[20-05-24 20:41:54.793][info] Player with id = '0' tries to connect.
+[20-05-24 20:41:54.793][info] Adding player '0' to chat server.
+[20-05-24 20:41:54.793][info] Player joined to default chats.
+[20-05-24 20:41:54.793][info] Player DonDiego(0) joined to chat server successfully.
+[20-05-24 20:50:49.218][info] Got message:ChatMessage{chat=Local, author='DonDiego', text='?HEY!'}.
+[20-05-24 20:50:49.219][info] Message ChatMessage{chat=Local, author='DonDiego', text='?HEY!'} sent to chat (id = 2) members.
+[20-05-24 20:50:59.120][info] Got message:ChatMessage{chat=Local, author='DonDiego', text='?EH T?!'}.
+[20-05-24 20:50:59.120][info] Message ChatMessage{chat=Local, author='DonDiego', text='?EH T?!'} sent to chat (id = 2) members.
+[20-05-24 20:51:03.024][info] Got message:ChatMessage{chat=Local, author='DonDiego', text='?HEY!'}.
+[20-05-24 20:51:03.024][info] Message ChatMessage{chat=Local, author='DonDiego', text='?HEY!'} sent to chat (id = 2) members.
+[20-05-24 20:51:05.185][info] Got message:ChatMessage{chat=Local, author='DonDiego', text='?HEY!'}.
+[20-05-24 20:51:05.185][info] Message ChatMessage{chat=Local, author='DonDiego', text='?HEY!'} sent to chat (id = 2) members.
+[20-05-24 20:51:06.535][info] Got message:ChatMessage{chat=Local, author='DonDiego', text='?EH T?!'}.
+[20-05-24 20:51:06.535][info] Message ChatMessage{chat=Local, author='DonDiego', text='?EH T?!'} sent to chat (id = 2) members.
+[20-05-24 20:51:08.241][info] Got message:ChatMessage{chat=Local, author='DonDiego', text='?POR AQU?!'}.
+[20-05-24 20:51:08.242][info] Message ChatMessage{chat=Local, author='DonDiego', text='?POR AQU?!'} sent to chat (id = 2) members.
+[20-05-24 21:35:02.166][info] Player 0 disconnecting....
+[20-05-24 21:35:02.167][info] Disconnecting player 0 finished.
+[20-05-24 21:35:02.167][info] Player 0 disconnecting....
+[20-05-24 21:35:02.167][info] Disconnecting player 0 finished.
+[20-05-24 23:13:37.813][info] Player with id = '0' tries to connect.
+[20-05-24 23:13:37.813][info] Adding player '0' to chat server.
+[20-05-24 23:13:37.813][info] Player joined to default chats.
+[20-05-24 23:13:37.813][info] Player DonDiego(0) joined to chat server successfully.
+[21-05-24 00:05:28.011][info] Player 0 disconnecting....
+[21-05-24 00:05:28.011][info] Disconnecting player 0 finished.
+[21-05-24 00:05:28.011][info] Player 0 disconnecting....
+[21-05-24 00:05:28.011][info] Disconnecting player 0 finished.
+[21-05-24 00:07:51.117][info] Player with id = '0' tries to connect.
+[21-05-24 00:07:51.117][info] Adding player '0' to chat server.
+[21-05-24 00:07:51.117][info] Player joined to default chats.
+[21-05-24 00:07:51.117][info] Player DonDiego(0) joined to chat server successfully.
+[21-05-24 00:21:51.823][info] Player with id = '4' tries to connect.
+[21-05-24 00:21:51.823][info] Adding player '4' to chat server.
+[21-05-24 00:21:51.823][info] Player joined to default chats.
+[21-05-24 00:21:51.823][info] Player carlosh(4) joined to chat server successfully.
+[21-05-24 01:31:09.550][info] Got message:ChatMessage{chat=Local, author='carlosh', text='?HEY!'}.
+[21-05-24 01:31:09.557][info] Message ChatMessage{chat=Local, author='carlosh', text='?HEY!'} sent to chat (id = 2) members.
+[21-05-24 01:47:45.082][info] Got message:ChatMessage{chat=Local, author='carlosh', text='?EH T?!'}.
+[21-05-24 01:47:45.083][info] Message ChatMessage{chat=Local, author='carlosh', text='?EH T?!'} sent to chat (id = 2) members.
+[21-05-24 01:48:49.614][info] Got message:ChatMessage{chat=Local, author='carlosh', text='?HEY!'}.
+[21-05-24 01:48:49.615][info] Message ChatMessage{chat=Local, author='carlosh', text='?HEY!'} sent to chat (id = 2) members.
+[21-05-24 01:53:59.913][info] Got message:ChatMessage{chat=Local, author='carlosh', text='?POR AQU?!'}.
+[21-05-24 01:53:59.914][info] Message ChatMessage{chat=Local, author='carlosh', text='?POR AQU?!'} sent to chat (id = 2) members.
+[21-05-24 02:27:52.353][info] Player 4 disconnecting....
+[21-05-24 02:27:52.353][info] Disconnecting player 4 finished.
+[21-05-24 02:27:52.354][info] Player 4 disconnecting....
+[21-05-24 02:27:52.354][info] Disconnecting player 4 finished.
+[21-05-24 03:05:40.003][info] Player 0 disconnecting....
+[21-05-24 03:05:40.004][info] Disconnecting player 0 finished.
+[21-05-24 03:05:40.004][info] Player 0 disconnecting....
+[21-05-24 03:05:40.004][info] Disconnecting player 0 finished.
+[21-05-24 12:38:14.180][info] Player with id = '0' tries to connect.
+[21-05-24 12:38:14.180][info] Adding player '0' to chat server.
+[21-05-24 12:38:14.180][info] Player joined to default chats.
+[21-05-24 12:38:14.180][info] Player DonDiego(0) joined to chat server successfully.
+[21-05-24 13:36:19.656][info] Player 0 disconnecting....
+[21-05-24 13:36:19.656][info] Disconnecting player 0 finished.
+[21-05-24 13:36:19.656][info] Player 0 disconnecting....
+[21-05-24 13:36:19.656][info] Disconnecting player 0 finished.
+[21-05-24 14:00:13.721][info] Player with id = '0' tries to connect.
+[21-05-24 14:00:13.721][info] Adding player '0' to chat server.
+[21-05-24 14:00:13.721][info] Player joined to default chats.
+[21-05-24 14:00:13.721][info] Player carlosh(0) joined to chat server successfully.
+[21-05-24 14:00:25.110][info] Player with id = '4' tries to connect.
+[21-05-24 14:00:25.110][info] Adding player '4' to chat server.
+[21-05-24 14:00:25.110][info] Player joined to default chats.
+[21-05-24 14:00:25.110][info] Player DonDiego(4) joined to chat server successfully.
+[21-05-24 14:19:34.911][info] Got message:ChatMessage{chat=Local, author='carlosh', text='?EH T?!'}.
+[21-05-24 14:19:34.914][info] Message ChatMessage{chat=Local, author='carlosh', text='?EH T?!'} sent to chat (id = 2) members.
+[21-05-24 14:56:39.768][info] Got message:ChatMessage{chat=Local, author='DonDiego', text='?POR AQU?!'}.
+[21-05-24 14:56:39.769][info] Message ChatMessage{chat=Local, author='DonDiego', text='?POR AQU?!'} sent to chat (id = 2) members.
+[21-05-24 15:02:49.612][info] Player with id = '8' tries to connect.
+[21-05-24 15:02:49.612][info] Adding player '8' to chat server.
+[21-05-24 15:02:49.612][info] Player joined to default chats.
+[21-05-24 15:02:49.612][info] Player bramen(8) joined to chat server successfully.
+[21-05-24 15:08:49.930][info] Player 8 disconnecting....
+[21-05-24 15:08:49.930][info] Disconnecting player 8 finished.
+[21-05-24 15:08:49.930][info] Player 8 disconnecting....
+[21-05-24 15:08:49.930][info] Disconnecting player 8 finished.
+[21-05-24 15:10:08.222][info] Player with id = '8' tries to connect.
+[21-05-24 15:10:08.222][info] Adding player '8' to chat server.
+[21-05-24 15:10:08.222][info] Player joined to default chats.
+[21-05-24 15:10:08.222][info] Player bramen(8) joined to chat server successfully.
