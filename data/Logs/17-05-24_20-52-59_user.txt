@@ -134,3 +134,19 @@
 [21-05-24 15:09:58.061] 76561199040661533 "bramen" attempting to join used queue.
 [21-05-24 15:10:07.038] player bramen loading time was: 8652 ms.
 [21-05-24 15:10:08.228] 76561199040661533 "bramen" fully connected (10768,9979,0).
+[21-05-24 17:09:57.071] 76561198333912692 "carlosh" removed connection index=0.
+[21-05-24 17:09:57.124] 76561198333912692 "carlosh" disconnected player (10146,9560,0).
+[21-05-24 17:10:55.851] 76561198430296167 "DonDiego" removed connection index=1.
+[21-05-24 17:10:55.863] 76561198430296167 "DonDiego" disconnected player (10142,9552,0).
+[21-05-24 19:05:58.622] 76561199040661533 "bramen" removed connection index=2.
+[21-05-24 19:05:58.634] 76561199040661533 "bramen" disconnected player (10120,9554,0).
+[21-05-24 19:05:58.634] 76561199040661533 "bramen" removed connection index=2.
+[21-05-24 19:06:35.857] added connection index=0 181.129.215.156.
+[21-05-24 19:06:36.767] 76561199040661533 "bramen" attempting to join.
+[21-05-24 19:06:36.769] 76561199040661533 "bramen" allowed to join.
+[21-05-24 19:06:45.862] 76561199040661533 "bramen" attempting to join used queue.
+[21-05-24 19:06:56.546] player bramen loading time was: 9581 ms.
+[21-05-24 19:07:04.359] 76561199040661533 "bramen" fully connected (10120,9559,0).
+[21-05-24 19:10:14.449] user bramen died at (10149,9558,0) (non pvp).
+[21-05-24 19:10:21.121] 76561199040661533 "bramen" removed connection index=0.
+[21-05-24 19:10:21.132] 76561199040661533 "bramen" disconnected player (10149,9558,0).

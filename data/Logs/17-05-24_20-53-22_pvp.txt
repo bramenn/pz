@@ -34,3 +34,8 @@
 [21-05-24 15:02:49.613][INFO] user "bramen" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
 [21-05-24 15:08:49.930][INFO] user "bramen" store safety enabled=true last=true cooldown=0.0 toggle=0.0.
 [21-05-24 15:10:08.223][INFO] user "bramen" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[21-05-24 17:09:57.101][INFO] user "carlosh" store safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[21-05-24 17:10:55.862][INFO] user "DonDiego" store safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[21-05-24 19:05:58.632][INFO] user "bramen" store safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[21-05-24 19:07:04.353][INFO] user "bramen" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[21-05-24 19:10:14.448][INFO] user "bramen" clear safety enabled=true last=true cooldown=0.0 toggle=0.0.

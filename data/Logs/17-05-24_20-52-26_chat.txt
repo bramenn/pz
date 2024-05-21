@@ -242,3 +242,31 @@
 [21-05-24 15:58:03.279][info] Message ChatMessage{chat=Local, author='carlosh', text='?HEY!'} sent to chat (id = 2) members.
 [21-05-24 15:58:03.501][info] Got message:ChatMessage{chat=Local, author='carlosh', text='?HEY!'}.
 [21-05-24 15:58:03.501][info] Message ChatMessage{chat=Local, author='carlosh', text='?HEY!'} sent to chat (id = 2) members.
+[21-05-24 16:42:31.904][info] Got message:ChatMessage{chat=Local, author='DonDiego', text='?POR AQU?!'}.
+[21-05-24 16:42:31.907][info] Message ChatMessage{chat=Local, author='DonDiego', text='?POR AQU?!'} sent to chat (id = 2) members.
+[21-05-24 17:09:57.099][info] Player 0 disconnecting....
+[21-05-24 17:09:57.101][info] Disconnecting player 0 finished.
+[21-05-24 17:09:57.121][info] Player 0 disconnecting....
+[21-05-24 17:09:57.121][info] Disconnecting player 0 finished.
+[21-05-24 17:10:55.861][info] Player 4 disconnecting....
+[21-05-24 17:10:55.862][info] Disconnecting player 4 finished.
+[21-05-24 17:10:55.862][info] Player 4 disconnecting....
+[21-05-24 17:10:55.862][info] Disconnecting player 4 finished.
+[21-05-24 17:13:35.271][info] Got message:ChatMessage{chat=Local, author='bramen', text='?HEY!'}.
+[21-05-24 17:13:35.272][info] Message ChatMessage{chat=Local, author='bramen', text='?HEY!'} sent to chat (id = 2) members.
+[21-05-24 18:08:49.342][info] Got message:ChatMessage{chat=Local, author='bramen', text='?HEY!'}.
+[21-05-24 18:08:49.342][info] Message ChatMessage{chat=Local, author='bramen', text='?HEY!'} sent to chat (id = 2) members.
+[21-05-24 19:05:58.632][info] Player 8 disconnecting....
+[21-05-24 19:05:58.632][info] Disconnecting player 8 finished.
+[21-05-24 19:05:58.633][info] Player 8 disconnecting....
+[21-05-24 19:05:58.634][info] Disconnecting player 8 finished.
+[21-05-24 19:07:04.352][info] Player with id = '0' tries to connect.
+[21-05-24 19:07:04.352][info] Adding player '0' to chat server.
+[21-05-24 19:07:04.352][info] Player joined to default chats.
+[21-05-24 19:07:04.353][info] Player bramen(0) joined to chat server successfully.
+[21-05-24 19:10:14.447][info] Player 0 disconnecting....
+[21-05-24 19:10:14.448][info] Disconnecting player 0 finished.
+[21-05-24 19:10:21.132][info] Player 0 disconnecting....
+[21-05-24 19:10:21.132][info] Disconnecting player 0 finished.
+[21-05-24 19:10:21.132][info] Player 0 disconnecting....
+[21-05-24 19:10:21.132][info] Disconnecting player 0 finished.
