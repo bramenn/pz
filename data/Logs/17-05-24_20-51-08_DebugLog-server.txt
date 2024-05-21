@@ -2438,3 +2438,168 @@ Server Steam ID 90198315184689155
 [21-05-24 15:25:15.459] WARN : Multiplayer , 1716305115459> 1,528,860,445> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (22) free=106,954,752.
 [21-05-24 15:26:11.364] WARN : Multiplayer , 1716305171364> 1,528,916,351> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (23) free=106,954,752.
 [21-05-24 15:26:11.552] WARN : Multiplayer , 1716305171552> 1,528,916,539> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (24) free=106,954,752.
+[21-05-24 15:28:06.987] WARN : Multiplayer , 1716305286987> 1,529,031,973> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (25) free=106,954,752.
+[21-05-24 15:28:58.073] WARN : Multiplayer , 1716305338073> 1,529,083,059> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (26) free=106,954,752.
+[21-05-24 15:29:27.911] WARN : Multiplayer , 1716305367911> 1,529,112,898> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (27) free=106,954,752.
+[21-05-24 15:30:19.370] WARN : Multiplayer , 1716305419370> 1,529,164,357> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (28) free=106,954,752.
+[21-05-24 15:31:50.363] WARN : Multiplayer , 1716305510363> 1,529,255,349> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (29) free=106,954,752.
+[21-05-24 15:31:51.372] WARN : Multiplayer , 1716305511372> 1,529,256,359> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (30) free=106,954,752.
+[21-05-24 15:32:10.465] WARN : Multiplayer , 1716305530465> 1,529,275,452> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (31) free=106,954,752.
+[21-05-24 15:32:58.815] WARN : Multiplayer , 1716305578813> 1,529,323,800> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (32) free=106,954,752.
+[21-05-24 15:34:10.241] WARN : Multiplayer , 1716305650241> 1,529,395,227> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (33) free=106,954,752.
+[21-05-24 15:34:31.063] WARN : Multiplayer , 1716305671063> 1,529,416,050> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (34) free=106,954,752.
+[21-05-24 15:34:33.266] WARN : Multiplayer , 1716305673266> 1,529,418,253> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (35) free=104,857,600.
+[21-05-24 15:34:36.738] WARN : Multiplayer , 1716305676738> 1,529,421,725> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (36) free=104,857,600.
+[21-05-24 15:34:42.139] WARN : Multiplayer , 1716305682139> 1,529,427,125> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (37) free=106,954,752.
+[21-05-24 15:34:52.742] WARN : Multiplayer , 1716305692742> 1,529,437,729> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (38) free=104,857,600.
+[21-05-24 15:35:14.440] WARN : Multiplayer , 1716305714440> 1,529,459,426> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (39) free=104,857,600.
+[21-05-24 15:35:19.739] WARN : Multiplayer , 1716305719739> 1,529,464,726> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (40) free=106,954,752.
+[21-05-24 15:35:24.938] WARN : Multiplayer , 1716305724938> 1,529,469,924> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (41) free=106,954,752.
+[21-05-24 15:35:30.238] WARN : Multiplayer , 1716305730238> 1,529,475,225> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (42) free=106,954,752.
+[21-05-24 15:35:35.340] WARN : Multiplayer , 1716305735340> 1,529,480,327> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (43) free=104,857,600.
+[21-05-24 15:35:40.540] WARN : Multiplayer , 1716305740540> 1,529,485,526> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (44) free=106,954,752.
+[21-05-24 15:35:51.962] WARN : Multiplayer , 1716305751962> 1,529,496,948> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (45) free=106,954,752.
+[21-05-24 15:35:56.141] WARN : Multiplayer , 1716305756140> 1,529,501,127> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (46) free=106,954,752.
+[21-05-24 15:36:01.338] WARN : Multiplayer , 1716305761338> 1,529,506,325> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (47) free=106,954,752.
+[21-05-24 15:36:14.485] WARN : Multiplayer , 1716305774485> 1,529,519,472> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (48) free=106,954,752.
+[21-05-24 15:36:17.137] WARN : Multiplayer , 1716305777137> 1,529,522,124> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (49) free=106,954,752.
+[21-05-24 15:36:22.236] WARN : Multiplayer , 1716305782236> 1,529,527,223> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (50) free=104,857,600.
+[21-05-24 15:36:32.639] WARN : Multiplayer , 1716305792639> 1,529,537,625> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (51) free=106,954,752.
+[21-05-24 15:36:33.611] WARN : Multiplayer , 1716305793611> 1,529,538,598> DeadCharacterPacket.process> Corpse IsoZombie(-8418) teleport: pose (front) => (back).
+[21-05-24 15:36:37.738] WARN : Multiplayer , 1716305797738> 1,529,542,724> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (52) free=106,954,752.
+[21-05-24 15:36:43.139] WARN : Multiplayer , 1716305803139> 1,529,548,126> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (53) free=106,954,752.
+[21-05-24 15:36:43.665] LOG  : General     , 1716305803665> 1,529,548,651> Message 'ChatMessage{chat=Local, author='carlosh', text='?HEY!'}' was sent to player with id '4' of chat '2'.
+[21-05-24 15:36:44.830] LOG  : General     , 1716305804830> 1,529,549,817> Message 'ChatMessage{chat=Local, author='carlosh', text='?EH T?!'}' was sent to player with id '4' of chat '2'.
+[21-05-24 15:36:47.586] LOG  : General     , 1716305807586> 1,529,552,573> Message 'ChatMessage{chat=Local, author='DonDiego', text='?EH T?!'}' was sent to player with id '0' of chat '2'.
+[21-05-24 15:36:48.240] WARN : Multiplayer , 1716305808240> 1,529,553,226> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (54) free=106,954,752.
+[21-05-24 15:36:50.239] LOG  : General     , 1716305810239> 1,529,555,225> Message 'ChatMessage{chat=Local, author='DonDiego', text='?EH T?!'}' was sent to player with id '0' of chat '2'.
+[21-05-24 15:36:51.897] LOG  : General     , 1716305811897> 1,529,556,884> Message 'ChatMessage{chat=Local, author='DonDiego', text='?HEY!'}' was sent to player with id '0' of chat '2'.
+[21-05-24 15:36:53.539] WARN : Multiplayer , 1716305813539> 1,529,558,526> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (55) free=104,857,600.
+[21-05-24 15:36:53.602] LOG  : General     , 1716305813602> 1,529,558,588> Message 'ChatMessage{chat=Local, author='DonDiego', text='?HEY!'}' was sent to player with id '0' of chat '2'.
+[21-05-24 15:36:55.917] LOG  : General     , 1716305815917> 1,529,560,904> Message 'ChatMessage{chat=Local, author='DonDiego', text='?POR AQU?!'}' was sent to player with id '0' of chat '2'.
+[21-05-24 15:37:04.137] WARN : Multiplayer , 1716305824137> 1,529,569,124> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (56) free=106,954,752.
+[21-05-24 15:37:09.140] WARN : Multiplayer , 1716305829140> 1,529,574,126> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (57) free=106,954,752.
+[21-05-24 15:37:14.143] WARN : Multiplayer , 1716305834140> 1,529,579,130> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (58) free=106,954,752.
+[21-05-24 15:37:24.338] WARN : Multiplayer , 1716305844338> 1,529,589,324> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (59) free=106,954,752.
+[21-05-24 15:37:35.785] WARN : Multiplayer , 1716305855785> 1,529,600,771> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (60) free=106,954,752.
+[21-05-24 15:37:39.339] WARN : Multiplayer , 1716305859339> 1,529,604,326> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (61) free=106,954,752.
+[21-05-24 15:37:44.837] WARN : Multiplayer , 1716305864837> 1,529,609,824> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (62) free=106,954,752.
+[21-05-24 15:38:04.559] WARN : Multiplayer , 1716305884559> 1,529,629,546> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (63) free=106,954,752.
+[21-05-24 15:38:05.339] WARN : Multiplayer , 1716305885339> 1,529,630,326> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (64) free=106,954,752.
+[21-05-24 15:38:26.747] WARN : Multiplayer , 1716305906747> 1,529,651,734> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (65) free=106,954,752.
+[21-05-24 15:38:31.837] WARN : Multiplayer , 1716305911837> 1,529,656,824> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (66) free=106,954,752.
+[21-05-24 15:38:42.240] WARN : Multiplayer , 1716305922239> 1,529,667,226> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (67) free=106,954,752.
+[21-05-24 15:38:57.939] WARN : Multiplayer , 1716305937939> 1,529,682,926> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (68) free=106,954,752.
+[21-05-24 15:39:03.659] WARN : Multiplayer , 1716305943659> 1,529,688,646> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (69) free=106,954,752.
+[21-05-24 15:39:08.940] WARN : Multiplayer , 1716305948940> 1,529,693,927> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (70) free=104,857,600.
+[21-05-24 15:39:14.138] WARN : Multiplayer , 1716305954138> 1,529,699,125> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (71) free=106,954,752.
+[21-05-24 15:39:19.039] WARN : Multiplayer , 1716305959039> 1,529,704,026> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (72) free=106,954,752.
+[21-05-24 15:39:24.239] WARN : Multiplayer , 1716305964239> 1,529,709,226> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (73) free=106,954,752.
+[21-05-24 15:39:29.439] WARN : Multiplayer , 1716305969439> 1,529,714,426> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (74) free=106,954,752.
+[21-05-24 15:39:34.738] WARN : Multiplayer , 1716305974738> 1,529,719,725> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (75) free=106,954,752.
+[21-05-24 15:39:40.658] WARN : Multiplayer , 1716305980658> 1,529,725,645> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (76) free=106,954,752.
+[21-05-24 15:39:45.137] WARN : Multiplayer , 1716305985137> 1,529,730,124> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (77) free=106,954,752.
+[21-05-24 15:40:43.368] WARN : Multiplayer , 1716306043368> 1,529,788,354> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (78) free=106,954,752.
+[21-05-24 15:40:54.337] WARN : Multiplayer , 1716306054337> 1,529,799,324> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (79) free=104,857,600.
+[21-05-24 15:40:59.736] WARN : Multiplayer , 1716306059736> 1,529,804,723> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (80) free=106,954,752.
+[21-05-24 15:41:05.644] WARN : Multiplayer , 1716306065644> 1,529,810,631> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (81) free=106,954,752.
+[21-05-24 15:41:10.836] WARN : Multiplayer , 1716306070836> 1,529,815,823> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (82) free=106,954,752.
+[21-05-24 15:41:16.036] WARN : Multiplayer , 1716306076036> 1,529,821,023> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (83) free=104,857,600.
+[21-05-24 15:41:21.343] WARN : Multiplayer , 1716306081343> 1,529,826,330> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (84) free=104,857,600.
+[21-05-24 15:41:26.940] WARN : Multiplayer , 1716306086940> 1,529,831,927> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (85) free=106,954,752.
+[21-05-24 15:41:32.052] WARN : Multiplayer , 1716306092052> 1,529,837,039> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (86) free=104,857,600.
+[21-05-24 15:41:37.042] WARN : Multiplayer , 1716306097042> 1,529,842,029> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (87) free=104,857,600.
+[21-05-24 15:41:42.245] WARN : Multiplayer , 1716306102245> 1,529,847,232> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (88) free=104,857,600.
+[21-05-24 15:41:47.237] WARN : Multiplayer , 1716306107237> 1,529,852,224> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (89) free=106,954,752.
+[21-05-24 15:41:52.712] WARN : Multiplayer , 1716306112712> 1,529,857,699> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (90) free=106,954,752.
+[21-05-24 15:41:57.839] WARN : Multiplayer , 1716306117839> 1,529,862,826> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (91) free=106,954,752.
+[21-05-24 15:42:03.237] WARN : Multiplayer , 1716306123237> 1,529,868,224> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (92) free=106,954,752.
+[21-05-24 15:42:08.638] WARN : Multiplayer , 1716306128638> 1,529,873,625> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (93) free=104,857,600.
+[21-05-24 15:42:13.737] WARN : Multiplayer , 1716306133737> 1,529,878,724> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (94) free=106,954,752.
+[21-05-24 15:42:34.244] WARN : Multiplayer , 1716306154244> 1,529,899,231> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (95) free=104,857,600.
+[21-05-24 15:43:16.051] WARN : Multiplayer , 1716306196051> 1,529,941,038> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (96) free=106,954,752.
+[21-05-24 15:43:20.939] WARN : Multiplayer , 1716306200939> 1,529,945,925> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (97) free=106,954,752.
+[21-05-24 15:43:27.558] LOG  : General     , 1716306207558> 1,529,952,545> Updated MoonPhase = Waxing crescent, float = 0.25, int = 1.
+[21-05-24 15:43:29.667] WARN : Multiplayer , 1716306209666> 1,529,954,653> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (98) free=106,954,752.
+[21-05-24 15:43:31.555] WARN : Multiplayer , 1716306211555> 1,529,956,542> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (99) free=104,857,600.
+[21-05-24 15:43:43.040] WARN : Multiplayer , 1716306223040> 1,529,968,027> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (100) free=106,954,752.
+[21-05-24 15:43:56.764] WARN : Multiplayer , 1716306236764> 1,529,981,751> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (101) free=106,954,752.
+[21-05-24 15:43:59.438] WARN : Multiplayer , 1716306239438> 1,529,984,425> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (102) free=104,857,600.
+[21-05-24 15:44:10.839] WARN : Multiplayer , 1716306250839> 1,529,995,825> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (103) free=106,954,752.
+[21-05-24 15:44:16.140] WARN : Multiplayer , 1716306256140> 1,530,001,126> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (104) free=106,954,752.
+[21-05-24 15:44:39.166] WARN : Multiplayer , 1716306279166> 1,530,024,153> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (105) free=106,954,752.
+[21-05-24 15:44:41.937] WARN : Multiplayer , 1716306281937> 1,530,026,924> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (106) free=106,954,752.
+[21-05-24 15:44:47.138] WARN : Multiplayer , 1716306287138> 1,530,032,125> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (107) free=106,954,752.
+[21-05-24 15:45:05.667] WARN : Multiplayer , 1716306305665> 1,530,050,653> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (108) free=106,954,752.
+[21-05-24 15:45:07.738] WARN : Multiplayer , 1716306307738> 1,530,052,724> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (109) free=106,954,752.
+[21-05-24 15:45:12.440] WARN : Multiplayer , 1716306312440> 1,530,057,427> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (110) free=106,954,752.
+[21-05-24 15:45:17.437] WARN : Multiplayer , 1716306317437> 1,530,062,423> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (111) free=106,954,752.
+[21-05-24 15:45:22.961] WARN : Multiplayer , 1716306322961> 1,530,067,947> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (112) free=106,954,752.
+[21-05-24 15:45:26.542] WARN : Multiplayer , 1716306326542> 1,530,071,528> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (113) free=106,954,752.
+[21-05-24 15:45:31.238] WARN : Multiplayer , 1716306331238> 1,530,076,224> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (114) free=106,954,752.
+[21-05-24 15:45:35.842] WARN : Multiplayer , 1716306335841> 1,530,080,828> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (115) free=104,857,600.
+[21-05-24 15:45:40.136] WARN : Multiplayer , 1716306340136> 1,530,085,123> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (116) free=106,954,752.
+[21-05-24 15:45:44.838] WARN : Multiplayer , 1716306344838> 1,530,089,825> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (117) free=106,954,752.
+[21-05-24 15:45:52.867] WARN : Multiplayer , 1716306352867> 1,530,097,853> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (118) free=106,954,752.
+[21-05-24 15:45:54.138] WARN : Multiplayer , 1716306354138> 1,530,099,125> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (119) free=106,954,752.
+[21-05-24 15:45:58.637] WARN : Multiplayer , 1716306358637> 1,530,103,624> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (120) free=104,857,600.
+[21-05-24 15:46:03.638] WARN : Multiplayer , 1716306363638> 1,530,108,624> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (121) free=106,954,752.
+[21-05-24 15:46:08.646] WARN : Multiplayer , 1716306368646> 1,530,113,632> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (122) free=106,954,752.
+[21-05-24 15:46:13.640] WARN : Multiplayer , 1716306373640> 1,530,118,627> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (123) free=106,954,752.
+[21-05-24 15:46:18.939] WARN : Multiplayer , 1716306378939> 1,530,123,926> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (124) free=104,857,600.
+[21-05-24 15:46:24.244] WARN : Multiplayer , 1716306384244> 1,530,129,230> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (125) free=106,954,752.
+[21-05-24 15:46:29.340] WARN : Multiplayer , 1716306389340> 1,530,134,326> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (126) free=106,954,752.
+[21-05-24 15:46:34.541] WARN : Multiplayer , 1716306394541> 1,530,139,528> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (127) free=106,954,752.
+[21-05-24 15:46:59.678] WARN : Multiplayer , 1716306419678> 1,530,164,665> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (128) free=106,954,752.
+[21-05-24 15:47:00.541] WARN : Multiplayer , 1716306420541> 1,530,165,528> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (129) free=106,954,752.
+[21-05-24 15:47:06.142] WARN : Multiplayer , 1716306426142> 1,530,171,128> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (130) free=104,857,600.
+[21-05-24 15:47:11.740] WARN : Multiplayer , 1716306431740> 1,530,176,727> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (131) free=106,954,752.
+[21-05-24 15:47:17.738] WARN : Multiplayer , 1716306437737> 1,530,182,723> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (132) free=106,954,752.
+[21-05-24 15:47:24.250] WARN : Multiplayer , 1716306444249> 1,530,189,236> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (133) free=104,857,600.
+[21-05-24 15:48:31.702] WARN : Multiplayer , 1716306511702> 1,530,256,688> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (134) free=106,954,752.
+[21-05-24 15:48:32.204] LOG  : General     , 1716306512204> 1,530,257,191> Calculate weather front strength = 0.6421395.
+[21-05-24 15:48:32.208] LOG  : General     , 1716306512208> 1,530,257,194> Reseeding weather period, new seed: 987641.
+[21-05-24 15:48:32.210] LOG  : General     , 1716306512210> 1,530,257,196> WeatherPeriod: Creating weather pattern with strength = 0.6421395.
+[21-05-24 15:48:32.212] LOG  : General     , 1716306512212> 1,530,257,199> WeatherPeriod: Clearing existing stages....
+[21-05-24 15:48:32.212] LOG  : General     , 1716306512212> 1,530,257,199> WeatherPeriod: Day mean temperature = 23.535269 C..
+[21-05-24 15:48:32.213] LOG  : General     , 1716306512213> 1,530,257,199> WeatherPeriod: season = Early Summer.
+[21-05-24 15:48:32.215] LOG  : General     , 1716306512215> 1,530,257,202> WeatherPeriod: cloudColor r=0.4, g=0.05, b=0.05.
+[21-05-24 15:48:32.216] LOG  : General     , 1716306512216> 1,530,257,202> WeatherPeriod: chances, storm=60.0, tropical=55.0, blizzard=0.0. rainTimeMulti=1.0.
+[21-05-24 15:48:32.216] LOG  : General     , 1716306512216> 1,530,257,203> WeatherPeriod: Cold to warm front selected..
+[21-05-24 15:48:32.219] LOG  : General     , 1716306512219> 1,530,257,205> WeatherPeriod: Adding stage 'DRIZZLE' with duration: 3.0937561988830566%..
+[21-05-24 15:48:32.219] LOG  : General     , 1716306512219> 1,530,257,206> WeatherPeriod: Adding stage 'MODERATE' with duration: 2.1930840015411377%..
+[21-05-24 15:48:32.220] LOG  : General     , 1716306512220> 1,530,257,207> WeatherPeriod: Adding stage 'MODERATE' with duration: 2.2183806896209717%..
+[21-05-24 15:48:32.225] LOG  : General     , 1716306512224> 1,530,257,210> WeatherPeriod: Adding stage 'DRIZZLE' with duration: 2.9404399394989014%..
+[21-05-24 15:48:32.226] LOG  : General     , 1716306512225> 1,530,257,212> WeatherPeriod: Adding stage 'START' with duration: 1.2836476564407349%..
+[21-05-24 15:48:32.226] LOG  : General     , 1716306512226> 1,530,257,212> WeatherPeriod: Adding stage 'CLEARING' with duration: 1.7349040508270264%..
+[21-05-24 15:48:32.226] LOG  : General     , 1716306512226> 1,530,257,212> WeatherPeriod: Adding stage 'INTERMEZZO' with duration: 1.2104295492172241%..
+[21-05-24 15:48:32.226] LOG  : General     , 1716306512226> 1,530,257,212> WeatherPeriod: Adding stage 'CLEARING' with duration: 2.0239264965057373%..
+[21-05-24 15:48:32.226] LOG  : General     , 1716306512226> 1,530,257,213> WeatherPeriod: Duration = 16.69856858253479..
+[21-05-24 15:48:32.227] LOG  : General     , 1716306512227> 1,530,257,213> WeatherPeriod: PATTERN GENERATION FINISHED..
+[21-05-24 15:48:38.544] WARN : Multiplayer , 1716306518544> 1,530,263,531> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (135) free=106,954,752.
+[21-05-24 15:48:44.721] WARN : Multiplayer , 1716306524721> 1,530,269,708> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (136) free=106,954,752.
+[21-05-24 15:48:51.210] WARN : Multiplayer , 1716306531210> 1,530,276,197> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (137) free=106,954,752.
+[21-05-24 15:49:32.452] WARN : Multiplayer , 1716306572452> 1,530,317,438> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (138) free=106,954,752.
+[21-05-24 15:49:34.954] WARN : Multiplayer , 1716306574954> 1,530,319,940> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (139) free=106,954,752.
+[21-05-24 15:49:41.707] WARN : Multiplayer , 1716306581707> 1,530,326,694> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (140) free=106,954,752.
+[21-05-24 15:50:10.802] WARN : Multiplayer , 1716306610801> 1,530,355,788> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (141) free=106,954,752.
+[21-05-24 15:50:11.605] WARN : Multiplayer , 1716306611605> 1,530,356,592> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (142) free=106,954,752.
+[21-05-24 15:50:17.137] WARN : Multiplayer , 1716306617137> 1,530,362,123> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (143) free=104,857,600.
+[21-05-24 15:50:27.537] WARN : Multiplayer , 1716306627537> 1,530,372,523> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (144) free=104,857,600.
+[21-05-24 15:50:54.538] WARN : Multiplayer , 1716306654538> 1,530,399,525> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (145) free=106,954,752.
+[21-05-24 15:51:05.548] WARN : Multiplayer , 1716306665548> 1,530,410,535> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (146) free=106,954,752.
+[21-05-24 15:51:18.516] WARN : Multiplayer , 1716306678516> 1,530,423,503> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (147) free=106,954,752.
+[21-05-24 15:51:32.209] WARN : Multiplayer , 1716306692209> 1,530,437,196> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (148) free=106,954,752.
+[21-05-24 15:51:34.419] WARN : Multiplayer , 1716306694419> 1,530,439,405> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (149) free=106,954,752.
+[21-05-24 15:52:26.813] WARN : Multiplayer , 1716306746813> 1,530,491,800> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (150) free=106,954,752.
+[21-05-24 15:52:29.353] WARN : Multiplayer , 1716306749353> 1,530,494,340> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (151) free=106,954,752.
+[21-05-24 15:52:34.695] WARN : Multiplayer , 1716306754695> 1,530,499,681> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (152) free=106,954,752.
+[21-05-24 15:52:45.339] WARN : Multiplayer , 1716306765338> 1,530,510,325> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (153) free=106,954,752.
+[21-05-24 15:52:55.815] WARN : Multiplayer , 1716306775815> 1,530,520,801> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (154) free=106,954,752.
+[21-05-24 15:53:17.137] WARN : Multiplayer , 1716306797137> 1,530,542,124> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (155) free=104,857,600.
+[21-05-24 15:53:27.640] WARN : Multiplayer , 1716306807640> 1,530,552,626> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (156) free=106,954,752.
+[21-05-24 15:53:43.836] WARN : Multiplayer , 1716306823836> 1,530,568,823> MPStatistics.lambda$Init$6> [MPStatistics] java.management.memory.threshold.exceeded (157) free=106,954,752.
+[21-05-24 15:55:08.407] LOG  : Multiplayer , 1716306908407> 1,530,653,394> SendAlarm at [ 10655 , 9716 ].
+[21-05-24 15:56:26.495] WARN : Multiplayer , 1716306986495> 1,530,731,482> DeadCharacterPacket.process> Corpse IsoZombie(-8277) teleport: pose (front) => (back).
+[21-05-24 15:57:22.607] LOG  : General     , 1716307042607> 1,530,787,594> null.
+[21-05-24 15:58:26.763] LOG  : General     , 1716307106763> 1,530,851,750> null.

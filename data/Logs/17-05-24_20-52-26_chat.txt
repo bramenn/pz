@@ -198,3 +198,47 @@
 [21-05-24 15:10:08.222][info] Adding player '8' to chat server.
 [21-05-24 15:10:08.222][info] Player joined to default chats.
 [21-05-24 15:10:08.222][info] Player bramen(8) joined to chat server successfully.
+[21-05-24 15:36:43.664][info] Got message:ChatMessage{chat=Local, author='carlosh', text='?HEY!'}.
+[21-05-24 15:36:43.665][info] Message ChatMessage{chat=Local, author='carlosh', text='?HEY!'} sent to chat (id = 2) members.
+[21-05-24 15:36:44.830][info] Got message:ChatMessage{chat=Local, author='carlosh', text='?EH T?!'}.
+[21-05-24 15:36:44.830][info] Message ChatMessage{chat=Local, author='carlosh', text='?EH T?!'} sent to chat (id = 2) members.
+[21-05-24 15:36:47.586][info] Got message:ChatMessage{chat=Local, author='DonDiego', text='?EH T?!'}.
+[21-05-24 15:36:47.587][info] Message ChatMessage{chat=Local, author='DonDiego', text='?EH T?!'} sent to chat (id = 2) members.
+[21-05-24 15:36:50.238][info] Got message:ChatMessage{chat=Local, author='DonDiego', text='?EH T?!'}.
+[21-05-24 15:36:50.240][info] Message ChatMessage{chat=Local, author='DonDiego', text='?EH T?!'} sent to chat (id = 2) members.
+[21-05-24 15:36:51.897][info] Got message:ChatMessage{chat=Local, author='DonDiego', text='?HEY!'}.
+[21-05-24 15:36:51.898][info] Message ChatMessage{chat=Local, author='DonDiego', text='?HEY!'} sent to chat (id = 2) members.
+[21-05-24 15:36:53.601][info] Got message:ChatMessage{chat=Local, author='DonDiego', text='?HEY!'}.
+[21-05-24 15:36:53.603][info] Message ChatMessage{chat=Local, author='DonDiego', text='?HEY!'} sent to chat (id = 2) members.
+[21-05-24 15:36:55.917][info] Got message:ChatMessage{chat=Local, author='DonDiego', text='?POR AQU?!'}.
+[21-05-24 15:36:55.918][info] Message ChatMessage{chat=Local, author='DonDiego', text='?POR AQU?!'} sent to chat (id = 2) members.
+[21-05-24 15:57:40.943][info] Got message:ChatMessage{chat=Local, author='carlosh', text='?EH T?!'}.
+[21-05-24 15:57:40.946][info] Message ChatMessage{chat=Local, author='carlosh', text='?EH T?!'} sent to chat (id = 2) members.
+[21-05-24 15:57:41.098][info] Got message:ChatMessage{chat=Local, author='carlosh', text='?POR AQU?!'}.
+[21-05-24 15:57:41.099][info] Message ChatMessage{chat=Local, author='carlosh', text='?POR AQU?!'} sent to chat (id = 2) members.
+[21-05-24 15:57:41.367][info] Got message:ChatMessage{chat=Local, author='carlosh', text='?HEY!'}.
+[21-05-24 15:57:41.367][info] Message ChatMessage{chat=Local, author='carlosh', text='?HEY!'} sent to chat (id = 2) members.
+[21-05-24 15:57:41.549][info] Got message:ChatMessage{chat=Local, author='carlosh', text='?EH T?!'}.
+[21-05-24 15:57:41.549][info] Message ChatMessage{chat=Local, author='carlosh', text='?EH T?!'} sent to chat (id = 2) members.
+[21-05-24 15:57:41.771][info] Got message:ChatMessage{chat=Local, author='carlosh', text='?POR AQU?!'}.
+[21-05-24 15:57:41.774][info] Message ChatMessage{chat=Local, author='carlosh', text='?POR AQU?!'} sent to chat (id = 2) members.
+[21-05-24 15:57:41.862][info] Got message:ChatMessage{chat=Local, author='carlosh', text='?POR AQU?!'}.
+[21-05-24 15:57:41.863][info] Message ChatMessage{chat=Local, author='carlosh', text='?POR AQU?!'} sent to chat (id = 2) members.
+[21-05-24 15:57:42.066][info] Got message:ChatMessage{chat=Local, author='carlosh', text='?EH T?!'}.
+[21-05-24 15:57:42.067][info] Message ChatMessage{chat=Local, author='carlosh', text='?EH T?!'} sent to chat (id = 2) members.
+[21-05-24 15:57:44.374][info] Got message:ChatMessage{chat=Local, author='carlosh', text='?POR AQU?!'}.
+[21-05-24 15:57:44.374][info] Message ChatMessage{chat=Local, author='carlosh', text='?POR AQU?!'} sent to chat (id = 2) members.
+[21-05-24 15:57:44.556][info] Got message:ChatMessage{chat=Local, author='carlosh', text='?HEY!'}.
+[21-05-24 15:57:44.556][info] Message ChatMessage{chat=Local, author='carlosh', text='?HEY!'} sent to chat (id = 2) members.
+[21-05-24 15:58:02.475][info] Got message:ChatMessage{chat=Local, author='carlosh', text='?HEY!'}.
+[21-05-24 15:58:02.475][info] Message ChatMessage{chat=Local, author='carlosh', text='?HEY!'} sent to chat (id = 2) members.
+[21-05-24 15:58:02.748][info] Got message:ChatMessage{chat=Local, author='carlosh', text='?EH T?!'}.
+[21-05-24 15:58:02.748][info] Message ChatMessage{chat=Local, author='carlosh', text='?EH T?!'} sent to chat (id = 2) members.
+[21-05-24 15:58:02.955][info] Got message:ChatMessage{chat=Local, author='carlosh', text='?EH T?!'}.
+[21-05-24 15:58:02.957][info] Message ChatMessage{chat=Local, author='carlosh', text='?EH T?!'} sent to chat (id = 2) members.
+[21-05-24 15:58:03.093][info] Got message:ChatMessage{chat=Local, author='carlosh', text='?POR AQU?!'}.
+[21-05-24 15:58:03.094][info] Message ChatMessage{chat=Local, author='carlosh', text='?POR AQU?!'} sent to chat (id = 2) members.
+[21-05-24 15:58:03.278][info] Got message:ChatMessage{chat=Local, author='carlosh', text='?HEY!'}.
+[21-05-24 15:58:03.279][info] Message ChatMessage{chat=Local, author='carlosh', text='?HEY!'} sent to chat (id = 2) members.
+[21-05-24 15:58:03.501][info] Got message:ChatMessage{chat=Local, author='carlosh', text='?HEY!'}.
+[21-05-24 15:58:03.501][info] Message ChatMessage{chat=Local, author='carlosh', text='?HEY!'} sent to chat (id = 2) members.
