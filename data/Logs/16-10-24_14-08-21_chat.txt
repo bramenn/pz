@@ -1,0 +1,50 @@
+[16-10-24 14:08:21.843][info] Start chat server initialization....
+[16-10-24 14:08:21.848][info] General chat has id = 0.
+[16-10-24 14:08:21.849][info] Say chat has id = 1.
+[16-10-24 14:08:21.849][info] Shout chat has id = 2.
+[16-10-24 14:08:21.849][info] Radio chat has id = 3.
+[16-10-24 14:08:21.850][info] Admin chat has id = 4.
+[16-10-24 14:08:21.853][info] Server chat has id = 5.
+[16-10-24 14:08:21.853][info] Chat server successfully initialized.
+[16-10-24 14:15:20.319][info] Player with id = '0' tries to connect.
+[16-10-24 14:15:20.320][info] Adding player '0' to chat server.
+[16-10-24 14:15:20.321][info] Player joined to default chats.
+[16-10-24 14:15:20.321][info] Player bramen(0) joined to chat server successfully.
+[16-10-24 14:17:47.267][info] Player 0 disconnecting....
+[16-10-24 14:17:47.267][info] Disconnecting player 0 finished.
+[16-10-24 14:17:47.267][info] Player 0 disconnecting....
+[16-10-24 14:17:47.267][info] Disconnecting player 0 finished.
+[16-10-24 14:18:13.366][info] Player with id = '4' tries to connect.
+[16-10-24 14:18:13.366][info] Adding player '4' to chat server.
+[16-10-24 14:18:13.367][info] Player joined to default chats.
+[16-10-24 14:18:13.367][info] Player charlie(4) joined to chat server successfully.
+[16-10-24 14:20:14.665][info] Player with id = '0' tries to connect.
+[16-10-24 14:20:14.665][info] Adding player '0' to chat server.
+[16-10-24 14:20:14.665][info] Player joined to default chats.
+[16-10-24 14:20:14.665][info] Player bramen(0) joined to chat server successfully.
+[16-10-24 14:27:14.151][info] Player with id = '8' tries to connect.
+[16-10-24 14:27:14.151][info] Adding player '8' to chat server.
+[16-10-24 14:27:14.151][info] Player joined to default chats.
+[16-10-24 14:27:14.151][info] Player DonDiego(8) joined to chat server successfully.
+[16-10-24 14:48:54.694][info] Got message:ChatMessage{chat=Local, author='DonDiego', text='?POR AQU?!'}.
+[16-10-24 14:48:54.701][info] Message ChatMessage{chat=Local, author='DonDiego', text='?POR AQU?!'} sent to chat (id = 2) members.
+[16-10-24 15:54:27.162][info] Player 0 disconnecting....
+[16-10-24 15:54:27.162][info] Disconnecting player 0 finished.
+[16-10-24 15:54:27.162][info] Player 0 disconnecting....
+[16-10-24 15:54:27.162][info] Disconnecting player 0 finished.
+[16-10-24 15:55:34.996][info] Player with id = '0' tries to connect.
+[16-10-24 15:55:34.996][info] Adding player '0' to chat server.
+[16-10-24 15:55:34.996][info] Player joined to default chats.
+[16-10-24 15:55:34.996][info] Player bramen(0) joined to chat server successfully.
+[16-10-24 16:02:21.908][info] Player 0 disconnecting....
+[16-10-24 16:02:21.908][info] Disconnecting player 0 finished.
+[16-10-24 16:02:21.908][info] Player 0 disconnecting....
+[16-10-24 16:02:21.908][info] Disconnecting player 0 finished.
+[16-10-24 16:20:09.481][info] Player 4 disconnecting....
+[16-10-24 16:20:09.481][info] Disconnecting player 4 finished.
+[16-10-24 16:20:09.482][info] Player 4 disconnecting....
+[16-10-24 16:20:09.482][info] Disconnecting player 4 finished.
+[16-10-24 16:26:00.227][info] Player 8 disconnecting....
+[16-10-24 16:26:00.228][info] Disconnecting player 8 finished.
+[16-10-24 16:26:00.228][info] Player 8 disconnecting....
+[16-10-24 16:26:00.228][info] Disconnecting player 8 finished.
