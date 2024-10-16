@@ -1,0 +1,2 @@
+[16-10-24 01:41:49.210] 76561198333912692 "charlie" floor +1 10953,9738,0 [Base.PlasterPowder].
+[16-10-24 01:41:50.780] 76561198333912692 "charlie" container -1 10952,9738,0 [Base.PlasterPowder].

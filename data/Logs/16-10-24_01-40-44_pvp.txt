@@ -1,0 +1,2 @@
+[16-10-24 01:40:44.746][INFO] user "charlie" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[16-10-24 01:41:59.294][INFO] user "charlie" store safety enabled=true last=true cooldown=0.0 toggle=0.0.
