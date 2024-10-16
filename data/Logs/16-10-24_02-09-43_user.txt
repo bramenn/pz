@@ -1,0 +1,35 @@
+[16-10-24 02:09:43.185] added connection index=0 181.51.143.217.
+[16-10-24 02:09:44.224] 76561198333912692 "charlie" attempting to join.
+[16-10-24 02:09:44.228] 76561198333912692 "charlie" was added.
+[16-10-24 02:09:44.228] 76561198333912692 "charlie" allowed to join.
+[16-10-24 02:12:33.676] added connection index=1 191.98.37.213.
+[16-10-24 02:12:34.987] 76561198430296167 "DonDiego" attempting to join.
+[16-10-24 02:12:34.991] 76561198430296167 "DonDiego" was added.
+[16-10-24 02:12:34.991] 76561198430296167 "DonDiego" allowed to join.
+[16-10-24 02:14:17.752] 76561198333912692 "charlie" attempting to join used queue.
+[16-10-24 02:14:32.724] player charlie loading time was: 14320 ms.
+[16-10-24 02:14:37.078] 76561198333912692 "charlie" fully connected (10854,9894,0).
+[16-10-24 02:15:24.239] 76561198430296167 "DonDiego" attempting to join used queue.
+[16-10-24 02:16:12.931] player DonDiego loading time was: 47635 ms.
+[16-10-24 02:16:16.782] 76561198430296167 "DonDiego" fully connected (10942,9373,0).
+[16-10-24 02:27:58.773] 76561198430296167 "DonDiego" removed connection index=1.
+[16-10-24 02:27:58.788] 76561198430296167 "DonDiego" disconnected player (10913,9401,1).
+[16-10-24 02:38:59.197] added connection index=1 191.98.37.213.
+[16-10-24 02:39:00.331] 76561198430296167 "DonDiego" attempting to join.
+[16-10-24 02:39:00.336] 76561198430296167 "DonDiego" allowed to join.
+[16-10-24 02:39:20.117] 76561198430296167 "DonDiego" attempting to join used queue.
+[16-10-24 02:40:07.371] player DonDiego loading time was: 46192 ms.
+[16-10-24 02:40:13.335] 76561198430296167 "DonDiego" fully connected (10913,9401,1).
+[16-10-24 02:41:30.421] added connection index=2 181.129.215.156.
+[16-10-24 02:41:31.231] 76561199040661533 "bramen" attempting to join.
+[16-10-24 02:41:31.235] 76561199040661533 "bramen" was added.
+[16-10-24 02:41:31.235] 76561199040661533 "bramen" allowed to join.
+[16-10-24 02:42:16.499] 76561199040661533 "bramen" attempting to join used queue.
+[16-10-24 02:42:56.265] player bramen loading time was: 37742 ms.
+[16-10-24 02:43:30.487] 76561199040661533 "bramen" fully connected (10919,10132,0).
+[16-10-24 03:37:11.345] 76561198430296167 "DonDiego" removed connection index=1.
+[16-10-24 03:37:11.357] 76561198430296167 "DonDiego" disconnected player (10817,9936,0).
+[16-10-24 03:40:56.893] 76561198333912692 "charlie" removed connection index=0.
+[16-10-24 03:40:56.907] 76561198333912692 "charlie" disconnected player (10880,10083,1).
+[16-10-24 03:44:21.903] 76561199040661533 "bramen" removed connection index=2.
+[16-10-24 03:44:21.916] 76561199040661533 "bramen" disconnected player (10914,10036,0).
