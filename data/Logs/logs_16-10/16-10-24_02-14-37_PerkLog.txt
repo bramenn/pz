@@ -1,0 +1,17 @@
+[16-10-24 02:14:37.573] [76561198333912692][charlie][10854,9894,0][Login][Hours Survived: 0].
+[16-10-24 02:14:37.573] [76561198333912692][charlie][10854,9894,0][Cooking=0, Fitness=7, Strength=7, Blunt=0, Axe=0, Sprinting=0, Lightfoot=2, Nimble=2, Sneak=2, Woodwork=0, Aiming=0, Reloading=0, Farming=0, Fishing=1, Trapping=0, PlantScavenging=0, Doctor=0, Electricity=0, MetalWelding=0, Mechanics=0, Spear=0, Maintenance=0, SmallBlade=0, LongBlade=0, SmallBlunt=0, Tailoring=0][Hours Survived: 0].
+[16-10-24 02:16:17.889] [76561198430296167][DonDiego][10942,9373,0][Login][Hours Survived: 0].
+[16-10-24 02:16:17.889] [76561198430296167][DonDiego][10942,9373,0][Cooking=0, Fitness=10, Strength=10, Blunt=1, Axe=2, Sprinting=1, Lightfoot=0, Nimble=0, Sneak=0, Woodwork=0, Aiming=0, Reloading=0, Farming=0, Fishing=0, Trapping=0, PlantScavenging=0, Doctor=0, Electricity=0, MetalWelding=0, Mechanics=0, Spear=0, Maintenance=0, SmallBlade=0, LongBlade=0, SmallBlunt=0, Tailoring=0][Hours Survived: 0].
+[16-10-24 02:40:14.277] [76561198430296167][DonDiego][10913,9401,1][Login][Hours Survived: 4].
+[16-10-24 02:40:14.277] [76561198430296167][DonDiego][10913,9401,1][Cooking=0, Fitness=10, Strength=10, Blunt=1, Axe=2, Sprinting=1, Lightfoot=0, Nimble=0, Sneak=0, Woodwork=0, Aiming=0, Reloading=0, Farming=0, Fishing=0, Trapping=0, PlantScavenging=0, Doctor=0, Electricity=0, MetalWelding=0, Mechanics=0, Spear=0, Maintenance=0, SmallBlade=0, LongBlade=0, SmallBlunt=0, Tailoring=0][Hours Survived: 4].
+[16-10-24 02:43:33.822] [76561199040661533][bramen][10919,10132,0][Login][Hours Survived: 0].
+[16-10-24 02:43:33.822] [76561199040661533][bramen][10919,10132,0][Cooking=0, Fitness=4, Strength=10, Blunt=2, Axe=3, Sprinting=1, Lightfoot=0, Nimble=0, Sneak=0, Woodwork=0, Aiming=0, Reloading=0, Farming=0, Fishing=0, Trapping=0, PlantScavenging=0, Doctor=0, Electricity=0, MetalWelding=0, Mechanics=0, Spear=0, Maintenance=0, SmallBlade=0, LongBlade=0, SmallBlunt=0, Tailoring=0][Hours Survived: 0].
+[16-10-24 03:08:32.023] [76561198333912692][charlie][10881,10083,1][Level Changed][Cooking][1][Hours Survived: 21].
+[16-10-24 03:08:36.337] [76561199040661533][bramen][10880,10083,1][Level Changed][Cooking][1][Hours Survived: 10].
+[16-10-24 03:11:34.122] [76561198333912692][charlie][10892,10034,0][Level Changed][SmallBlunt][1][Hours Survived: 22].
+[16-10-24 03:18:47.630] [76561198333912692][charlie][10869,9958,0][Level Changed][Sneak][3][Hours Survived: 25].
+[16-10-24 03:20:03.890] [76561198333912692][charlie][10851,9963,0][Level Changed][Lightfoot][3][Hours Survived: 26].
+[16-10-24 03:23:24.619] [76561198333912692][charlie][10854,9942,0][Level Changed][Woodwork][1][Hours Survived: 27].
+[16-10-24 03:27:22.601] [76561198333912692][charlie][10882,9885,0][Level Changed][Sprinting][1][Hours Survived: 29].
+[16-10-24 03:38:35.410] [76561198333912692][charlie][10881,10083,1][Level Changed][Farming][1][Hours Survived: 33].
+[16-10-24 03:38:41.493] [76561199040661533][bramen][10914,10040,0][Level Changed][Farming][1][Hours Survived: 22].
