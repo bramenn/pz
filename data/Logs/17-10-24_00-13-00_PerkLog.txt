@@ -1,0 +1,18 @@
+[17-10-24 00:13:00.440] [76561198333912692][charlie][10746,10350,0][Login][Hours Survived: 83].
+[17-10-24 00:13:00.440] [76561198333912692][charlie][10746,10350,0][Cooking=1, Fitness=7, Strength=7, Blunt=0, Axe=0, Sprinting=1, Lightfoot=3, Nimble=2, Sneak=4, Woodwork=1, Aiming=0, Reloading=0, Farming=1, Fishing=1, Trapping=0, PlantScavenging=0, Doctor=0, Electricity=0, MetalWelding=0, Mechanics=0, Spear=0, Maintenance=1, SmallBlade=0, LongBlade=0, SmallBlunt=2, Tailoring=0][Hours Survived: 83].
+[17-10-24 00:13:28.059] [76561198430296167][DonDiego][10325,9346,0][Login][Hours Survived: 74].
+[17-10-24 00:13:28.059] [76561198430296167][DonDiego][10325,9346,0][Cooking=0, Fitness=10, Strength=10, Blunt=3, Axe=3, Sprinting=1, Lightfoot=0, Nimble=0, Sneak=0, Woodwork=0, Aiming=0, Reloading=0, Farming=0, Fishing=0, Trapping=0, PlantScavenging=0, Doctor=0, Electricity=0, MetalWelding=0, Mechanics=0, Spear=0, Maintenance=1, SmallBlade=0, LongBlade=0, SmallBlunt=0, Tailoring=0][Hours Survived: 74].
+[17-10-24 00:17:12.685] [76561198333912692][charlie][10764,10319,0][Level Changed][Blunt][1][Hours Survived: 84].
+[17-10-24 00:31:33.949] [76561198333912692][charlie][10764,10562,0][Level Changed][Sprinting][2][Hours Survived: 90].
+[17-10-24 00:55:00.210] [76561198333912692][charlie][10609,10514,0][Level Changed][Lightfoot][4][Hours Survived: 99].
+[17-10-24 00:58:08.228] [76561198333912692][charlie][10619,10487,0][Level Changed][Maintenance][2][Hours Survived: 101].
+[17-10-24 01:01:47.046] [76561198333912692][charlie][10609,10448,0][Level Changed][Woodwork][2][Hours Survived: 102].
+[17-10-24 01:09:48.827] [76561198333912692][charlie][10636,10455,0][Level Changed][Blunt][2][Hours Survived: 105].
+[17-10-24 01:16:27.265] [76561198333912692][charlie][10638,10440,0][Level Changed][Nimble][3][Hours Survived: 108].
+[17-10-24 01:29:47.099] [76561198430296167][DonDiego][10735,10477,0][Level Changed][Sprinting][2][Hours Survived: 105].
+[17-10-24 01:43:11.042] [76561198430296167][DonDiego][10766,10547,1][Level Changed][Mechanics][1][Hours Survived: 110].
+[17-10-24 01:43:11.046] [76561198333912692][charlie][10767,10547,1][Level Changed][Mechanics][1][Hours Survived: 119].
+[17-10-24 01:43:25.536] [76561198333912692][charlie][10767,10547,1][Level Changed][Mechanics][2][Hours Survived: 119].
+[17-10-24 01:43:35.723] [76561198430296167][DonDiego][10766,10547,1][Level Changed][Mechanics][2][Hours Survived: 110].
+[17-10-24 02:12:48.928] [76561198430296167][DonDiego][10738,10356,0][Level Changed][Blunt][4][Hours Survived: 122].
+[17-10-24 02:32:48.490] [76561198430296167][DonDiego][10740,10173,0][Level Changed][Electricity][1][Hours Survived: 130].
