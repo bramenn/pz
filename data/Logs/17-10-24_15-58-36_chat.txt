@@ -1,0 +1,676 @@
+[17-10-24 15:58:36.212][info] Start chat server initialization....
+[17-10-24 15:58:36.216][info] General chat has id = 0.
+[17-10-24 15:58:36.217][info] Say chat has id = 1.
+[17-10-24 15:58:36.217][info] Shout chat has id = 2.
+[17-10-24 15:58:36.217][info] Radio chat has id = 3.
+[17-10-24 15:58:36.217][info] Admin chat has id = 4.
+[17-10-24 15:58:36.217][info] Server chat has id = 5.
+[17-10-24 15:58:36.217][info] Chat server successfully initialized.
+[17-10-24 16:47:33.953][info] Player with id = '0' tries to connect.
+[17-10-24 16:47:33.953][info] Adding player '0' to chat server.
+[17-10-24 16:47:33.954][info] Player joined to default chats.
+[17-10-24 16:47:33.954][info] Player charlie(0) joined to chat server successfully.
+[17-10-24 16:54:38.118][info] Player with id = '4' tries to connect.
+[17-10-24 16:54:38.118][info] Adding player '4' to chat server.
+[17-10-24 16:54:38.118][info] Player joined to default chats.
+[17-10-24 16:54:38.118][info] Player bramen(4) joined to chat server successfully.
+[17-10-24 16:58:09.229][info] Got message:ChatMessage{chat=Local, author='charlie', text='ve este mensaje?'}.
+[17-10-24 16:58:09.229][info] Message ChatMessage{chat=Local, author='charlie', text='ve este mensaje?'} sent to chat (id = 1) members.
+[17-10-24 16:58:20.174][info] Got message:ChatMessage{chat=Local, author='charlie', text='probando'}.
+[17-10-24 16:58:20.174][info] Message ChatMessage{chat=Local, author='charlie', text='probando'} sent to chat (id = 1) members.
+[17-10-24 16:58:41.617][info] Got message:ChatMessage{chat=General, author='charlie', text='oe'}.
+[17-10-24 16:58:41.618][info] Message ChatMessage{chat=General, author='charlie', text='oe'} sent to chat (id = 0) members.
+[17-10-24 16:58:57.786][info] Got message:ChatMessage{chat=General, author='charlie', text='ve este mensaje?'}.
+[17-10-24 16:58:57.787][info] Message ChatMessage{chat=General, author='charlie', text='ve este mensaje?'} sent to chat (id = 0) members.
+[17-10-24 17:25:15.897][info] Player with id = '8' tries to connect.
+[17-10-24 17:25:15.897][info] Adding player '8' to chat server.
+[17-10-24 17:25:15.897][info] Player joined to default chats.
+[17-10-24 17:25:15.897][info] Player DonDiego(8) joined to chat server successfully.
+[17-10-24 17:38:46.318][info] Got message:ChatMessage{chat=Local, author='bramen', text='?HEY!'}.
+[17-10-24 17:38:46.319][info] Message ChatMessage{chat=Local, author='bramen', text='?HEY!'} sent to chat (id = 2) members.
+[17-10-24 17:39:16.915][info] Got message:ChatMessage{chat=Local, author='bramen', text='?HEY!'}.
+[17-10-24 17:39:16.915][info] Message ChatMessage{chat=Local, author='bramen', text='?HEY!'} sent to chat (id = 2) members.
+[17-10-24 17:39:33.547][info] Got message:ChatMessage{chat=Local, author='bramen', text='?POR AQU?!'}.
+[17-10-24 17:39:33.547][info] Message ChatMessage{chat=Local, author='bramen', text='?POR AQU?!'} sent to chat (id = 2) members.
+[17-10-24 17:40:01.837][info] Player 0 disconnecting....
+[17-10-24 17:40:01.837][info] Disconnecting player 0 finished.
+[17-10-24 17:40:01.838][info] Player 0 disconnecting....
+[17-10-24 17:40:01.838][info] Disconnecting player 0 finished.
+[17-10-24 17:40:06.467][info] Got message:ChatMessage{chat=Local, author='bramen', text='?EH T?!'}.
+[17-10-24 17:40:06.468][info] Message ChatMessage{chat=Local, author='bramen', text='?EH T?!'} sent to chat (id = 2) members.
+[17-10-24 17:40:22.831][info] Got message:ChatMessage{chat=Local, author='bramen', text='?POR AQU?!'}.
+[17-10-24 17:40:22.831][info] Message ChatMessage{chat=Local, author='bramen', text='?POR AQU?!'} sent to chat (id = 2) members.
+[17-10-24 17:41:07.176][info] Got message:ChatMessage{chat=Local, author='bramen', text='?HEY!'}.
+[17-10-24 17:41:07.176][info] Message ChatMessage{chat=Local, author='bramen', text='?HEY!'} sent to chat (id = 2) members.
+[17-10-24 18:06:06.450][info] Player with id = '0' tries to connect.
+[17-10-24 18:06:06.450][info] Adding player '0' to chat server.
+[17-10-24 18:06:06.450][info] Player joined to default chats.
+[17-10-24 18:06:06.450][info] Player charlie(0) joined to chat server successfully.
+[17-10-24 18:08:07.441][info] Player 4 disconnecting....
+[17-10-24 18:08:07.441][info] Disconnecting player 4 finished.
+[17-10-24 18:11:16.952][info] Player 4 disconnecting....
+[17-10-24 18:11:16.952][info] Disconnecting player 4 finished.
+[17-10-24 18:11:16.953][info] Player with id = '4' tries to connect.
+[17-10-24 18:11:16.953][info] Adding player '4' to chat server.
+[17-10-24 18:11:16.955][error] Player or connection is not found on server!.
+[17-10-24 18:11:16.955][error] player = null.
+[17-10-24 18:11:19.493][info] Player with id = '4' tries to connect.
+[17-10-24 18:11:19.493][info] Adding player '4' to chat server.
+[17-10-24 18:11:19.493][info] Player joined to default chats.
+[17-10-24 18:11:19.493][info] Player bramen(4) joined to chat server successfully.
+[17-10-24 18:54:53.958][info] Player 0 disconnecting....
+[17-10-24 18:54:53.959][info] Disconnecting player 0 finished.
+[17-10-24 18:54:53.959][info] Player 0 disconnecting....
+[17-10-24 18:54:53.959][info] Disconnecting player 0 finished.
+[17-10-24 19:14:32.364][info] Player 4 disconnecting....
+[17-10-24 19:14:32.364][info] Disconnecting player 4 finished.
+[17-10-24 19:15:27.337][info] Player 4 disconnecting....
+[17-10-24 19:15:27.337][info] Disconnecting player 4 finished.
+[17-10-24 19:15:27.337][info] Player with id = '4' tries to connect.
+[17-10-24 19:15:27.337][info] Adding player '4' to chat server.
+[17-10-24 19:15:27.337][error] Player or connection is not found on server!.
+[17-10-24 19:15:27.337][error] player = null.
+[17-10-24 19:15:29.801][info] Player with id = '4' tries to connect.
+[17-10-24 19:15:29.801][info] Adding player '4' to chat server.
+[17-10-24 19:15:29.801][info] Player joined to default chats.
+[17-10-24 19:15:29.801][info] Player bramen(4) joined to chat server successfully.
+[17-10-24 20:55:32.376][info] Got message:ChatMessage{chat=Local, author='DonDiego', text='?POR AQU?!'}.
+[17-10-24 20:55:32.376][info] Message ChatMessage{chat=Local, author='DonDiego', text='?POR AQU?!'} sent to chat (id = 2) members.
+[17-10-24 21:11:17.664][info] Player 4 disconnecting....
+[17-10-24 21:11:17.664][info] Disconnecting player 4 finished.
+[17-10-24 21:11:43.909][info] Player 4 disconnecting....
+[17-10-24 21:11:43.909][info] Disconnecting player 4 finished.
+[17-10-24 21:11:43.909][info] Player with id = '4' tries to connect.
+[17-10-24 21:11:43.909][info] Adding player '4' to chat server.
+[17-10-24 21:11:43.909][error] Player or connection is not found on server!.
+[17-10-24 21:11:43.909][error] player = null.
+[17-10-24 21:11:46.193][info] Player with id = '4' tries to connect.
+[17-10-24 21:11:46.194][info] Adding player '4' to chat server.
+[17-10-24 21:11:46.194][info] Player joined to default chats.
+[17-10-24 21:11:46.194][info] Player bramen(4) joined to chat server successfully.
+[17-10-24 22:01:49.103][info] Player 4 disconnecting....
+[17-10-24 22:01:49.103][info] Disconnecting player 4 finished.
+[17-10-24 22:01:49.103][info] Player 4 disconnecting....
+[17-10-24 22:01:49.103][info] Disconnecting player 4 finished.
+[17-10-24 22:04:40.738][info] Player with id = '0' tries to connect.
+[17-10-24 22:04:40.738][info] Adding player '0' to chat server.
+[17-10-24 22:04:40.739][info] Player joined to default chats.
+[17-10-24 22:04:40.739][info] Player bramen(0) joined to chat server successfully.
+[17-10-24 22:07:30.631][info] Player 0 disconnecting....
+[17-10-24 22:07:30.631][info] Disconnecting player 0 finished.
+[17-10-24 22:07:30.631][info] Player 0 disconnecting....
+[17-10-24 22:07:30.631][info] Disconnecting player 0 finished.
+[17-10-24 22:14:05.273][info] Player with id = '0' tries to connect.
+[17-10-24 22:14:05.273][info] Adding player '0' to chat server.
+[17-10-24 22:14:05.273][info] Player joined to default chats.
+[17-10-24 22:14:05.273][info] Player bramen(0) joined to chat server successfully.
+[17-10-24 22:18:14.791][info] Player 0 disconnecting....
+[17-10-24 22:18:14.791][info] Disconnecting player 0 finished.
+[17-10-24 22:20:37.123][info] Player 0 disconnecting....
+[17-10-24 22:20:37.123][info] Disconnecting player 0 finished.
+[17-10-24 22:20:37.123][info] Player with id = '0' tries to connect.
+[17-10-24 22:20:37.123][info] Adding player '0' to chat server.
+[17-10-24 22:20:37.123][error] Player or connection is not found on server!.
+[17-10-24 22:20:37.124][error] player = null.
+[17-10-24 22:20:39.480][info] Player with id = '0' tries to connect.
+[17-10-24 22:20:39.480][info] Adding player '0' to chat server.
+[17-10-24 22:20:39.480][info] Player joined to default chats.
+[17-10-24 22:20:39.480][info] Player bramen(0) joined to chat server successfully.
+[17-10-24 22:25:42.792][info] Player 0 disconnecting....
+[17-10-24 22:25:42.792][info] Disconnecting player 0 finished.
+[17-10-24 22:26:43.665][info] Player 0 disconnecting....
+[17-10-24 22:26:43.665][info] Disconnecting player 0 finished.
+[17-10-24 22:26:43.666][info] Player with id = '0' tries to connect.
+[17-10-24 22:26:43.666][info] Adding player '0' to chat server.
+[17-10-24 22:26:43.666][error] Player or connection is not found on server!.
+[17-10-24 22:26:43.666][error] player = null.
+[17-10-24 22:26:45.784][info] Player with id = '0' tries to connect.
+[17-10-24 22:26:45.784][info] Adding player '0' to chat server.
+[17-10-24 22:26:45.784][info] Player joined to default chats.
+[17-10-24 22:26:45.784][info] Player bramen(0) joined to chat server successfully.
+[17-10-24 22:36:50.687][info] Got message:ChatMessage{chat=Local, author='DonDiego', text='?HEY!'}.
+[17-10-24 22:36:50.687][info] Message ChatMessage{chat=Local, author='DonDiego', text='?HEY!'} sent to chat (id = 2) members.
+[17-10-24 22:37:28.962][info] Player 8 disconnecting....
+[17-10-24 22:37:28.962][info] Disconnecting player 8 finished.
+[17-10-24 22:37:28.962][info] Player 8 disconnecting....
+[17-10-24 22:37:28.962][info] Disconnecting player 8 finished.
+[17-10-24 22:41:58.329][info] Player 0 disconnecting....
+[17-10-24 22:41:58.329][info] Disconnecting player 0 finished.
+[17-10-24 22:41:58.329][info] Player 0 disconnecting....
+[17-10-24 22:41:58.329][info] Disconnecting player 0 finished.
+[17-10-24 22:43:19.577][info] Player with id = '0' tries to connect.
+[17-10-24 22:43:19.577][info] Adding player '0' to chat server.
+[17-10-24 22:43:19.577][info] Player joined to default chats.
+[17-10-24 22:43:19.578][info] Player bramen(0) joined to chat server successfully.
+[17-10-24 22:51:43.739][info] Player with id = '4' tries to connect.
+[17-10-24 22:51:43.739][info] Adding player '4' to chat server.
+[17-10-24 22:51:43.739][info] Player joined to default chats.
+[17-10-24 22:51:43.739][info] Player DonDiego(4) joined to chat server successfully.
+[17-10-24 23:06:11.543][info] Got message:ChatMessage{chat=Local, author='DonDiego', text='?EH T?!'}.
+[17-10-24 23:06:11.544][info] Message ChatMessage{chat=Local, author='DonDiego', text='?EH T?!'} sent to chat (id = 2) members.
+[17-10-24 23:06:40.500][info] Got message:ChatMessage{chat=Local, author='DonDiego', text='?HEY!'}.
+[17-10-24 23:06:40.500][info] Message ChatMessage{chat=Local, author='DonDiego', text='?HEY!'} sent to chat (id = 2) members.
+[17-10-24 23:13:16.580][info] Player with id = '8' tries to connect.
+[17-10-24 23:13:16.580][info] Adding player '8' to chat server.
+[17-10-24 23:13:16.581][info] Player joined to default chats.
+[17-10-24 23:13:16.581][info] Player charlie(8) joined to chat server successfully.
+[17-10-24 23:21:47.539][info] Got message:ChatMessage{chat=Local, author='bramen', text='?HEY!'}.
+[17-10-24 23:21:47.539][info] Message ChatMessage{chat=Local, author='bramen', text='?HEY!'} sent to chat (id = 2) members.
+[17-10-24 23:27:33.605][info] Got message:ChatMessage{chat=Local, author='DonDiego', text='?POR AQU?!'}.
+[17-10-24 23:27:33.606][info] Message ChatMessage{chat=Local, author='DonDiego', text='?POR AQU?!'} sent to chat (id = 2) members.
+[17-10-24 23:32:01.499][info] Player 8 disconnecting....
+[17-10-24 23:32:01.499][info] Disconnecting player 8 finished.
+[17-10-24 23:32:46.790][info] Player 8 disconnecting....
+[17-10-24 23:32:46.790][info] Disconnecting player 8 finished.
+[17-10-24 23:32:46.791][info] Player with id = '8' tries to connect.
+[17-10-24 23:32:46.791][info] Adding player '8' to chat server.
+[17-10-24 23:32:46.791][error] Player or connection is not found on server!.
+[17-10-24 23:32:46.791][error] player = null.
+[17-10-24 23:32:49.123][info] Player with id = '8' tries to connect.
+[17-10-24 23:32:49.123][info] Adding player '8' to chat server.
+[17-10-24 23:32:49.123][info] Player joined to default chats.
+[17-10-24 23:32:49.123][info] Player charlie(8) joined to chat server successfully.
+[17-10-24 23:34:36.182][info] Player 8 disconnecting....
+[17-10-24 23:34:36.182][info] Disconnecting player 8 finished.
+[17-10-24 23:35:49.241][info] Player 8 disconnecting....
+[17-10-24 23:35:49.241][info] Disconnecting player 8 finished.
+[17-10-24 23:35:49.241][info] Player with id = '8' tries to connect.
+[17-10-24 23:35:49.241][info] Adding player '8' to chat server.
+[17-10-24 23:35:49.241][error] Player or connection is not found on server!.
+[17-10-24 23:35:49.242][error] player = null.
+[17-10-24 23:35:51.650][info] Player with id = '8' tries to connect.
+[17-10-24 23:35:51.650][info] Adding player '8' to chat server.
+[17-10-24 23:35:51.650][info] Player joined to default chats.
+[17-10-24 23:35:51.650][info] Player charlie(8) joined to chat server successfully.
+[17-10-24 23:36:23.121][info] Player 0 disconnecting....
+[17-10-24 23:36:23.121][info] Disconnecting player 0 finished.
+[17-10-24 23:38:20.154][info] Got message:ChatMessage{chat=Local, author='charlie', text='?HEY!'}.
+[17-10-24 23:38:20.154][info] Message ChatMessage{chat=Local, author='charlie', text='?HEY!'} sent to chat (id = 2) members.
+[17-10-24 23:38:20.347][info] Got message:ChatMessage{chat=Local, author='charlie', text='?EH T?!'}.
+[17-10-24 23:38:20.347][info] Message ChatMessage{chat=Local, author='charlie', text='?EH T?!'} sent to chat (id = 2) members.
+[17-10-24 23:38:20.522][info] Got message:ChatMessage{chat=Local, author='charlie', text='?HEY!'}.
+[17-10-24 23:38:20.522][info] Message ChatMessage{chat=Local, author='charlie', text='?HEY!'} sent to chat (id = 2) members.
+[17-10-24 23:38:20.750][info] Got message:ChatMessage{chat=Local, author='charlie', text='?POR AQU?!'}.
+[17-10-24 23:38:20.750][info] Message ChatMessage{chat=Local, author='charlie', text='?POR AQU?!'} sent to chat (id = 2) members.
+[17-10-24 23:38:20.982][info] Got message:ChatMessage{chat=Local, author='charlie', text='?HEY!'}.
+[17-10-24 23:38:20.983][info] Message ChatMessage{chat=Local, author='charlie', text='?HEY!'} sent to chat (id = 2) members.
+[17-10-24 23:38:21.202][info] Got message:ChatMessage{chat=Local, author='charlie', text='?EH T?!'}.
+[17-10-24 23:38:21.202][info] Message ChatMessage{chat=Local, author='charlie', text='?EH T?!'} sent to chat (id = 2) members.
+[17-10-24 23:38:21.415][info] Got message:ChatMessage{chat=Local, author='charlie', text='?POR AQU?!'}.
+[17-10-24 23:38:21.415][info] Message ChatMessage{chat=Local, author='charlie', text='?POR AQU?!'} sent to chat (id = 2) members.
+[17-10-24 23:38:23.292][info] Got message:ChatMessage{chat=Local, author='charlie', text='?POR AQU?!'}.
+[17-10-24 23:38:23.292][info] Message ChatMessage{chat=Local, author='charlie', text='?POR AQU?!'} sent to chat (id = 2) members.
+[17-10-24 23:38:23.490][info] Got message:ChatMessage{chat=Local, author='charlie', text='?POR AQU?!'}.
+[17-10-24 23:38:23.490][info] Message ChatMessage{chat=Local, author='charlie', text='?POR AQU?!'} sent to chat (id = 2) members.
+[17-10-24 23:38:23.733][info] Got message:ChatMessage{chat=Local, author='charlie', text='?HEY!'}.
+[17-10-24 23:38:23.734][info] Message ChatMessage{chat=Local, author='charlie', text='?HEY!'} sent to chat (id = 2) members.
+[17-10-24 23:38:23.926][info] Got message:ChatMessage{chat=Local, author='charlie', text='?EH T?!'}.
+[17-10-24 23:38:23.926][info] Message ChatMessage{chat=Local, author='charlie', text='?EH T?!'} sent to chat (id = 2) members.
+[17-10-24 23:38:24.162][info] Got message:ChatMessage{chat=Local, author='charlie', text='?EH T?!'}.
+[17-10-24 23:38:24.162][info] Message ChatMessage{chat=Local, author='charlie', text='?EH T?!'} sent to chat (id = 2) members.
+[17-10-24 23:38:24.395][info] Got message:ChatMessage{chat=Local, author='charlie', text='?HEY!'}.
+[17-10-24 23:38:24.395][info] Message ChatMessage{chat=Local, author='charlie', text='?HEY!'} sent to chat (id = 2) members.
+[17-10-24 23:38:25.030][info] Got message:ChatMessage{chat=Local, author='charlie', text='?POR AQU?!'}.
+[17-10-24 23:38:25.030][info] Message ChatMessage{chat=Local, author='charlie', text='?POR AQU?!'} sent to chat (id = 2) members.
+[17-10-24 23:38:25.279][info] Got message:ChatMessage{chat=Local, author='charlie', text='?POR AQU?!'}.
+[17-10-24 23:38:25.279][info] Message ChatMessage{chat=Local, author='charlie', text='?POR AQU?!'} sent to chat (id = 2) members.
+[17-10-24 23:38:25.487][info] Got message:ChatMessage{chat=Local, author='charlie', text='?POR AQU?!'}.
+[17-10-24 23:38:25.487][info] Message ChatMessage{chat=Local, author='charlie', text='?POR AQU?!'} sent to chat (id = 2) members.
+[17-10-24 23:38:25.683][info] Got message:ChatMessage{chat=Local, author='charlie', text='?POR AQU?!'}.
+[17-10-24 23:38:25.683][info] Message ChatMessage{chat=Local, author='charlie', text='?POR AQU?!'} sent to chat (id = 2) members.
+[17-10-24 23:38:26.017][info] Got message:ChatMessage{chat=Local, author='charlie', text='?POR AQU?!'}.
+[17-10-24 23:38:26.017][info] Message ChatMessage{chat=Local, author='charlie', text='?POR AQU?!'} sent to chat (id = 2) members.
+[17-10-24 23:38:26.279][info] Got message:ChatMessage{chat=Local, author='charlie', text='?HEY!'}.
+[17-10-24 23:38:26.279][info] Message ChatMessage{chat=Local, author='charlie', text='?HEY!'} sent to chat (id = 2) members.
+[17-10-24 23:38:26.507][info] Got message:ChatMessage{chat=Local, author='charlie', text='?POR AQU?!'}.
+[17-10-24 23:38:26.507][info] Message ChatMessage{chat=Local, author='charlie', text='?POR AQU?!'} sent to chat (id = 2) members.
+[17-10-24 23:38:26.800][info] Got message:ChatMessage{chat=Local, author='charlie', text='?HEY!'}.
+[17-10-24 23:38:26.800][info] Message ChatMessage{chat=Local, author='charlie', text='?HEY!'} sent to chat (id = 2) members.
+[17-10-24 23:38:27.037][info] Got message:ChatMessage{chat=Local, author='charlie', text='?HEY!'}.
+[17-10-24 23:38:27.038][info] Message ChatMessage{chat=Local, author='charlie', text='?HEY!'} sent to chat (id = 2) members.
+[17-10-24 23:38:27.262][info] Got message:ChatMessage{chat=Local, author='charlie', text='?HEY!'}.
+[17-10-24 23:38:27.262][info] Message ChatMessage{chat=Local, author='charlie', text='?HEY!'} sent to chat (id = 2) members.
+[17-10-24 23:38:27.647][info] Got message:ChatMessage{chat=Local, author='charlie', text='?EH T?!'}.
+[17-10-24 23:38:27.648][info] Message ChatMessage{chat=Local, author='charlie', text='?EH T?!'} sent to chat (id = 2) members.
+[17-10-24 23:38:27.868][info] Got message:ChatMessage{chat=Local, author='charlie', text='?HEY!'}.
+[17-10-24 23:38:27.869][info] Message ChatMessage{chat=Local, author='charlie', text='?HEY!'} sent to chat (id = 2) members.
+[17-10-24 23:38:28.108][info] Got message:ChatMessage{chat=Local, author='charlie', text='?POR AQU?!'}.
+[17-10-24 23:38:28.108][info] Message ChatMessage{chat=Local, author='charlie', text='?POR AQU?!'} sent to chat (id = 2) members.
+[17-10-24 23:38:28.335][info] Got message:ChatMessage{chat=Local, author='charlie', text='?HEY!'}.
+[17-10-24 23:38:28.335][info] Message ChatMessage{chat=Local, author='charlie', text='?HEY!'} sent to chat (id = 2) members.
+[17-10-24 23:38:31.091][info] Got message:ChatMessage{chat=Local, author='charlie', text='?POR AQU?!'}.
+[17-10-24 23:38:31.091][info] Message ChatMessage{chat=Local, author='charlie', text='?POR AQU?!'} sent to chat (id = 2) members.
+[17-10-24 23:38:31.307][info] Got message:ChatMessage{chat=Local, author='charlie', text='?HEY!'}.
+[17-10-24 23:38:31.307][info] Message ChatMessage{chat=Local, author='charlie', text='?HEY!'} sent to chat (id = 2) members.
+[17-10-24 23:38:31.536][info] Got message:ChatMessage{chat=Local, author='charlie', text='?HEY!'}.
+[17-10-24 23:38:31.536][info] Message ChatMessage{chat=Local, author='charlie', text='?HEY!'} sent to chat (id = 2) members.
+[17-10-24 23:38:31.774][info] Got message:ChatMessage{chat=Local, author='charlie', text='?EH T?!'}.
+[17-10-24 23:38:31.774][info] Message ChatMessage{chat=Local, author='charlie', text='?EH T?!'} sent to chat (id = 2) members.
+[17-10-24 23:38:32.088][info] Got message:ChatMessage{chat=Local, author='charlie', text='?EH T?!'}.
+[17-10-24 23:38:32.088][info] Message ChatMessage{chat=Local, author='charlie', text='?EH T?!'} sent to chat (id = 2) members.
+[17-10-24 23:38:32.395][info] Got message:ChatMessage{chat=Local, author='charlie', text='?EH T?!'}.
+[17-10-24 23:38:32.395][info] Message ChatMessage{chat=Local, author='charlie', text='?EH T?!'} sent to chat (id = 2) members.
+[17-10-24 23:38:32.607][info] Got message:ChatMessage{chat=Local, author='charlie', text='?HEY!'}.
+[17-10-24 23:38:32.607][info] Message ChatMessage{chat=Local, author='charlie', text='?HEY!'} sent to chat (id = 2) members.
+[17-10-24 23:38:34.620][info] Got message:ChatMessage{chat=Local, author='charlie', text='?POR AQU?!'}.
+[17-10-24 23:38:34.621][info] Message ChatMessage{chat=Local, author='charlie', text='?POR AQU?!'} sent to chat (id = 2) members.
+[17-10-24 23:38:34.810][info] Got message:ChatMessage{chat=Local, author='charlie', text='?EH T?!'}.
+[17-10-24 23:38:34.810][info] Message ChatMessage{chat=Local, author='charlie', text='?EH T?!'} sent to chat (id = 2) members.
+[17-10-24 23:38:35.049][info] Got message:ChatMessage{chat=Local, author='charlie', text='?POR AQU?!'}.
+[17-10-24 23:38:35.049][info] Message ChatMessage{chat=Local, author='charlie', text='?POR AQU?!'} sent to chat (id = 2) members.
+[17-10-24 23:38:35.328][info] Got message:ChatMessage{chat=Local, author='charlie', text='?EH T?!'}.
+[17-10-24 23:38:35.328][info] Message ChatMessage{chat=Local, author='charlie', text='?EH T?!'} sent to chat (id = 2) members.
+[17-10-24 23:38:35.585][info] Got message:ChatMessage{chat=Local, author='charlie', text='?POR AQU?!'}.
+[17-10-24 23:38:35.585][info] Message ChatMessage{chat=Local, author='charlie', text='?POR AQU?!'} sent to chat (id = 2) members.
+[17-10-24 23:38:35.806][info] Got message:ChatMessage{chat=Local, author='charlie', text='?POR AQU?!'}.
+[17-10-24 23:38:35.807][info] Message ChatMessage{chat=Local, author='charlie', text='?POR AQU?!'} sent to chat (id = 2) members.
+[17-10-24 23:38:36.289][info] Got message:ChatMessage{chat=Local, author='charlie', text='?HEY!'}.
+[17-10-24 23:38:36.290][info] Message ChatMessage{chat=Local, author='charlie', text='?HEY!'} sent to chat (id = 2) members.
+[17-10-24 23:38:36.556][info] Got message:ChatMessage{chat=Local, author='charlie', text='?EH T?!'}.
+[17-10-24 23:38:36.556][info] Message ChatMessage{chat=Local, author='charlie', text='?EH T?!'} sent to chat (id = 2) members.
+[17-10-24 23:38:36.804][info] Got message:ChatMessage{chat=Local, author='charlie', text='?EH T?!'}.
+[17-10-24 23:38:36.804][info] Message ChatMessage{chat=Local, author='charlie', text='?EH T?!'} sent to chat (id = 2) members.
+[17-10-24 23:38:37.035][info] Got message:ChatMessage{chat=Local, author='charlie', text='?HEY!'}.
+[17-10-24 23:38:37.035][info] Message ChatMessage{chat=Local, author='charlie', text='?HEY!'} sent to chat (id = 2) members.
+[17-10-24 23:38:37.254][info] Got message:ChatMessage{chat=Local, author='charlie', text='?HEY!'}.
+[17-10-24 23:38:37.254][info] Message ChatMessage{chat=Local, author='charlie', text='?HEY!'} sent to chat (id = 2) members.
+[17-10-24 23:38:37.501][info] Got message:ChatMessage{chat=Local, author='charlie', text='?POR AQU?!'}.
+[17-10-24 23:38:37.501][info] Message ChatMessage{chat=Local, author='charlie', text='?POR AQU?!'} sent to chat (id = 2) members.
+[17-10-24 23:38:39.953][info] Got message:ChatMessage{chat=Local, author='charlie', text='?HEY!'}.
+[17-10-24 23:38:39.954][info] Message ChatMessage{chat=Local, author='charlie', text='?HEY!'} sent to chat (id = 2) members.
+[17-10-24 23:38:40.199][info] Got message:ChatMessage{chat=Local, author='charlie', text='?HEY!'}.
+[17-10-24 23:38:40.199][info] Message ChatMessage{chat=Local, author='charlie', text='?HEY!'} sent to chat (id = 2) members.
+[17-10-24 23:38:40.447][info] Got message:ChatMessage{chat=Local, author='charlie', text='?HEY!'}.
+[17-10-24 23:38:40.447][info] Message ChatMessage{chat=Local, author='charlie', text='?HEY!'} sent to chat (id = 2) members.
+[17-10-24 23:38:40.670][info] Got message:ChatMessage{chat=Local, author='charlie', text='?POR AQU?!'}.
+[17-10-24 23:38:40.670][info] Message ChatMessage{chat=Local, author='charlie', text='?POR AQU?!'} sent to chat (id = 2) members.
+[17-10-24 23:38:40.952][info] Got message:ChatMessage{chat=Local, author='charlie', text='?POR AQU?!'}.
+[17-10-24 23:38:40.952][info] Message ChatMessage{chat=Local, author='charlie', text='?POR AQU?!'} sent to chat (id = 2) members.
+[17-10-24 23:38:41.219][info] Got message:ChatMessage{chat=Local, author='charlie', text='?HEY!'}.
+[17-10-24 23:38:41.219][info] Message ChatMessage{chat=Local, author='charlie', text='?HEY!'} sent to chat (id = 2) members.
+[17-10-24 23:38:41.439][info] Got message:ChatMessage{chat=Local, author='charlie', text='?EH T?!'}.
+[17-10-24 23:38:41.439][info] Message ChatMessage{chat=Local, author='charlie', text='?EH T?!'} sent to chat (id = 2) members.
+[17-10-24 23:38:42.990][info] Got message:ChatMessage{chat=Local, author='charlie', text='?POR AQU?!'}.
+[17-10-24 23:38:42.991][info] Message ChatMessage{chat=Local, author='charlie', text='?POR AQU?!'} sent to chat (id = 2) members.
+[17-10-24 23:38:43.214][info] Got message:ChatMessage{chat=Local, author='charlie', text='?EH T?!'}.
+[17-10-24 23:38:43.214][info] Message ChatMessage{chat=Local, author='charlie', text='?EH T?!'} sent to chat (id = 2) members.
+[17-10-24 23:38:43.410][info] Got message:ChatMessage{chat=Local, author='charlie', text='?EH T?!'}.
+[17-10-24 23:38:43.410][info] Message ChatMessage{chat=Local, author='charlie', text='?EH T?!'} sent to chat (id = 2) members.
+[17-10-24 23:38:43.704][info] Got message:ChatMessage{chat=Local, author='charlie', text='?EH T?!'}.
+[17-10-24 23:38:43.704][info] Message ChatMessage{chat=Local, author='charlie', text='?EH T?!'} sent to chat (id = 2) members.
+[17-10-24 23:38:45.652][info] Got message:ChatMessage{chat=Local, author='charlie', text='?HEY!'}.
+[17-10-24 23:38:45.652][info] Message ChatMessage{chat=Local, author='charlie', text='?HEY!'} sent to chat (id = 2) members.
+[17-10-24 23:38:45.863][info] Got message:ChatMessage{chat=Local, author='charlie', text='?HEY!'}.
+[17-10-24 23:38:45.863][info] Message ChatMessage{chat=Local, author='charlie', text='?HEY!'} sent to chat (id = 2) members.
+[17-10-24 23:38:46.101][info] Got message:ChatMessage{chat=Local, author='charlie', text='?HEY!'}.
+[17-10-24 23:38:46.101][info] Message ChatMessage{chat=Local, author='charlie', text='?HEY!'} sent to chat (id = 2) members.
+[17-10-24 23:38:46.346][info] Got message:ChatMessage{chat=Local, author='charlie', text='?EH T?!'}.
+[17-10-24 23:38:46.346][info] Message ChatMessage{chat=Local, author='charlie', text='?EH T?!'} sent to chat (id = 2) members.
+[17-10-24 23:38:46.515][info] Got message:ChatMessage{chat=Local, author='charlie', text='?EH T?!'}.
+[17-10-24 23:38:46.516][info] Message ChatMessage{chat=Local, author='charlie', text='?EH T?!'} sent to chat (id = 2) members.
+[17-10-24 23:38:46.744][info] Got message:ChatMessage{chat=Local, author='charlie', text='?POR AQU?!'}.
+[17-10-24 23:38:46.744][info] Message ChatMessage{chat=Local, author='charlie', text='?POR AQU?!'} sent to chat (id = 2) members.
+[17-10-24 23:38:46.997][info] Got message:ChatMessage{chat=Local, author='charlie', text='?POR AQU?!'}.
+[17-10-24 23:38:46.997][info] Message ChatMessage{chat=Local, author='charlie', text='?POR AQU?!'} sent to chat (id = 2) members.
+[17-10-24 23:38:51.076][info] Got message:ChatMessage{chat=Local, author='charlie', text='?EH T?!'}.
+[17-10-24 23:38:51.076][info] Message ChatMessage{chat=Local, author='charlie', text='?EH T?!'} sent to chat (id = 2) members.
+[17-10-24 23:38:51.294][info] Got message:ChatMessage{chat=Local, author='charlie', text='?EH T?!'}.
+[17-10-24 23:38:51.294][info] Message ChatMessage{chat=Local, author='charlie', text='?EH T?!'} sent to chat (id = 2) members.
+[17-10-24 23:38:51.596][info] Got message:ChatMessage{chat=Local, author='charlie', text='?HEY!'}.
+[17-10-24 23:38:51.596][info] Message ChatMessage{chat=Local, author='charlie', text='?HEY!'} sent to chat (id = 2) members.
+[17-10-24 23:38:58.075][info] Got message:ChatMessage{chat=Local, author='charlie', text='?POR AQU?!'}.
+[17-10-24 23:38:58.075][info] Message ChatMessage{chat=Local, author='charlie', text='?POR AQU?!'} sent to chat (id = 2) members.
+[17-10-24 23:38:58.274][info] Got message:ChatMessage{chat=Local, author='charlie', text='?HEY!'}.
+[17-10-24 23:38:58.274][info] Message ChatMessage{chat=Local, author='charlie', text='?HEY!'} sent to chat (id = 2) members.
+[17-10-24 23:38:58.461][info] Got message:ChatMessage{chat=Local, author='charlie', text='?HEY!'}.
+[17-10-24 23:38:58.461][info] Message ChatMessage{chat=Local, author='charlie', text='?HEY!'} sent to chat (id = 2) members.
+[17-10-24 23:38:58.673][info] Got message:ChatMessage{chat=Local, author='charlie', text='?POR AQU?!'}.
+[17-10-24 23:38:58.673][info] Message ChatMessage{chat=Local, author='charlie', text='?POR AQU?!'} sent to chat (id = 2) members.
+[17-10-24 23:38:58.909][info] Got message:ChatMessage{chat=Local, author='charlie', text='?POR AQU?!'}.
+[17-10-24 23:38:58.910][info] Message ChatMessage{chat=Local, author='charlie', text='?POR AQU?!'} sent to chat (id = 2) members.
+[17-10-24 23:38:59.214][info] Got message:ChatMessage{chat=Local, author='charlie', text='?EH T?!'}.
+[17-10-24 23:38:59.214][info] Message ChatMessage{chat=Local, author='charlie', text='?EH T?!'} sent to chat (id = 2) members.
+[17-10-24 23:38:59.393][info] Got message:ChatMessage{chat=Local, author='charlie', text='?EH T?!'}.
+[17-10-24 23:38:59.393][info] Message ChatMessage{chat=Local, author='charlie', text='?EH T?!'} sent to chat (id = 2) members.
+[17-10-24 23:38:59.643][info] Got message:ChatMessage{chat=Local, author='charlie', text='?POR AQU?!'}.
+[17-10-24 23:38:59.643][info] Message ChatMessage{chat=Local, author='charlie', text='?POR AQU?!'} sent to chat (id = 2) members.
+[17-10-24 23:38:59.856][info] Got message:ChatMessage{chat=Local, author='charlie', text='?EH T?!'}.
+[17-10-24 23:38:59.856][info] Message ChatMessage{chat=Local, author='charlie', text='?EH T?!'} sent to chat (id = 2) members.
+[17-10-24 23:39:00.086][info] Got message:ChatMessage{chat=Local, author='charlie', text='?HEY!'}.
+[17-10-24 23:39:00.086][info] Message ChatMessage{chat=Local, author='charlie', text='?HEY!'} sent to chat (id = 2) members.
+[17-10-24 23:39:00.374][info] Got message:ChatMessage{chat=Local, author='charlie', text='?HEY!'}.
+[17-10-24 23:39:00.374][info] Message ChatMessage{chat=Local, author='charlie', text='?HEY!'} sent to chat (id = 2) members.
+[17-10-24 23:39:00.605][info] Got message:ChatMessage{chat=Local, author='charlie', text='?POR AQU?!'}.
+[17-10-24 23:39:00.605][info] Message ChatMessage{chat=Local, author='charlie', text='?POR AQU?!'} sent to chat (id = 2) members.
+[17-10-24 23:39:01.023][info] Got message:ChatMessage{chat=Local, author='charlie', text='?EH T?!'}.
+[17-10-24 23:39:01.024][info] Message ChatMessage{chat=Local, author='charlie', text='?EH T?!'} sent to chat (id = 2) members.
+[17-10-24 23:39:06.208][info] Got message:ChatMessage{chat=Local, author='charlie', text='?EH T?!'}.
+[17-10-24 23:39:06.208][info] Message ChatMessage{chat=Local, author='charlie', text='?EH T?!'} sent to chat (id = 2) members.
+[17-10-24 23:39:06.405][info] Got message:ChatMessage{chat=Local, author='charlie', text='?HEY!'}.
+[17-10-24 23:39:06.405][info] Message ChatMessage{chat=Local, author='charlie', text='?HEY!'} sent to chat (id = 2) members.
+[17-10-24 23:39:06.604][info] Got message:ChatMessage{chat=Local, author='charlie', text='?POR AQU?!'}.
+[17-10-24 23:39:06.604][info] Message ChatMessage{chat=Local, author='charlie', text='?POR AQU?!'} sent to chat (id = 2) members.
+[17-10-24 23:39:09.916][info] Got message:ChatMessage{chat=Local, author='charlie', text='?POR AQU?!'}.
+[17-10-24 23:39:09.917][info] Message ChatMessage{chat=Local, author='charlie', text='?POR AQU?!'} sent to chat (id = 2) members.
+[17-10-24 23:39:10.080][info] Got message:ChatMessage{chat=Local, author='charlie', text='?EH T?!'}.
+[17-10-24 23:39:10.080][info] Message ChatMessage{chat=Local, author='charlie', text='?EH T?!'} sent to chat (id = 2) members.
+[17-10-24 23:39:12.351][info] Got message:ChatMessage{chat=Local, author='charlie', text='?EH T?!'}.
+[17-10-24 23:39:12.351][info] Message ChatMessage{chat=Local, author='charlie', text='?EH T?!'} sent to chat (id = 2) members.
+[17-10-24 23:39:12.598][info] Got message:ChatMessage{chat=Local, author='charlie', text='?EH T?!'}.
+[17-10-24 23:39:12.598][info] Message ChatMessage{chat=Local, author='charlie', text='?EH T?!'} sent to chat (id = 2) members.
+[17-10-24 23:39:12.805][info] Got message:ChatMessage{chat=Local, author='charlie', text='?POR AQU?!'}.
+[17-10-24 23:39:12.805][info] Message ChatMessage{chat=Local, author='charlie', text='?POR AQU?!'} sent to chat (id = 2) members.
+[17-10-24 23:39:12.974][info] Got message:ChatMessage{chat=Local, author='charlie', text='?POR AQU?!'}.
+[17-10-24 23:39:12.974][info] Message ChatMessage{chat=Local, author='charlie', text='?POR AQU?!'} sent to chat (id = 2) members.
+[17-10-24 23:39:13.208][info] Got message:ChatMessage{chat=Local, author='charlie', text='?POR AQU?!'}.
+[17-10-24 23:39:13.208][info] Message ChatMessage{chat=Local, author='charlie', text='?POR AQU?!'} sent to chat (id = 2) members.
+[17-10-24 23:39:13.402][info] Got message:ChatMessage{chat=Local, author='charlie', text='?EH T?!'}.
+[17-10-24 23:39:13.402][info] Message ChatMessage{chat=Local, author='charlie', text='?EH T?!'} sent to chat (id = 2) members.
+[17-10-24 23:39:13.633][info] Got message:ChatMessage{chat=Local, author='charlie', text='?HEY!'}.
+[17-10-24 23:39:13.633][info] Message ChatMessage{chat=Local, author='charlie', text='?HEY!'} sent to chat (id = 2) members.
+[17-10-24 23:39:13.832][info] Got message:ChatMessage{chat=Local, author='charlie', text='?HEY!'}.
+[17-10-24 23:39:13.832][info] Message ChatMessage{chat=Local, author='charlie', text='?HEY!'} sent to chat (id = 2) members.
+[17-10-24 23:39:14.043][info] Got message:ChatMessage{chat=Local, author='charlie', text='?EH T?!'}.
+[17-10-24 23:39:14.043][info] Message ChatMessage{chat=Local, author='charlie', text='?EH T?!'} sent to chat (id = 2) members.
+[17-10-24 23:39:14.268][info] Got message:ChatMessage{chat=Local, author='charlie', text='?POR AQU?!'}.
+[17-10-24 23:39:14.268][info] Message ChatMessage{chat=Local, author='charlie', text='?POR AQU?!'} sent to chat (id = 2) members.
+[17-10-24 23:39:14.504][info] Got message:ChatMessage{chat=Local, author='charlie', text='?POR AQU?!'}.
+[17-10-24 23:39:14.505][info] Message ChatMessage{chat=Local, author='charlie', text='?POR AQU?!'} sent to chat (id = 2) members.
+[17-10-24 23:39:14.734][info] Got message:ChatMessage{chat=Local, author='charlie', text='?POR AQU?!'}.
+[17-10-24 23:39:14.734][info] Message ChatMessage{chat=Local, author='charlie', text='?POR AQU?!'} sent to chat (id = 2) members.
+[17-10-24 23:39:17.734][info] Got message:ChatMessage{chat=Local, author='charlie', text='?EH T?!'}.
+[17-10-24 23:39:17.734][info] Message ChatMessage{chat=Local, author='charlie', text='?EH T?!'} sent to chat (id = 2) members.
+[17-10-24 23:39:17.926][info] Got message:ChatMessage{chat=Local, author='charlie', text='?HEY!'}.
+[17-10-24 23:39:17.926][info] Message ChatMessage{chat=Local, author='charlie', text='?HEY!'} sent to chat (id = 2) members.
+[17-10-24 23:39:20.270][info] Got message:ChatMessage{chat=Local, author='charlie', text='?HEY!'}.
+[17-10-24 23:39:20.271][info] Message ChatMessage{chat=Local, author='charlie', text='?HEY!'} sent to chat (id = 2) members.
+[17-10-24 23:39:20.388][info] Player 0 disconnecting....
+[17-10-24 23:39:20.388][info] Disconnecting player 0 finished.
+[17-10-24 23:39:20.389][info] Player with id = '0' tries to connect.
+[17-10-24 23:39:20.389][info] Adding player '0' to chat server.
+[17-10-24 23:39:20.389][error] Player or connection is not found on server!.
+[17-10-24 23:39:20.389][error] player = null.
+[17-10-24 23:39:20.433][info] Got message:ChatMessage{chat=Local, author='charlie', text='?HEY!'}.
+[17-10-24 23:39:20.433][info] Message ChatMessage{chat=Local, author='charlie', text='?HEY!'} sent to chat (id = 2) members.
+[17-10-24 23:39:20.685][info] Got message:ChatMessage{chat=Local, author='charlie', text='?EH T?!'}.
+[17-10-24 23:39:20.689][info] Message ChatMessage{chat=Local, author='charlie', text='?EH T?!'} sent to chat (id = 2) members.
+[17-10-24 23:39:22.894][info] Player with id = '0' tries to connect.
+[17-10-24 23:39:22.894][info] Adding player '0' to chat server.
+[17-10-24 23:39:22.894][info] Player joined to default chats.
+[17-10-24 23:39:22.894][info] Player bramen(0) joined to chat server successfully.
+[17-10-24 23:39:23.464][info] Got message:ChatMessage{chat=Local, author='charlie', text='?HEY!'}.
+[17-10-24 23:39:23.464][info] Message ChatMessage{chat=Local, author='charlie', text='?HEY!'} sent to chat (id = 2) members.
+[17-10-24 23:39:23.601][info] Got message:ChatMessage{chat=Local, author='charlie', text='?HEY!'}.
+[17-10-24 23:39:23.601][info] Message ChatMessage{chat=Local, author='charlie', text='?HEY!'} sent to chat (id = 2) members.
+[17-10-24 23:39:25.830][info] Got message:ChatMessage{chat=Local, author='charlie', text='?EH T?!'}.
+[17-10-24 23:39:25.830][info] Message ChatMessage{chat=Local, author='charlie', text='?EH T?!'} sent to chat (id = 2) members.
+[17-10-24 23:39:26.045][info] Got message:ChatMessage{chat=Local, author='charlie', text='?POR AQU?!'}.
+[17-10-24 23:39:26.045][info] Message ChatMessage{chat=Local, author='charlie', text='?POR AQU?!'} sent to chat (id = 2) members.
+[17-10-24 23:39:26.234][info] Got message:ChatMessage{chat=Local, author='charlie', text='?POR AQU?!'}.
+[17-10-24 23:39:26.234][info] Message ChatMessage{chat=Local, author='charlie', text='?POR AQU?!'} sent to chat (id = 2) members.
+[17-10-24 23:39:29.324][info] Got message:ChatMessage{chat=Local, author='charlie', text='?EH T?!'}.
+[17-10-24 23:39:29.325][info] Message ChatMessage{chat=Local, author='charlie', text='?EH T?!'} sent to chat (id = 2) members.
+[17-10-24 23:39:29.765][info] Got message:ChatMessage{chat=Local, author='charlie', text='?EH T?!'}.
+[17-10-24 23:39:29.765][info] Message ChatMessage{chat=Local, author='charlie', text='?EH T?!'} sent to chat (id = 2) members.
+[17-10-24 23:39:30.005][info] Got message:ChatMessage{chat=Local, author='charlie', text='?EH T?!'}.
+[17-10-24 23:39:30.005][info] Message ChatMessage{chat=Local, author='charlie', text='?EH T?!'} sent to chat (id = 2) members.
+[17-10-24 23:39:31.723][info] Got message:ChatMessage{chat=Local, author='charlie', text='?HEY!'}.
+[17-10-24 23:39:31.723][info] Message ChatMessage{chat=Local, author='charlie', text='?HEY!'} sent to chat (id = 2) members.
+[17-10-24 23:39:31.895][info] Got message:ChatMessage{chat=Local, author='charlie', text='?EH T?!'}.
+[17-10-24 23:39:31.895][info] Message ChatMessage{chat=Local, author='charlie', text='?EH T?!'} sent to chat (id = 2) members.
+[17-10-24 23:39:32.098][info] Got message:ChatMessage{chat=Local, author='charlie', text='?HEY!'}.
+[17-10-24 23:39:32.099][info] Message ChatMessage{chat=Local, author='charlie', text='?HEY!'} sent to chat (id = 2) members.
+[17-10-24 23:39:32.799][info] Got message:ChatMessage{chat=Local, author='charlie', text='?POR AQU?!'}.
+[17-10-24 23:39:32.800][info] Message ChatMessage{chat=Local, author='charlie', text='?POR AQU?!'} sent to chat (id = 2) members.
+[17-10-24 23:39:33.034][info] Got message:ChatMessage{chat=Local, author='charlie', text='?EH T?!'}.
+[17-10-24 23:39:33.034][info] Message ChatMessage{chat=Local, author='charlie', text='?EH T?!'} sent to chat (id = 2) members.
+[17-10-24 23:39:33.233][info] Got message:ChatMessage{chat=Local, author='charlie', text='?POR AQU?!'}.
+[17-10-24 23:39:33.234][info] Message ChatMessage{chat=Local, author='charlie', text='?POR AQU?!'} sent to chat (id = 2) members.
+[17-10-24 23:39:34.838][info] Got message:ChatMessage{chat=Local, author='charlie', text='?HEY!'}.
+[17-10-24 23:39:34.838][info] Message ChatMessage{chat=Local, author='charlie', text='?HEY!'} sent to chat (id = 2) members.
+[17-10-24 23:39:35.057][info] Got message:ChatMessage{chat=Local, author='charlie', text='?HEY!'}.
+[17-10-24 23:39:35.057][info] Message ChatMessage{chat=Local, author='charlie', text='?HEY!'} sent to chat (id = 2) members.
+[17-10-24 23:39:35.214][info] Got message:ChatMessage{chat=Local, author='charlie', text='?HEY!'}.
+[17-10-24 23:39:35.214][info] Message ChatMessage{chat=Local, author='charlie', text='?HEY!'} sent to chat (id = 2) members.
+[17-10-24 23:39:36.167][info] Got message:ChatMessage{chat=Local, author='charlie', text='?POR AQU?!'}.
+[17-10-24 23:39:36.167][info] Message ChatMessage{chat=Local, author='charlie', text='?POR AQU?!'} sent to chat (id = 2) members.
+[17-10-24 23:39:36.356][info] Got message:ChatMessage{chat=Local, author='charlie', text='?HEY!'}.
+[17-10-24 23:39:36.356][info] Message ChatMessage{chat=Local, author='charlie', text='?HEY!'} sent to chat (id = 2) members.
+[17-10-24 23:39:37.259][info] Got message:ChatMessage{chat=Local, author='charlie', text='?HEY!'}.
+[17-10-24 23:39:37.259][info] Message ChatMessage{chat=Local, author='charlie', text='?HEY!'} sent to chat (id = 2) members.
+[17-10-24 23:39:37.470][info] Got message:ChatMessage{chat=Local, author='charlie', text='?HEY!'}.
+[17-10-24 23:39:37.470][info] Message ChatMessage{chat=Local, author='charlie', text='?HEY!'} sent to chat (id = 2) members.
+[17-10-24 23:39:38.351][info] Got message:ChatMessage{chat=Local, author='charlie', text='?HEY!'}.
+[17-10-24 23:39:38.352][info] Message ChatMessage{chat=Local, author='charlie', text='?HEY!'} sent to chat (id = 2) members.
+[17-10-24 23:39:38.576][info] Got message:ChatMessage{chat=Local, author='charlie', text='?EH T?!'}.
+[17-10-24 23:39:38.577][info] Message ChatMessage{chat=Local, author='charlie', text='?EH T?!'} sent to chat (id = 2) members.
+[17-10-24 23:39:39.401][info] Got message:ChatMessage{chat=Local, author='charlie', text='?POR AQU?!'}.
+[17-10-24 23:39:39.401][info] Message ChatMessage{chat=Local, author='charlie', text='?POR AQU?!'} sent to chat (id = 2) members.
+[17-10-24 23:39:39.613][info] Got message:ChatMessage{chat=Local, author='charlie', text='?EH T?!'}.
+[17-10-24 23:39:39.613][info] Message ChatMessage{chat=Local, author='charlie', text='?EH T?!'} sent to chat (id = 2) members.
+[17-10-24 23:39:41.247][info] Got message:ChatMessage{chat=Local, author='charlie', text='?HEY!'}.
+[17-10-24 23:39:41.247][info] Message ChatMessage{chat=Local, author='charlie', text='?HEY!'} sent to chat (id = 2) members.
+[17-10-24 23:39:41.476][info] Got message:ChatMessage{chat=Local, author='charlie', text='?HEY!'}.
+[17-10-24 23:39:41.476][info] Message ChatMessage{chat=Local, author='charlie', text='?HEY!'} sent to chat (id = 2) members.
+[17-10-24 23:39:42.948][info] Got message:ChatMessage{chat=Local, author='charlie', text='?EH T?!'}.
+[17-10-24 23:39:42.948][info] Message ChatMessage{chat=Local, author='charlie', text='?EH T?!'} sent to chat (id = 2) members.
+[17-10-24 23:39:43.143][info] Got message:ChatMessage{chat=Local, author='charlie', text='?POR AQU?!'}.
+[17-10-24 23:39:43.143][info] Message ChatMessage{chat=Local, author='charlie', text='?POR AQU?!'} sent to chat (id = 2) members.
+[17-10-24 23:39:43.306][info] Got message:ChatMessage{chat=Local, author='charlie', text='?EH T?!'}.
+[17-10-24 23:39:43.306][info] Message ChatMessage{chat=Local, author='charlie', text='?EH T?!'} sent to chat (id = 2) members.
+[17-10-24 23:39:44.405][info] Got message:ChatMessage{chat=Local, author='charlie', text='?EH T?!'}.
+[17-10-24 23:39:44.405][info] Message ChatMessage{chat=Local, author='charlie', text='?EH T?!'} sent to chat (id = 2) members.
+[17-10-24 23:39:44.610][info] Got message:ChatMessage{chat=Local, author='charlie', text='?EH T?!'}.
+[17-10-24 23:39:44.610][info] Message ChatMessage{chat=Local, author='charlie', text='?EH T?!'} sent to chat (id = 2) members.
+[17-10-24 23:39:46.921][info] Got message:ChatMessage{chat=Local, author='charlie', text='?EH T?!'}.
+[17-10-24 23:39:46.921][info] Message ChatMessage{chat=Local, author='charlie', text='?EH T?!'} sent to chat (id = 2) members.
+[17-10-24 23:39:47.113][info] Got message:ChatMessage{chat=Local, author='charlie', text='?POR AQU?!'}.
+[17-10-24 23:39:47.113][info] Message ChatMessage{chat=Local, author='charlie', text='?POR AQU?!'} sent to chat (id = 2) members.
+[17-10-24 23:39:48.551][info] Got message:ChatMessage{chat=Local, author='charlie', text='?POR AQU?!'}.
+[17-10-24 23:39:48.551][info] Message ChatMessage{chat=Local, author='charlie', text='?POR AQU?!'} sent to chat (id = 2) members.
+[17-10-24 23:39:48.740][info] Got message:ChatMessage{chat=Local, author='charlie', text='?HEY!'}.
+[17-10-24 23:39:48.740][info] Message ChatMessage{chat=Local, author='charlie', text='?HEY!'} sent to chat (id = 2) members.
+[17-10-24 23:39:48.959][info] Got message:ChatMessage{chat=Local, author='charlie', text='?POR AQU?!'}.
+[17-10-24 23:39:48.959][info] Message ChatMessage{chat=Local, author='charlie', text='?POR AQU?!'} sent to chat (id = 2) members.
+[17-10-24 23:39:49.572][info] Got message:ChatMessage{chat=Local, author='charlie', text='?EH T?!'}.
+[17-10-24 23:39:49.572][info] Message ChatMessage{chat=Local, author='charlie', text='?EH T?!'} sent to chat (id = 2) members.
+[17-10-24 23:39:49.790][info] Got message:ChatMessage{chat=Local, author='charlie', text='?HEY!'}.
+[17-10-24 23:39:49.790][info] Message ChatMessage{chat=Local, author='charlie', text='?HEY!'} sent to chat (id = 2) members.
+[17-10-24 23:39:50.420][info] Got message:ChatMessage{chat=Local, author='charlie', text='?EH T?!'}.
+[17-10-24 23:39:50.420][info] Message ChatMessage{chat=Local, author='charlie', text='?EH T?!'} sent to chat (id = 2) members.
+[17-10-24 23:39:50.631][info] Got message:ChatMessage{chat=Local, author='charlie', text='?EH T?!'}.
+[17-10-24 23:39:50.631][info] Message ChatMessage{chat=Local, author='charlie', text='?EH T?!'} sent to chat (id = 2) members.
+[17-10-24 23:39:51.316][info] Got message:ChatMessage{chat=Local, author='charlie', text='?HEY!'}.
+[17-10-24 23:39:51.316][info] Message ChatMessage{chat=Local, author='charlie', text='?HEY!'} sent to chat (id = 2) members.
+[17-10-24 23:39:51.503][info] Got message:ChatMessage{chat=Local, author='charlie', text='?POR AQU?!'}.
+[17-10-24 23:39:51.503][info] Message ChatMessage{chat=Local, author='charlie', text='?POR AQU?!'} sent to chat (id = 2) members.
+[17-10-24 23:39:52.069][info] Got message:ChatMessage{chat=Local, author='charlie', text='?POR AQU?!'}.
+[17-10-24 23:39:52.069][info] Message ChatMessage{chat=Local, author='charlie', text='?POR AQU?!'} sent to chat (id = 2) members.
+[17-10-24 23:39:52.264][info] Got message:ChatMessage{chat=Local, author='charlie', text='?EH T?!'}.
+[17-10-24 23:39:52.264][info] Message ChatMessage{chat=Local, author='charlie', text='?EH T?!'} sent to chat (id = 2) members.
+[17-10-24 23:39:52.922][info] Got message:ChatMessage{chat=Local, author='charlie', text='?POR AQU?!'}.
+[17-10-24 23:39:52.922][info] Message ChatMessage{chat=Local, author='charlie', text='?POR AQU?!'} sent to chat (id = 2) members.
+[17-10-24 23:39:53.150][info] Got message:ChatMessage{chat=Local, author='charlie', text='?POR AQU?!'}.
+[17-10-24 23:39:53.150][info] Message ChatMessage{chat=Local, author='charlie', text='?POR AQU?!'} sent to chat (id = 2) members.
+[17-10-24 23:39:53.679][info] Got message:ChatMessage{chat=Local, author='charlie', text='?POR AQU?!'}.
+[17-10-24 23:39:53.679][info] Message ChatMessage{chat=Local, author='charlie', text='?POR AQU?!'} sent to chat (id = 2) members.
+[17-10-24 23:39:53.823][info] Got message:ChatMessage{chat=Local, author='charlie', text='?POR AQU?!'}.
+[17-10-24 23:39:53.824][info] Message ChatMessage{chat=Local, author='charlie', text='?POR AQU?!'} sent to chat (id = 2) members.
+[17-10-24 23:39:54.677][info] Got message:ChatMessage{chat=Local, author='charlie', text='?HEY!'}.
+[17-10-24 23:39:54.677][info] Message ChatMessage{chat=Local, author='charlie', text='?HEY!'} sent to chat (id = 2) members.
+[17-10-24 23:39:54.864][info] Got message:ChatMessage{chat=Local, author='charlie', text='?HEY!'}.
+[17-10-24 23:39:54.864][info] Message ChatMessage{chat=Local, author='charlie', text='?HEY!'} sent to chat (id = 2) members.
+[17-10-24 23:39:55.626][info] Got message:ChatMessage{chat=Local, author='charlie', text='?POR AQU?!'}.
+[17-10-24 23:39:55.626][info] Message ChatMessage{chat=Local, author='charlie', text='?POR AQU?!'} sent to chat (id = 2) members.
+[17-10-24 23:39:55.875][info] Got message:ChatMessage{chat=Local, author='charlie', text='?EH T?!'}.
+[17-10-24 23:39:55.875][info] Message ChatMessage{chat=Local, author='charlie', text='?EH T?!'} sent to chat (id = 2) members.
+[17-10-24 23:39:56.404][info] Got message:ChatMessage{chat=Local, author='charlie', text='?HEY!'}.
+[17-10-24 23:39:56.404][info] Message ChatMessage{chat=Local, author='charlie', text='?HEY!'} sent to chat (id = 2) members.
+[17-10-24 23:39:56.870][info] Got message:ChatMessage{chat=Local, author='charlie', text='?HEY!'}.
+[17-10-24 23:39:56.870][info] Message ChatMessage{chat=Local, author='charlie', text='?HEY!'} sent to chat (id = 2) members.
+[17-10-24 23:39:57.456][info] Got message:ChatMessage{chat=Local, author='charlie', text='?EH T?!'}.
+[17-10-24 23:39:57.456][info] Message ChatMessage{chat=Local, author='charlie', text='?EH T?!'} sent to chat (id = 2) members.
+[17-10-24 23:39:57.666][info] Got message:ChatMessage{chat=Local, author='charlie', text='?HEY!'}.
+[17-10-24 23:39:57.666][info] Message ChatMessage{chat=Local, author='charlie', text='?HEY!'} sent to chat (id = 2) members.
+[17-10-24 23:39:57.933][info] Got message:ChatMessage{chat=Local, author='charlie', text='?HEY!'}.
+[17-10-24 23:39:57.934][info] Message ChatMessage{chat=Local, author='charlie', text='?HEY!'} sent to chat (id = 2) members.
+[17-10-24 23:39:58.256][info] Got message:ChatMessage{chat=Local, author='charlie', text='?EH T?!'}.
+[17-10-24 23:39:58.256][info] Message ChatMessage{chat=Local, author='charlie', text='?EH T?!'} sent to chat (id = 2) members.
+[17-10-24 23:39:59.478][info] Got message:ChatMessage{chat=Local, author='charlie', text='?HEY!'}.
+[17-10-24 23:39:59.479][info] Message ChatMessage{chat=Local, author='charlie', text='?HEY!'} sent to chat (id = 2) members.
+[17-10-24 23:39:59.868][info] Got message:ChatMessage{chat=Local, author='charlie', text='?HEY!'}.
+[17-10-24 23:39:59.868][info] Message ChatMessage{chat=Local, author='charlie', text='?HEY!'} sent to chat (id = 2) members.
+[17-10-24 23:40:05.735][info] Got message:ChatMessage{chat=Local, author='charlie', text='?EH T?!'}.
+[17-10-24 23:40:05.735][info] Message ChatMessage{chat=Local, author='charlie', text='?EH T?!'} sent to chat (id = 2) members.
+[17-10-24 23:40:05.942][info] Got message:ChatMessage{chat=Local, author='charlie', text='?EH T?!'}.
+[17-10-24 23:40:05.942][info] Message ChatMessage{chat=Local, author='charlie', text='?EH T?!'} sent to chat (id = 2) members.
+[17-10-24 23:40:06.164][info] Got message:ChatMessage{chat=Local, author='charlie', text='?POR AQU?!'}.
+[17-10-24 23:40:06.164][info] Message ChatMessage{chat=Local, author='charlie', text='?POR AQU?!'} sent to chat (id = 2) members.
+[17-10-24 23:40:06.373][info] Got message:ChatMessage{chat=Local, author='charlie', text='?POR AQU?!'}.
+[17-10-24 23:40:06.373][info] Message ChatMessage{chat=Local, author='charlie', text='?POR AQU?!'} sent to chat (id = 2) members.
+[17-10-24 23:40:06.615][info] Got message:ChatMessage{chat=Local, author='charlie', text='?POR AQU?!'}.
+[17-10-24 23:40:06.615][info] Message ChatMessage{chat=Local, author='charlie', text='?POR AQU?!'} sent to chat (id = 2) members.
+[17-10-24 23:40:06.839][info] Got message:ChatMessage{chat=Local, author='charlie', text='?POR AQU?!'}.
+[17-10-24 23:40:06.839][info] Message ChatMessage{chat=Local, author='charlie', text='?POR AQU?!'} sent to chat (id = 2) members.
+[17-10-24 23:40:07.094][info] Got message:ChatMessage{chat=Local, author='charlie', text='?HEY!'}.
+[17-10-24 23:40:07.095][info] Message ChatMessage{chat=Local, author='charlie', text='?HEY!'} sent to chat (id = 2) members.
+[17-10-24 23:40:07.320][info] Got message:ChatMessage{chat=Local, author='charlie', text='?HEY!'}.
+[17-10-24 23:40:07.320][info] Message ChatMessage{chat=Local, author='charlie', text='?HEY!'} sent to chat (id = 2) members.
+[17-10-24 23:40:07.581][info] Got message:ChatMessage{chat=Local, author='charlie', text='?POR AQU?!'}.
+[17-10-24 23:40:07.581][info] Message ChatMessage{chat=Local, author='charlie', text='?POR AQU?!'} sent to chat (id = 2) members.
+[17-10-24 23:40:12.232][info] Got message:ChatMessage{chat=Local, author='charlie', text='?HEY!'}.
+[17-10-24 23:40:12.232][info] Message ChatMessage{chat=Local, author='charlie', text='?HEY!'} sent to chat (id = 2) members.
+[17-10-24 23:40:12.572][info] Got message:ChatMessage{chat=Local, author='charlie', text='?HEY!'}.
+[17-10-24 23:40:12.572][info] Message ChatMessage{chat=Local, author='charlie', text='?HEY!'} sent to chat (id = 2) members.
+[17-10-24 23:40:12.867][info] Got message:ChatMessage{chat=Local, author='charlie', text='?HEY!'}.
+[17-10-24 23:40:12.867][info] Message ChatMessage{chat=Local, author='charlie', text='?HEY!'} sent to chat (id = 2) members.
+[17-10-24 23:40:17.332][info] Got message:ChatMessage{chat=Local, author='charlie', text='?HEY!'}.
+[17-10-24 23:40:17.332][info] Message ChatMessage{chat=Local, author='charlie', text='?HEY!'} sent to chat (id = 2) members.
+[17-10-24 23:40:17.561][info] Got message:ChatMessage{chat=Local, author='charlie', text='?HEY!'}.
+[17-10-24 23:40:17.561][info] Message ChatMessage{chat=Local, author='charlie', text='?HEY!'} sent to chat (id = 2) members.
+[17-10-24 23:40:17.764][info] Got message:ChatMessage{chat=Local, author='charlie', text='?HEY!'}.
+[17-10-24 23:40:17.764][info] Message ChatMessage{chat=Local, author='charlie', text='?HEY!'} sent to chat (id = 2) members.
+[17-10-24 23:40:18.019][info] Got message:ChatMessage{chat=Local, author='charlie', text='?EH T?!'}.
+[17-10-24 23:40:18.020][info] Message ChatMessage{chat=Local, author='charlie', text='?EH T?!'} sent to chat (id = 2) members.
+[17-10-24 23:40:18.286][info] Got message:ChatMessage{chat=Local, author='charlie', text='?HEY!'}.
+[17-10-24 23:40:18.286][info] Message ChatMessage{chat=Local, author='charlie', text='?HEY!'} sent to chat (id = 2) members.
+[17-10-24 23:40:21.064][info] Got message:ChatMessage{chat=Local, author='charlie', text='?EH T?!'}.
+[17-10-24 23:40:21.065][info] Message ChatMessage{chat=Local, author='charlie', text='?EH T?!'} sent to chat (id = 2) members.
+[17-10-24 23:40:21.225][info] Got message:ChatMessage{chat=Local, author='charlie', text='?EH T?!'}.
+[17-10-24 23:40:21.225][info] Message ChatMessage{chat=Local, author='charlie', text='?EH T?!'} sent to chat (id = 2) members.
+[17-10-24 23:40:21.470][info] Got message:ChatMessage{chat=Local, author='charlie', text='?EH T?!'}.
+[17-10-24 23:40:21.470][info] Message ChatMessage{chat=Local, author='charlie', text='?EH T?!'} sent to chat (id = 2) members.
+[17-10-24 23:40:32.823][info] Got message:ChatMessage{chat=Local, author='charlie', text='?POR AQU?!'}.
+[17-10-24 23:40:32.823][info] Message ChatMessage{chat=Local, author='charlie', text='?POR AQU?!'} sent to chat (id = 2) members.
+[17-10-24 23:40:33.030][info] Got message:ChatMessage{chat=Local, author='charlie', text='?HEY!'}.
+[17-10-24 23:40:33.030][info] Message ChatMessage{chat=Local, author='charlie', text='?HEY!'} sent to chat (id = 2) members.
+[17-10-24 23:54:03.206][info] Got message:ChatMessage{chat=Local, author='bramen', text='hey'}.
+[17-10-24 23:54:03.207][info] Message ChatMessage{chat=Local, author='bramen', text='hey'} sent to chat (id = 2) members.
+[17-10-24 23:54:03.404][info] Got message:ChatMessage{chat=Local, author='bramen', text='hey'}.
+[17-10-24 23:54:03.404][info] Message ChatMessage{chat=Local, author='bramen', text='hey'} sent to chat (id = 2) members.
+[17-10-24 23:54:03.742][info] Got message:ChatMessage{chat=Local, author='bramen', text='hey'}.
+[17-10-24 23:54:03.743][info] Message ChatMessage{chat=Local, author='bramen', text='hey'} sent to chat (id = 2) members.
+[17-10-24 23:54:03.889][info] Got message:ChatMessage{chat=Local, author='bramen', text='hey'}.
+[17-10-24 23:54:03.889][info] Message ChatMessage{chat=Local, author='bramen', text='hey'} sent to chat (id = 2) members.
+[17-10-24 23:54:04.023][info] Got message:ChatMessage{chat=Local, author='bramen', text='psst psst'}.
+[17-10-24 23:54:04.024][info] Message ChatMessage{chat=Local, author='bramen', text='psst psst'} sent to chat (id = 2) members.
+[17-10-24 23:54:04.153][info] Got message:ChatMessage{chat=Local, author='bramen', text='psst psst'}.
+[17-10-24 23:54:04.153][info] Message ChatMessage{chat=Local, author='bramen', text='psst psst'} sent to chat (id = 2) members.
+[17-10-24 23:54:04.321][info] Got message:ChatMessage{chat=Local, author='bramen', text='hey'}.
+[17-10-24 23:54:04.321][info] Message ChatMessage{chat=Local, author='bramen', text='hey'} sent to chat (id = 2) members.
+[17-10-24 23:54:04.453][info] Got message:ChatMessage{chat=Local, author='bramen', text='psssst'}.
+[17-10-24 23:54:04.453][info] Message ChatMessage{chat=Local, author='bramen', text='psssst'} sent to chat (id = 2) members.
+[17-10-24 23:54:04.586][info] Got message:ChatMessage{chat=Local, author='bramen', text='hey'}.
+[17-10-24 23:54:04.586][info] Message ChatMessage{chat=Local, author='bramen', text='hey'} sent to chat (id = 2) members.
+[17-10-24 23:54:04.738][info] Got message:ChatMessage{chat=Local, author='bramen', text='hey'}.
+[17-10-24 23:54:04.738][info] Message ChatMessage{chat=Local, author='bramen', text='hey'} sent to chat (id = 2) members.
+[17-10-24 23:54:04.885][info] Got message:ChatMessage{chat=Local, author='bramen', text='hey'}.
+[17-10-24 23:54:04.885][info] Message ChatMessage{chat=Local, author='bramen', text='hey'} sent to chat (id = 2) members.
+[17-10-24 23:54:05.037][info] Got message:ChatMessage{chat=Local, author='bramen', text='psssst'}.
+[17-10-24 23:54:05.037][info] Message ChatMessage{chat=Local, author='bramen', text='psssst'} sent to chat (id = 2) members.
+[17-10-24 23:54:05.206][info] Got message:ChatMessage{chat=Local, author='bramen', text='psst psst'}.
+[17-10-24 23:54:05.206][info] Message ChatMessage{chat=Local, author='bramen', text='psst psst'} sent to chat (id = 2) members.
+[17-10-24 23:54:05.352][info] Got message:ChatMessage{chat=Local, author='bramen', text='psssst'}.
+[17-10-24 23:54:05.352][info] Message ChatMessage{chat=Local, author='bramen', text='psssst'} sent to chat (id = 2) members.
+[17-10-24 23:54:05.488][info] Got message:ChatMessage{chat=Local, author='bramen', text='psssst'}.
+[17-10-24 23:54:05.488][info] Message ChatMessage{chat=Local, author='bramen', text='psssst'} sent to chat (id = 2) members.
+[17-10-24 23:54:05.654][info] Got message:ChatMessage{chat=Local, author='bramen', text='psst psst'}.
+[17-10-24 23:54:05.654][info] Message ChatMessage{chat=Local, author='bramen', text='psst psst'} sent to chat (id = 2) members.
+[17-10-24 23:54:05.806][info] Got message:ChatMessage{chat=Local, author='bramen', text='psst psst'}.
+[17-10-24 23:54:05.806][info] Message ChatMessage{chat=Local, author='bramen', text='psst psst'} sent to chat (id = 2) members.
+[17-10-24 23:54:06.039][info] Got message:ChatMessage{chat=Local, author='bramen', text='hey'}.
+[17-10-24 23:54:06.039][info] Message ChatMessage{chat=Local, author='bramen', text='hey'} sent to chat (id = 2) members.
+[17-10-24 23:54:06.938][info] Got message:ChatMessage{chat=Local, author='bramen', text='?EH T?!'}.
+[17-10-24 23:54:06.938][info] Message ChatMessage{chat=Local, author='bramen', text='?EH T?!'} sent to chat (id = 2) members.
+[17-10-24 23:54:07.089][info] Got message:ChatMessage{chat=Local, author='bramen', text='?HEY!'}.
+[17-10-24 23:54:07.089][info] Message ChatMessage{chat=Local, author='bramen', text='?HEY!'} sent to chat (id = 2) members.
+[17-10-24 23:54:07.238][info] Got message:ChatMessage{chat=Local, author='bramen', text='?EH T?!'}.
+[17-10-24 23:54:07.238][info] Message ChatMessage{chat=Local, author='bramen', text='?EH T?!'} sent to chat (id = 2) members.
+[17-10-24 23:54:07.389][info] Got message:ChatMessage{chat=Local, author='bramen', text='?EH T?!'}.
+[17-10-24 23:54:07.389][info] Message ChatMessage{chat=Local, author='bramen', text='?EH T?!'} sent to chat (id = 2) members.
+[17-10-24 23:54:07.567][info] Got message:ChatMessage{chat=Local, author='bramen', text='?EH T?!'}.
+[17-10-24 23:54:07.575][info] Message ChatMessage{chat=Local, author='bramen', text='?EH T?!'} sent to chat (id = 2) members.
+[17-10-24 23:54:07.690][info] Got message:ChatMessage{chat=Local, author='bramen', text='?HEY!'}.
+[17-10-24 23:54:07.690][info] Message ChatMessage{chat=Local, author='bramen', text='?HEY!'} sent to chat (id = 2) members.
+[17-10-24 23:54:07.838][info] Got message:ChatMessage{chat=Local, author='bramen', text='?POR AQU?!'}.
+[17-10-24 23:54:07.838][info] Message ChatMessage{chat=Local, author='bramen', text='?POR AQU?!'} sent to chat (id = 2) members.
+[17-10-24 23:54:07.972][info] Got message:ChatMessage{chat=Local, author='bramen', text='?HEY!'}.
+[17-10-24 23:54:07.972][info] Message ChatMessage{chat=Local, author='bramen', text='?HEY!'} sent to chat (id = 2) members.
+[17-10-24 23:54:08.156][info] Got message:ChatMessage{chat=Local, author='bramen', text='?HEY!'}.
+[17-10-24 23:54:08.156][info] Message ChatMessage{chat=Local, author='bramen', text='?HEY!'} sent to chat (id = 2) members.
+[17-10-24 23:54:09.924][info] Got message:ChatMessage{chat=Local, author='bramen', text='?EH T?!'}.
+[17-10-24 23:54:09.924][info] Message ChatMessage{chat=Local, author='bramen', text='?EH T?!'} sent to chat (id = 2) members.
+[17-10-24 23:54:10.074][info] Got message:ChatMessage{chat=Local, author='bramen', text='?HEY!'}.
+[17-10-24 23:54:10.074][info] Message ChatMessage{chat=Local, author='bramen', text='?HEY!'} sent to chat (id = 2) members.
+[17-10-24 23:54:10.240][info] Got message:ChatMessage{chat=Local, author='bramen', text='?POR AQU?!'}.
+[17-10-24 23:54:10.241][info] Message ChatMessage{chat=Local, author='bramen', text='?POR AQU?!'} sent to chat (id = 2) members.
+[17-10-24 23:54:10.387][info] Got message:ChatMessage{chat=Local, author='bramen', text='?HEY!'}.
+[17-10-24 23:54:10.387][info] Message ChatMessage{chat=Local, author='bramen', text='?HEY!'} sent to chat (id = 2) members.
+[17-10-24 23:54:10.541][info] Got message:ChatMessage{chat=Local, author='bramen', text='?HEY!'}.
+[17-10-24 23:54:10.541][info] Message ChatMessage{chat=Local, author='bramen', text='?HEY!'} sent to chat (id = 2) members.
+[17-10-24 23:54:10.687][info] Got message:ChatMessage{chat=Local, author='bramen', text='?POR AQU?!'}.
+[17-10-24 23:54:10.687][info] Message ChatMessage{chat=Local, author='bramen', text='?POR AQU?!'} sent to chat (id = 2) members.
+[17-10-24 23:54:10.843][info] Got message:ChatMessage{chat=Local, author='bramen', text='?HEY!'}.
+[17-10-24 23:54:10.843][info] Message ChatMessage{chat=Local, author='bramen', text='?HEY!'} sent to chat (id = 2) members.
+[17-10-24 23:54:10.991][info] Got message:ChatMessage{chat=Local, author='bramen', text='?POR AQU?!'}.
+[17-10-24 23:54:10.991][info] Message ChatMessage{chat=Local, author='bramen', text='?POR AQU?!'} sent to chat (id = 2) members.
+[17-10-24 23:54:11.140][info] Got message:ChatMessage{chat=Local, author='bramen', text='?HEY!'}.
+[17-10-24 23:54:11.140][info] Message ChatMessage{chat=Local, author='bramen', text='?HEY!'} sent to chat (id = 2) members.
+[17-10-24 23:54:11.288][info] Got message:ChatMessage{chat=Local, author='bramen', text='?POR AQU?!'}.
+[17-10-24 23:54:11.288][info] Message ChatMessage{chat=Local, author='bramen', text='?POR AQU?!'} sent to chat (id = 2) members.
+[17-10-24 23:54:11.440][info] Got message:ChatMessage{chat=Local, author='bramen', text='?HEY!'}.
+[17-10-24 23:54:11.440][info] Message ChatMessage{chat=Local, author='bramen', text='?HEY!'} sent to chat (id = 2) members.
+[17-10-24 23:54:13.938][info] Got message:ChatMessage{chat=Local, author='bramen', text='?EH T?!'}.
+[17-10-24 23:54:13.938][info] Message ChatMessage{chat=Local, author='bramen', text='?EH T?!'} sent to chat (id = 2) members.
+[17-10-24 23:54:14.092][info] Got message:ChatMessage{chat=Local, author='bramen', text='?EH T?!'}.
+[17-10-24 23:54:14.092][info] Message ChatMessage{chat=Local, author='bramen', text='?EH T?!'} sent to chat (id = 2) members.
+[17-10-24 23:54:14.275][info] Got message:ChatMessage{chat=Local, author='bramen', text='?EH T?!'}.
+[17-10-24 23:54:14.275][info] Message ChatMessage{chat=Local, author='bramen', text='?EH T?!'} sent to chat (id = 2) members.
+[17-10-24 23:54:14.408][info] Got message:ChatMessage{chat=Local, author='bramen', text='?EH T?!'}.
+[17-10-24 23:54:14.408][info] Message ChatMessage{chat=Local, author='bramen', text='?EH T?!'} sent to chat (id = 2) members.
+[17-10-24 23:54:14.572][info] Got message:ChatMessage{chat=Local, author='bramen', text='?POR AQU?!'}.
+[17-10-24 23:54:14.572][info] Message ChatMessage{chat=Local, author='bramen', text='?POR AQU?!'} sent to chat (id = 2) members.
+[17-10-24 23:54:14.741][info] Got message:ChatMessage{chat=Local, author='bramen', text='?HEY!'}.
+[17-10-24 23:54:14.741][info] Message ChatMessage{chat=Local, author='bramen', text='?HEY!'} sent to chat (id = 2) members.
+[17-10-24 23:54:19.455][info] Got message:ChatMessage{chat=Local, author='bramen', text='?HEY!'}.
+[17-10-24 23:54:19.455][info] Message ChatMessage{chat=Local, author='bramen', text='?HEY!'} sent to chat (id = 2) members.
+[17-10-24 23:54:38.505][info] Player 8 disconnecting....
+[17-10-24 23:54:38.506][info] Disconnecting player 8 finished.
+[17-10-24 23:54:38.506][info] Player 8 disconnecting....
+[17-10-24 23:54:38.506][info] Disconnecting player 8 finished.
+[18-10-24 00:11:34.237][info] Player with id = '8' tries to connect.
+[18-10-24 00:11:34.237][info] Adding player '8' to chat server.
+[18-10-24 00:11:34.238][info] Player joined to default chats.
+[18-10-24 00:11:34.238][info] Player charlie(8) joined to chat server successfully.
+[18-10-24 00:48:17.143][info] Player 8 disconnecting....
+[18-10-24 00:48:17.143][info] Disconnecting player 8 finished.
+[18-10-24 00:48:17.143][info] Player 8 disconnecting....
+[18-10-24 00:48:17.143][info] Disconnecting player 8 finished.
+[18-10-24 03:15:51.788][info] Player 4 disconnecting....
+[18-10-24 03:15:51.788][info] Disconnecting player 4 finished.
+[18-10-24 03:15:51.788][info] Player 4 disconnecting....
+[18-10-24 03:15:51.789][info] Disconnecting player 4 finished.
+[18-10-24 06:09:36.686][info] Player 0 disconnecting....
+[18-10-24 06:09:36.686][info] Disconnecting player 0 finished.
+[18-10-24 06:09:36.687][info] Player 0 disconnecting....
+[18-10-24 06:09:36.687][info] Disconnecting player 0 finished.
