@@ -1,0 +1,10 @@
+[18-10-24 22:00:35.667] [76561198430296167][DonDiego][10850,10153,0][Login][Hours Survived: 425].
+[18-10-24 22:00:35.669] [76561198430296167][DonDiego][10850,10153,0][Cooking=1, Fitness=10, Strength=10, Blunt=5, Axe=4, Sprinting=3, Lightfoot=0, Nimble=1, Sneak=0, Woodwork=2, Aiming=0, Reloading=0, Farming=0, Fishing=0, Trapping=0, PlantScavenging=0, Doctor=0, Electricity=1, MetalWelding=0, Mechanics=2, Spear=0, Maintenance=2, SmallBlade=1, LongBlade=0, SmallBlunt=1, Tailoring=0][Hours Survived: 425].
+[18-10-24 22:05:15.426] [76561198430296167][DonDiego][10705,10158,0][Level Changed][Axe][5][Hours Survived: 427].
+[18-10-24 23:02:55.654] [76561198333912692][charlie][10842,10119,0][Login][Hours Survived: 59].
+[18-10-24 23:02:55.654] [76561198333912692][charlie][10842,10119,0][Cooking=0, Fitness=7, Strength=7, Blunt=1, Axe=0, Sprinting=1, Lightfoot=2, Nimble=2, Sneak=2, Woodwork=2, Aiming=0, Reloading=0, Farming=0, Fishing=1, Trapping=0, PlantScavenging=0, Doctor=0, Electricity=0, MetalWelding=0, Mechanics=0, Spear=0, Maintenance=1, SmallBlade=0, LongBlade=0, SmallBlunt=0, Tailoring=0][Hours Survived: 59].
+[18-10-24 23:09:06.369] [76561198333912692][charlie][10842,10119,0][Level Changed][Woodwork][3][Hours Survived: 62].
+[18-10-24 23:22:33.054] [76561198430296167][DonDiego][10842,10151,0][Level Changed][Woodwork][3][Hours Survived: 458].
+[18-10-24 23:47:21.655] [76561198333912692][charlie][10123,11129,0][Level Changed][Blunt][2][Hours Survived: 77].
+[18-10-24 23:58:20.018] [76561198430296167][DonDiego][10689,9401,0][Level Changed][Maintenance][3][Hours Survived: 472].
+[19-10-24 00:48:49.765] [76561198333912692][charlie][10003,10980,0][Level Changed][Sprinting][2][Hours Survived: 102].
