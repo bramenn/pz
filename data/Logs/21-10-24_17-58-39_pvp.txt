@@ -1,0 +1,13 @@
+[21-10-24 17:58:39.558][INFO] user "bramen" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[21-10-24 18:11:08.905][INFO] user "DonDiego" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[21-10-24 18:12:10.711][INFO] user "DonDiego" store safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[21-10-24 18:50:30.946][INFO] user "DonDiego" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[21-10-24 20:20:36.138] user "bramen" (10855,10149,0) enabled safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[21-10-24 20:20:36.139] user "bramen" (10855,10149,0) disabled safety enabled=false last=true cooldown=0.0 toggle=2.0.
+[21-10-24 20:21:01.735] user "bramen" (10856,10149,0) disabled safety enabled=false last=true cooldown=0.0 toggle=0.0.
+[21-10-24 20:21:01.735] user "bramen" (10856,10149,0) disabled safety enabled=false last=false cooldown=0.0 toggle=2.0.
+[21-10-24 20:22:15.851] user "bramen" (10856,10145,0) enabled safety enabled=true last=false cooldown=0.0 toggle=0.0.
+[21-10-24 20:22:15.851] user "bramen" (10856,10145,0) disabled safety enabled=false last=true cooldown=0.0 toggle=2.0.
+[21-10-24 20:23:02.585][INFO] user "bramen" clear safety enabled=false last=true cooldown=0.0 toggle=0.0.
+[21-10-24 20:23:02.591][IMPORTANT] user DonDiego (76561198430296167)  killed bramen (76561199040661533)  (10856,10144,0).
+[21-10-24 20:23:34.349][INFO] user "DonDiego" store safety enabled=true last=true cooldown=0.0 toggle=0.0.

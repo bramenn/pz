@@ -1,0 +1,21 @@
+[21-10-24 18:13:49.805] 76561199040661533 "bramen" removed Radio (appliances_radio_01_0) at 10880,10079,0.
+[21-10-24 18:48:10.973] 76561199040661533 "bramen" removed IsoObject (furniture_storage_02_29) at 10879,10155,0.
+[21-10-24 18:54:13.712] 76561199040661533 "bramen" added IsoObject (furniture_storage_02_29) at 10884.0,10142.0,0.0.
+[21-10-24 18:57:40.184] 76561198430296167 "DonDiego" removed Door (walls_garage_01_50) at 10608,9376,0.
+[21-10-24 18:57:40.185] 76561198430296167 "DonDiego" removed Door (walls_garage_01_48) at 10608,9377,0.
+[21-10-24 19:01:07.246] 76561198430296167 "DonDiego" removed Door (walls_garage_01_48) at 10608,9373,0.
+[21-10-24 19:01:07.246] 76561198430296167 "DonDiego" removed Door (walls_garage_01_50) at 10608,9372,0.
+[21-10-24 19:01:17.781] 76561198430296167 "DonDiego" removed Door (fixtures_doors_01_20) at 10606,9410,0.
+[21-10-24 19:02:20.316] 76561199040661533 "bramen" removed IsoObject (furniture_storage_02_29) at 10884,10142,0.
+[21-10-24 19:04:34.252] 76561198430296167 "DonDiego" removed Door (walls_garage_01_17) at 10613,9410,0.
+[21-10-24 19:04:34.253] 76561198430296167 "DonDiego" removed Door (walls_garage_01_16) at 10613,9411,0.
+[21-10-24 19:04:34.253] 76561198430296167 "DonDiego" removed Door (walls_garage_01_18) at 10613,9409,0.
+[21-10-24 19:06:40.935] 76561198430296167 "DonDiego" removed Door (walls_garage_01_48) at 10608,9369,0.
+[21-10-24 19:06:40.935] 76561198430296167 "DonDiego" removed Door (walls_garage_01_50) at 10608,9368,0.
+[21-10-24 19:25:19.350] 76561198430296167 "DonDiego" removed Virginia Pine (e_virginiapine_1_2) at 10625,11134,0.
+[21-10-24 19:41:11.147] 76561199040661533 "bramen" removed IsoObject (security_01_1) at 10362,12377,0.
+[21-10-24 19:54:12.061] 76561199040661533 "bramen" removed Television (appliances_television_01_2) at 10350,12630,0.
+[21-10-24 19:55:40.026] 76561199040661533 "bramen" removed Radio (appliances_radio_01_2) at 10348,12638,0.
+[21-10-24 19:57:37.333] 76561199040661533 "bramen" removed Television (appliances_television_01_10) at 10351,12653,0.
+[21-10-24 19:59:46.363] 76561199040661533 "bramen" removed Door (fixtures_doors_01_44) at 10349,12698,0.
+[21-10-24 20:00:09.603] 76561199040661533 "bramen" removed Door (fixtures_doors_01_44) at 10379,12665,0.
