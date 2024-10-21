@@ -1,4 +1,0 @@
-[18-10-24 22:00:34.354][INFO] user "DonDiego" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
-[18-10-24 23:02:54.106][INFO] user "charlie" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
-[19-10-24 01:21:07.683][INFO] user "charlie" store safety enabled=true last=true cooldown=0.0 toggle=0.0.
-[19-10-24 01:40:26.120][INFO] user "DonDiego" store safety enabled=true last=true cooldown=0.0 toggle=0.0.
