@@ -1,0 +1,8 @@
+[21-10-24 22:51:39.788] 76561199040661533 "bramen" removed Radio (appliances_radio_01_2) at 10810,10079,0.
+[21-10-24 22:54:32.447] 76561198430296167 "DonDiego" removed Door (fixtures_doors_01_16) at 10891,9481,0.
+[21-10-24 22:56:20.596] 76561198430296167 "DonDiego" removed Door (fixtures_doors_01_0) at 10749,9413,0.
+[21-10-24 22:56:35.842] 76561198430296167 "DonDiego" removed Door (fixtures_doors_01_28) at 10655,9375,0.
+[21-10-24 22:56:39.841] 76561198430296167 "DonDiego" removed Door (fixtures_doors_01_12) at 10784,9417,0.
+[21-10-24 22:57:17.615] 76561198430296167 "DonDiego" removed Door (fixtures_doors_01_52) at 10640,9406,0.
+[21-10-24 22:57:47.183] 76561198430296167 "DonDiego" removed Door (fixtures_doors_01_44) at 10697,9386,0.
+[21-10-24 23:08:12.731] 76561199040661533 "bramen" removed Door (fixtures_doors_02_5) at 10881,10086,0.

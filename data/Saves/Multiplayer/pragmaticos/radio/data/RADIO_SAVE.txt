@@ -1,0 +1,15 @@
+DaysSinceStart = 0
+LvObfuscation = false
+93200,1,1,main,0,none,-1
+98000,1,1,main,0,none,-1
+101200,1,1,main,0,06070bf7-a1d2-48ac-b6cb-c53175e562cc,-1
+89400,1,1,main,0,227caf84-38a5-474b-83e0-9ff6679c095d,-1
+200,1,1,main,0,a7aedc33-2466-4f69-8470-9fff1f293ccc,-1
+201,1,1,main,0,5deb7636-fa87-4c26-b830-cce3fae71097,-1
+203,1,1,main,0,aece616a-4883-4e09-bd35-39aed89fe655,-1
+204,1,1,main,0,1c1d2d5c-f6bb-407f-9932-99269b96dadc,-1
+205,1,1,main,0,fbe54d85-eda3-4029-93fa-991bfb8c4114,-1
+91200,1,1,main,0,none,-1
+107600,1,1,main,0,none,-1
+95000,1,1,main,0,none,-1
+94400,1,1,GEN-507014,6
