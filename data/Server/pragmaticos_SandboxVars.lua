@@ -263,7 +263,7 @@ SandboxVars = {
     HoursForWorldItemRemoval = 24.0,
     -- If true, any items *not* in WorldItemRemovalList will be removed.
     ItemRemovalListBlacklistToggle = false,
-    -- Tshi will affect starting world erosion and food spoilage. Default=0
+    -- This will affect starting world erosion and food spoilage. Default=0
     -- 1 = 0
     -- 2 = 1
     -- 3 = 2
@@ -557,7 +557,7 @@ SandboxVars = {
         -- 3 = Short
         -- 4 = None
         Memory = 2,
-        -- Contrzombie vision radius. Default=Normalols 
+        -- Controls zombie vision radius. Default=Normal
         -- 1 = Eagle
         -- 2 = Normal
         -- 3 = Poor

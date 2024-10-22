@@ -1,0 +1,42 @@
+[22-10-24 06:41:30.424] LOG  : General     , 1729579290424> 529,575> cachedir set to "/home/steam/Zomboid".
+[22-10-24 06:41:30.509] LOG  : General     , 1729579290509> 529,660> version=41.78.16 demo=false.
+[22-10-24 06:41:30.509] LOG  : General     , 1729579290509> 529,660> revision= date= time=.
+[22-10-24 06:41:30.510] LOG  : General     , 1729579290510> 529,661> unknown option "-modfolders".
+[22-10-24 06:41:30.510] LOG  : General     , 1729579290510> 529,661> unknown option "workshop,steam,mods".
+[22-10-24 06:41:30.512] LOG  : General     , 1729579290512> 529,663> server name is "pragmaticos".
+[22-10-24 06:41:30.513] LOG  : General     , 1729579290513> 529,664> map_t.bin does not exist, cannot determine the server's WorldVersion.  This is ok the first time a server is started..
+[22-10-24 06:41:30.514] LOG  : General     , 1729579290514> 529,665> Loading networking libraries....
+[22-10-24 06:41:30.515] LOG  : General     , 1729579290515> 529,666> Loading steam_api....
+[22-10-24 06:41:30.516] LOG  : General     , 1729579290515> 529,667> Loading RakNet64....
+[22-10-24 06:41:30.517] LOG  : General     , 1729579290517> 529,668> Loading ZNetJNI64....
+[22-10-24 06:41:30.519] LOG  : Network     , 1729579290518> 529,670> [22-10-24 06:41:30.518] > ZNet: SetLogLevel 2.
+[22-10-24 06:41:30.520] LOG  : Network     , 1729579290520> 529,671> [22-10-24 06:41:30.520] > ZNet: SteamAPI initialised successfully.
+[22-10-24 06:41:30.520] LOG  : General     , 1729579290520> 529,671> SteamUtils initialised successfully.
+[22-10-24 06:41:31.846] LOG  : General     , 1729579291846> 530,997> translator: language is EN.
+[22-10-24 06:41:32.100] LOG  : General     , 1729579292096> 531,251> LightingFPS set to 15.
+[22-10-24 06:41:32.125] LOG  : General     , 1729579292125> 531,276> reading /home/steam/Zomboid/Server/pragmaticos.ini.
+[22-10-24 06:41:32.129] LOG  : General     , 1729579292128> 531,280> writing /home/steam/Zomboid/Server/pragmaticos.ini.
+[22-10-24 06:41:32.148] LOG  : Network     , 1729579292148> 531,299> [22-10-24 06:41:32.148] > ZNet: SZombienet -> SZombienet: Init.
+[22-10-24 06:41:32.249] LOG  : Network     , 1729579292249> 531,400> [22-10-24 06:41:32.248] > ZNet: SteamGameServer seems to be initialized.
+[22-10-24 06:41:32.252] LOG  : Network     , 1729579292252> 531,403> [22-10-24 06:41:32.252] > ZNet: SZombienet -> SSteamSDK: SetMaxPlayerCount.
+[22-10-24 06:41:32.255] LOG  : General     , 1729579292255> 531,406> Waiting for response from Steam servers.
+[22-10-24 06:41:33.057] LOG  : Network     , 1729579293057> 532,208> [22-10-24 06:41:33.056] > ZNet: SSteamSDK -> SZombienet: OnSteamServersConnected.
+[22-10-24 06:41:33.057] LOG  : Network     , 1729579293057> 532,208> [22-10-24 06:41:33.057] > ZNet: OnSteamServersConnected.
+[22-10-24 06:41:33.058] LOG  : Network     , 1729579293057> 532,209> [22-10-24 06:41:33.057] > ZNet: SZombienet -> SSteamSDK: SetMaxPlayerCount.
+[22-10-24 06:41:33.058] LOG  : Network     , 1729579293058> 532,209> [22-10-24 06:41:33.058] > ZNet: Public IP: 172.233.178.210.
+[22-10-24 06:41:33.060] LOG  : General     , 1729579293060> 532,211> Start making backup to: /home/steam/Zomboid/backups/startup.
+[22-10-24 06:41:33.150] LOG  : General     , 1729579293149> 532,301> compressionElapsed=58ms, mergingElapsed=26ms.
+[22-10-24 06:41:33.157] LOG  : General     , 1729579293157> 532,308> Backup made in 93 ms.
+[22-10-24 06:41:33.160] LOG  : General     , 1729579293160> 532,311> user database "/home/steam/Zomboid/db/pragmaticos.db".
+[22-10-24 06:41:33.597] LOG  : General     , 1729579293597> 532,748> admin password changed via -adminpassword option.
+[22-10-24 06:41:33.597] LOG  : General     , 1729579293597> 532,748> Router detection/configuration starting..
+[22-10-24 06:41:33.598] LOG  : General     , 1729579293598> 532,749> If the server hangs here, set UPnP=false..
+[22-10-24 06:41:45.612] LOG  : Network     , 1729579305611> 544,763> No UPnP-enabled Internet gateway found, you must configure port forwarding on your gateway manually in order to make your server accessible from the Internet..
+[22-10-24 06:41:45.612] LOG  : Network     , 1729579305612> 544,763> Initialising Server Systems....
+[22-10-24 06:41:46.495] LOG  : Lua         , 1729579306495> 545,646> Loading: media/lua/shared/Sandbox/Apocalypse.lua.
+[22-10-24 06:41:48.181] LOG  : General     , 1729579308181> 547,332> scriptChecksum: 65f5e46ef1be089d5adca89001729e9c.
+[22-10-24 06:41:48.190] WARN : Recipe      , 1729579308190> 547,341> RecipeManager.resolveItemModuleDotType> WARNING: module "Base" may have forgot to import module Base.
+[22-10-24 06:41:48.197] WARN : Script      , 1729579308197> 547,348> ModelScript.check> no such model "null" for Base.BareHands.
+[22-10-24 06:41:48.198] WARN : Script      , 1729579308198> 547,349> ModelScript.check> no such model "???.DisposableRazor" for Base.Razor.
+[22-10-24 06:41:48.203] WARN : Script      , 1729579308203> 547,354> ModelScript.check> no such model "Chainsaw" for Base.Chainsaw.
+[22-10-24 06:41:48.773] LOG  : General     , 1729579308773> 547,924> LOADING ASSETS: START.
