@@ -1,0 +1,67 @@
+[22-10-24 02:52:01.200] 76561199040661533 "bramen" removed Door (fixtures_doors_01_44) at 8284,11723,0.
+[22-10-24 03:02:09.183] 76561198430296167 "DonDiego" removed Door (fixtures_doors_01_44) at 8423,11682,0.
+[22-10-24 03:08:21.055] 76561199040661533 "bramen" removed Door (fixtures_doors_fences_01_17) at 8248,11857,0.
+[22-10-24 03:12:59.010] 76561198333912692 "charlie" removed Canadian Hemlock (e_canadianhemlock_1_2) at 8248,11773,0.
+[22-10-24 03:13:18.102] 76561198333912692 "charlie" removed Canadian Hemlock (e_canadianhemlock_1_3) at 8247,11772,0.
+[22-10-24 03:16:42.381] 76561199040661533 "bramen" removed Door (fixtures_doors_01_52) at 8158,11746,0.
+[22-10-24 03:20:01.544] 76561198333912692 "charlie" added IsoObject (roofs_01_22) at 8145.0,11730.0,2.0.
+[22-10-24 03:20:01.555] 76561198333912692 "charlie" added IsoObject (roofs_01_22) at 8145.0,11731.0,2.0.
+[22-10-24 03:20:01.557] 76561198333912692 "charlie" added IsoObject (roofs_01_22) at 8145.0,11728.0,2.0.
+[22-10-24 03:20:01.566] 76561198333912692 "charlie" added IsoObject (roofs_01_22) at 8146.0,11728.0,2.0.
+[22-10-24 03:20:01.568] 76561198333912692 "charlie" added IsoObject (roofs_01_22) at 8145.0,11729.0,2.0.
+[22-10-24 03:20:02.121] 76561198430296167 "DonDiego" added IsoObject (roofs_01_22) at 8143.0,11730.0,2.0.
+[22-10-24 03:20:02.122] 76561198430296167 "DonDiego" added IsoObject (roofs_01_22) at 8144.0,11730.0,2.0.
+[22-10-24 03:20:02.123] 76561198430296167 "DonDiego" added IsoObject (roofs_01_22) at 8143.0,11731.0,2.0.
+[22-10-24 03:20:02.124] 76561198430296167 "DonDiego" added IsoObject (roofs_01_22) at 8144.0,11731.0,2.0.
+[22-10-24 03:20:02.125] 76561198430296167 "DonDiego" added IsoObject (roofs_01_22) at 8143.0,11732.0,2.0.
+[22-10-24 03:20:02.125] 76561198430296167 "DonDiego" added IsoObject (roofs_01_22) at 8144.0,11732.0,2.0.
+[22-10-24 03:20:02.126] 76561198430296167 "DonDiego" added IsoObject (roofs_01_22) at 8143.0,11733.0,2.0.
+[22-10-24 03:20:02.127] 76561198430296167 "DonDiego" added IsoObject (roofs_01_22) at 8144.0,11733.0,2.0.
+[22-10-24 03:20:02.128] 76561198430296167 "DonDiego" added IsoObject (roofs_01_22) at 8143.0,11734.0,2.0.
+[22-10-24 03:20:02.128] 76561198430296167 "DonDiego" added IsoObject (roofs_01_22) at 8144.0,11734.0,2.0.
+[22-10-24 03:20:02.129] 76561198430296167 "DonDiego" added IsoObject (roofs_01_22) at 8143.0,11735.0,2.0.
+[22-10-24 03:20:02.130] 76561198430296167 "DonDiego" added IsoObject (roofs_01_22) at 8144.0,11735.0,2.0.
+[22-10-24 03:20:02.131] 76561198430296167 "DonDiego" added IsoObject (roofs_01_22) at 8143.0,11736.0,2.0.
+[22-10-24 03:20:02.131] 76561198430296167 "DonDiego" added IsoObject (roofs_01_22) at 8144.0,11736.0,2.0.
+[22-10-24 03:20:02.132] 76561198430296167 "DonDiego" added IsoObject (roofs_01_22) at 8143.0,11737.0,2.0.
+[22-10-24 03:20:02.133] 76561198430296167 "DonDiego" added IsoObject (roofs_01_22) at 8144.0,11737.0,2.0.
+[22-10-24 03:20:02.134] 76561198430296167 "DonDiego" added IsoObject (roofs_01_22) at 8143.0,11728.0,2.0.
+[22-10-24 03:20:02.134] 76561198430296167 "DonDiego" added IsoObject (roofs_01_22) at 8144.0,11728.0,2.0.
+[22-10-24 03:20:02.135] 76561198430296167 "DonDiego" added IsoObject (roofs_01_22) at 8143.0,11729.0,2.0.
+[22-10-24 03:20:02.138] 76561198430296167 "DonDiego" added IsoObject (roofs_01_22) at 8144.0,11729.0,2.0.
+[22-10-24 03:20:02.139] 76561198430296167 "DonDiego" added IsoObject (roofs_01_22) at 8130.0,11750.0,2.0.
+[22-10-24 03:20:02.141] 76561198430296167 "DonDiego" added IsoObject (roofs_01_22) at 8131.0,11750.0,2.0.
+[22-10-24 03:20:02.142] 76561198430296167 "DonDiego" added IsoObject (roofs_01_22) at 8132.0,11750.0,2.0.
+[22-10-24 03:20:02.143] 76561198430296167 "DonDiego" added IsoObject (roofs_01_22) at 8133.0,11750.0,2.0.
+[22-10-24 03:20:02.144] 76561198430296167 "DonDiego" added IsoObject (roofs_01_22) at 8134.0,11750.0,2.0.
+[22-10-24 03:20:02.144] 76561198430296167 "DonDiego" added IsoObject (roofs_01_22) at 8135.0,11750.0,2.0.
+[22-10-24 03:20:02.145] 76561198430296167 "DonDiego" added IsoObject (roofs_01_22) at 8136.0,11750.0,2.0.
+[22-10-24 03:20:02.146] 76561198430296167 "DonDiego" added IsoObject (roofs_01_22) at 8137.0,11750.0,2.0.
+[22-10-24 03:20:02.147] 76561198430296167 "DonDiego" added IsoObject (roofs_01_22) at 8131.0,11746.0,2.0.
+[22-10-24 03:20:02.148] 76561198430296167 "DonDiego" added IsoObject (roofs_01_22) at 8131.0,11747.0,2.0.
+[22-10-24 03:20:02.149] 76561198430296167 "DonDiego" added IsoObject (roofs_01_22) at 8131.0,11748.0,2.0.
+[22-10-24 03:20:02.150] 76561198430296167 "DonDiego" added IsoObject (roofs_01_22) at 8130.0,11749.0,2.0.
+[22-10-24 03:20:02.151] 76561198430296167 "DonDiego" added IsoObject (roofs_01_22) at 8131.0,11749.0,2.0.
+[22-10-24 03:20:02.152] 76561198430296167 "DonDiego" added IsoObject (roofs_01_22) at 8132.0,11749.0,2.0.
+[22-10-24 03:20:02.153] 76561198430296167 "DonDiego" added IsoObject (roofs_01_22) at 8133.0,11749.0,2.0.
+[22-10-24 03:20:02.154] 76561198430296167 "DonDiego" added IsoObject (roofs_01_22) at 8134.0,11749.0,2.0.
+[22-10-24 03:20:02.154] 76561198430296167 "DonDiego" added IsoObject (roofs_01_22) at 8135.0,11749.0,2.0.
+[22-10-24 03:20:02.155] 76561198430296167 "DonDiego" added IsoObject (roofs_01_22) at 8136.0,11749.0,2.0.
+[22-10-24 03:20:02.156] 76561198430296167 "DonDiego" added IsoObject (roofs_01_22) at 8137.0,11749.0,2.0.
+[22-10-24 03:20:02.157] 76561198430296167 "DonDiego" added IsoObject (roofs_01_22) at 8128.0,11750.0,2.0.
+[22-10-24 03:20:02.158] 76561198430296167 "DonDiego" added IsoObject (roofs_01_22) at 8129.0,11750.0,2.0.
+[22-10-24 03:20:02.159] 76561198430296167 "DonDiego" added IsoObject (roofs_01_22) at 8128.0,11749.0,2.0.
+[22-10-24 03:20:02.159] 76561198430296167 "DonDiego" added IsoObject (roofs_01_22) at 8129.0,11749.0,2.0.
+[22-10-24 03:31:50.617] 76561199040661533 "bramen" added Trap (constructedobjects_01_13) at 8155.0,11789.0,0.0.
+[22-10-24 03:49:11.877] 76561198333912692 "charlie" removed American Holly (e_americanholly_1_3) at 8150,12178,0.
+[22-10-24 03:49:21.322] 76561198333912692 "charlie" removed Virginia Pine (e_virginiapine_1_2) at 8148,12175,0.
+[22-10-24 03:49:30.217] 76561198333912692 "charlie" removed American Holly (e_americanholly_1_2) at 8148,12172,0.
+[22-10-24 04:16:40.615] 76561199040661533 "bramen" removed Barricade (carpentry_01_1) at 8116,12226,0.
+[22-10-24 04:51:45.351] 76561199040661533 "bramen" removed Door (fixtures_doors_02_5) at 8203,11684,0.
+[22-10-24 04:52:54.091] 76561199040661533 "bramen" removed Door (fixtures_doors_02_5) at 8173,11682,0.
+[22-10-24 04:53:54.016] 76561199040661533 "bramen" removed Door (fixtures_doors_02_5) at 8172,11673,0.
+[22-10-24 05:10:07.742] 76561199040661533 "bramen" removed Door (walls_garage_02_1) at 8442,11803,0.
+[22-10-24 05:10:07.742] 76561199040661533 "bramen" removed Door (walls_garage_02_0) at 8442,11804,0.
+[22-10-24 05:10:07.742] 76561199040661533 "bramen" removed Door (walls_garage_02_2) at 8442,11802,0.
+[22-10-24 05:19:22.929] 76561199040661533 "bramen" removed Door (fixtures_doors_01_12) at 8905,12070,0.
+[22-10-24 05:45:32.267] 76561199040661533 "bramen" removed Door (fixtures_doors_01_0) at 5815,5319,0.

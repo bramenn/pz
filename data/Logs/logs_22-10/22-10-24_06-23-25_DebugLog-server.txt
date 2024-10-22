@@ -1,0 +1,243 @@
+[22-10-24 06:23:25.280] LOG  : General     , 1729578205280> 105,489> cachedir set to "/home/steam/Zomboid".
+[22-10-24 06:23:25.390] LOG  : General     , 1729578205390> 105,599> version=41.78.16 demo=false.
+[22-10-24 06:23:25.390] LOG  : General     , 1729578205390> 105,600> revision= date= time=.
+[22-10-24 06:23:25.391] LOG  : General     , 1729578205391> 105,600> unknown option "-modfolders".
+[22-10-24 06:23:25.391] LOG  : General     , 1729578205391> 105,601> unknown option "workshop,steam,mods".
+[22-10-24 06:23:25.394] LOG  : General     , 1729578205394> 105,603> server name is "pragmaticos".
+[22-10-24 06:23:25.395] LOG  : General     , 1729578205395> 105,604> checking server WorldVersion in map_t.bin.
+[22-10-24 06:23:25.397] LOG  : General     , 1729578205396> 105,606> Loading networking libraries....
+[22-10-24 06:23:25.397] LOG  : General     , 1729578205397> 105,606> Loading steam_api....
+[22-10-24 06:23:25.398] LOG  : General     , 1729578205398> 105,607> Loading RakNet64....
+[22-10-24 06:23:25.399] LOG  : General     , 1729578205399> 105,608> Loading ZNetJNI64....
+[22-10-24 06:23:25.401] LOG  : Network     , 1729578205401> 105,610> [22-10-24 06:23:25.400] > ZNet: SetLogLevel 2.
+[22-10-24 06:23:25.403] LOG  : Network     , 1729578205403> 105,612> [22-10-24 06:23:25.402] > ZNet: SteamAPI initialised successfully.
+[22-10-24 06:23:25.403] LOG  : General     , 1729578205403> 105,612> SteamUtils initialised successfully.
+[22-10-24 06:23:26.539] LOG  : General     , 1729578206538> 106,748> translator: language is EN.
+[22-10-24 06:23:26.769] LOG  : General     , 1729578206768> 106,978> LightingFPS set to 15.
+[22-10-24 06:23:26.798] LOG  : General     , 1729578206798> 107,007> reading /home/steam/Zomboid/Server/pragmaticos.ini.
+[22-10-24 06:23:26.803] LOG  : General     , 1729578206802> 107,012> writing /home/steam/Zomboid/Server/pragmaticos.ini.
+[22-10-24 06:23:26.820] LOG  : Network     , 1729578206820> 107,029> [22-10-24 06:23:26.820] > ZNet: SZombienet -> SZombienet: Init.
+[22-10-24 06:23:26.985] LOG  : Network     , 1729578206985> 107,194> [22-10-24 06:23:26.984] > ZNet: SteamGameServer seems to be initialized.
+[22-10-24 06:23:26.986] LOG  : Network     , 1729578206986> 107,196> [22-10-24 06:23:26.986] > ZNet: SZombienet -> SSteamSDK: SetMaxPlayerCount.
+[22-10-24 06:23:26.990] LOG  : General     , 1729578206990> 107,199> Waiting for response from Steam servers.
+[22-10-24 06:23:29.493] LOG  : Network     , 1729578209493> 109,703> [22-10-24 06:23:29.493] > ZNet: SSteamSDK -> SZombienet: OnSteamServersConnected.
+[22-10-24 06:23:29.494] LOG  : Network     , 1729578209494> 109,703> [22-10-24 06:23:29.494] > ZNet: OnSteamServersConnected.
+[22-10-24 06:23:29.494] LOG  : Network     , 1729578209494> 109,704> [22-10-24 06:23:29.494] > ZNet: SZombienet -> SSteamSDK: SetMaxPlayerCount.
+[22-10-24 06:23:29.495] LOG  : Network     , 1729578209495> 109,705> [22-10-24 06:23:29.495] > ZNet: Public IP: 172.233.178.157.
+[22-10-24 06:23:29.498] LOG  : General     , 1729578209498> 109,707> Start making backup to: /home/steam/Zomboid/backups/startup.
+[22-10-24 06:23:31.084] LOG  : General     , 1729578211084> 111,293> compressionElapsed=1262ms, mergingElapsed=315ms.
+[22-10-24 06:23:31.133] LOG  : General     , 1729578211133> 111,342> Backup made in 1632 ms.
+[22-10-24 06:23:31.135] LOG  : General     , 1729578211135> 111,344> user database "/home/steam/Zomboid/db/pragmaticos.db".
+[22-10-24 06:23:31.545] LOG  : General     , 1729578211544> 111,754> admin password changed via -adminpassword option.
+[22-10-24 06:23:31.545] LOG  : General     , 1729578211545> 111,754> Router detection/configuration starting..
+[22-10-24 06:23:31.545] LOG  : General     , 1729578211545> 111,754> If the server hangs here, set UPnP=false..
+[22-10-24 06:23:43.555] LOG  : Network     , 1729578223555> 123,764> No UPnP-enabled Internet gateway found, you must configure port forwarding on your gateway manually in order to make your server accessible from the Internet..
+[22-10-24 06:23:43.556] LOG  : Network     , 1729578223555> 123,765> Initialising Server Systems....
+[22-10-24 06:23:44.652] LOG  : Lua         , 1729578224651> 124,860> Loading: media/lua/shared/Sandbox/Apocalypse.lua.
+[22-10-24 06:23:46.395] LOG  : General     , 1729578226394> 126,604> scriptChecksum: 65f5e46ef1be089d5adca89001729e9c.
+[22-10-24 06:23:46.408] WARN : Recipe      , 1729578226408> 126,617> RecipeManager.resolveItemModuleDotType> WARNING: module "Base" may have forgot to import module Base.
+[22-10-24 06:23:46.421] WARN : Script      , 1729578226421> 126,630> ModelScript.check> no such model "null" for Base.BareHands.
+[22-10-24 06:23:46.423] WARN : Script      , 1729578226423> 126,632> ModelScript.check> no such model "???.DisposableRazor" for Base.Razor.
+[22-10-24 06:23:46.428] WARN : Script      , 1729578226428> 126,638> ModelScript.check> no such model "Chainsaw" for Base.Chainsaw.
+[22-10-24 06:23:47.135] LOG  : General     , 1729578227135> 127,344> LOADING ASSETS: START.
+[22-10-24 06:24:08.859] LOG  : General     , 1729578248858> 149,068> LOADING ASSETS: FINISH.
+[22-10-24 06:24:08.915] LOG  : Lua         , 1729578248915> 149,124> Loading: media/lua/shared/a_requires.lua.
+[22-10-24 06:24:08.917] LOG  : Lua         , 1729578248916> 149,126> Loading: media/lua/shared/defines.lua.
+[22-10-24 06:24:08.920] LOG  : Lua         , 1729578248919> 149,129> Loading: media/lua/shared/Definitions/AttachedWeaponDefinitions.lua.
+[22-10-24 06:24:08.926] LOG  : Lua         , 1729578248926> 149,135> Loading: media/lua/shared/Definitions/ClothingRecipesDefinitions.lua.
+[22-10-24 06:24:08.930] LOG  : Lua         , 1729578248930> 149,139> Loading: media/lua/shared/Definitions/ClothingSelectionDefinitions.lua.
+[22-10-24 06:24:08.937] LOG  : Lua         , 1729578248937> 149,146> Loading: media/lua/shared/Definitions/ContainerButtonIcons.lua.
+[22-10-24 06:24:08.966] LOG  : Lua         , 1729578248966> 149,175> Loading: media/lua/shared/Definitions/DamageModelDefinitions.lua.
+[22-10-24 06:24:08.970] LOG  : Lua         , 1729578248970> 149,179> Loading: media/lua/shared/Definitions/DefaultClothing.lua.
+[22-10-24 06:24:08.971] LOG  : Lua         , 1729578248971> 149,180> Loading: media/lua/shared/Definitions/FitnessExercises.lua.
+[22-10-24 06:24:08.974] LOG  : Lua         , 1729578248974> 149,183> Loading: media/lua/shared/Definitions/HairOutfitDefinitions.lua.
+[22-10-24 06:24:08.977] LOG  : Lua         , 1729578248977> 149,186> Loading: media/lua/shared/Definitions/MakeUpDefinitions.lua.
+[22-10-24 06:24:08.980] LOG  : Lua         , 1729578248980> 149,189> Loading: media/lua/shared/Definitions/MapSymbolDefinitions.lua.
+[22-10-24 06:24:08.984] LOG  : Lua         , 1729578248983> 149,193> Loading: media/lua/shared/Definitions/SmashedCarDefinitions.lua.
+[22-10-24 06:24:08.985] LOG  : Lua         , 1729578248985> 149,195> Loading: media/lua/shared/Definitions/UnderwearDefinition.lua.
+[22-10-24 06:24:08.987] LOG  : Lua         , 1729578248987> 149,196> Loading: media/lua/shared/Fishing/fishing_properties.lua.
+[22-10-24 06:24:08.993] LOG  : Lua         , 1729578248992> 149,202> Loading: media/lua/shared/Foraging/forageDefinitions.lua.
+[22-10-24 06:24:09.026] LOG  : Lua         , 1729578249026> 149,235> Loading: media/lua/shared/Foraging/forageSystem.lua.
+[22-10-24 06:24:09.046] LOG  : Lua         , 1729578249045> 149,255> Loading: media/lua/shared/ISBaseObject.lua.
+[22-10-24 06:24:09.053] LOG  : Lua         , 1729578249053> 149,262> Loading: media/lua/shared/iwbumstempmodelcompat.lua.
+[22-10-24 06:24:09.054] LOG  : Lua         , 1729578249054> 149,263> Loading: media/lua/shared/JoyPad/JoyPadSetup.lua.
+[22-10-24 06:24:09.060] LOG  : Lua         , 1729578249060> 149,269> Loading: media/lua/shared/keyBinding.lua.
+[22-10-24 06:24:09.068] LOG  : Lua         , 1729578249068> 149,277> Loading: media/lua/shared/Logs/ISLogSystem.lua.
+[22-10-24 06:24:09.070] LOG  : Lua         , 1729578249070> 149,279> Loading: media/lua/shared/Logs/ISPerkLog.lua.
+[22-10-24 06:24:09.072] LOG  : Lua         , 1729578249072> 149,281> Loading: media/lua/shared/luautils.lua.
+[22-10-24 06:24:09.076] LOG  : Lua         , 1729578249075> 149,285> Loading: media/lua/shared/NPCs/AttachedLocations.lua.
+[22-10-24 06:24:09.085] LOG  : Lua         , 1729578249085> 149,294> Loading: media/lua/shared/NPCs/BodyLocations.lua.
+[22-10-24 06:24:09.100] LOG  : Lua         , 1729578249100> 149,309> Loading: media/lua/shared/NPCs/MainCreationMethods.lua.
+[22-10-24 06:24:09.137] LOG  : Lua         , 1729578249137> 149,346> Loading: media/lua/shared/NPCs/ZombiesZoneDefinition.lua.
+[22-10-24 06:24:09.141] LOG  : Lua         , 1729578249140> 149,350> Loading: media/lua/shared/RecordedMedia/ISRecordeMedia.lua.
+[22-10-24 06:24:09.143] LOG  : Lua         , 1729578249143> 149,352> Loading: media/lua/shared/RecordedMedia/recorded_media.lua.
+[22-10-24 06:24:09.212] LOG  : Lua         , 1729578249212> 149,421> Loading: media/lua/shared/Reloading/ISRackAction.lua.
+[22-10-24 06:24:09.224] LOG  : Lua         , 1729578249224> 149,434> Loading: media/lua/shared/TimedActions/ISBaseTimedAction.lua.
+[22-10-24 06:24:09.226] LOG  : Lua         , 1729578249226> 149,436> Loading: media/lua/shared/Reloading/ISReloadable.lua.
+[22-10-24 06:24:09.230] LOG  : Lua         , 1729578249230> 149,439> Loading: media/lua/shared/Reloading/ISReloadableMagazine.lua.
+[22-10-24 06:24:09.237] LOG  : Lua         , 1729578249237> 149,446> Loading: media/lua/shared/Reloading/ISReloadableWeapon.lua.
+[22-10-24 06:24:09.239] LOG  : Lua         , 1729578249239> 149,448> Loading: media/lua/shared/Reloading/ISReloadAction.lua.
+[22-10-24 06:24:09.240] LOG  : Lua         , 1729578249240> 149,449> Loading: media/lua/shared/Reloading/ISReloadManager.lua.
+[22-10-24 06:24:09.244] LOG  : Lua         , 1729578249244> 149,453> Loading: media/lua/shared/Reloading/ISReloadUtil.lua.
+[22-10-24 06:24:09.253] LOG  : Lua         , 1729578249253> 149,462> Loading: media/lua/shared/Reloading/ISSemiAutoWeapon.lua.
+[22-10-24 06:24:09.256] LOG  : Lua         , 1729578249256> 149,465> Loading: media/lua/shared/Reloading/ISShotgunWeapon.lua.
+[22-10-24 06:24:09.265] LOG  : Lua         , 1729578249265> 149,474> Loading: media/lua/shared/Reloading/ISRevolverWeapon.lua.
+[22-10-24 06:24:09.267] LOG  : Lua         , 1729578249267> 149,476> Loading: media/lua/shared/Reloading/stormysReload.lua.
+[22-10-24 06:24:09.271] LOG  : Lua         , 1729578249270> 149,480> Loading: media/lua/shared/Sandbox/Beginner.lua.
+[22-10-24 06:24:09.274] LOG  : Lua         , 1729578249274> 149,483> Loading: media/lua/shared/Sandbox/Builder.lua.
+[22-10-24 06:24:09.275] LOG  : Lua         , 1729578249274> 149,484> Loading: media/lua/shared/Sandbox/FirstWeek.lua.
+[22-10-24 06:24:09.279] LOG  : Lua         , 1729578249279> 149,488> Loading: media/lua/shared/Sandbox/SandboxVars.lua.
+[22-10-24 06:24:09.279] LOG  : Lua         , 1729578249279> 149,488> Loading: media/lua/shared/Sandbox/Survival.lua.
+[22-10-24 06:24:09.280] LOG  : Lua         , 1729578249280> 149,489> Loading: media/lua/shared/Sandbox/SixMonthsLater.lua.
+[22-10-24 06:24:09.281] LOG  : Lua         , 1729578249281> 149,490> Loading: media/lua/shared/Sandbox/Survivor.lua.
+[22-10-24 06:24:09.282] LOG  : Lua         , 1729578249282> 149,491> Loading: media/lua/shared/SoundBanks/SoundBanks.lua.
+[22-10-24 06:24:09.284] LOG  : Lua         , 1729578249284> 149,493> Loading: media/lua/shared/SpawnRegions.lua.
+[22-10-24 06:24:09.287] LOG  : Lua         , 1729578249287> 149,496> Loading: media/lua/shared/StashDescriptions/LouisvilleStashDesc.lua.
+[22-10-24 06:24:09.295] LOG  : Lua         , 1729578249295> 149,505> Loading: media/lua/shared/StashDescriptions/StashUtil.lua.
+[22-10-24 06:24:09.297] LOG  : Lua         , 1729578249297> 149,506> Loading: media/lua/shared/StashDescriptions/MarchRidgeStashDesc.lua.
+[22-10-24 06:24:09.298] LOG  : Lua         , 1729578249298> 149,507> Loading: media/lua/shared/StashDescriptions/MulStashDesc.lua.
+[22-10-24 06:24:09.300] LOG  : Lua         , 1729578249300> 149,509> Loading: media/lua/shared/StashDescriptions/RiversideStashDesc.lua.
+[22-10-24 06:24:09.301] LOG  : Lua         , 1729578249301> 149,511> Loading: media/lua/shared/StashDescriptions/RosewoodStashDesc.lua.
+[22-10-24 06:24:09.303] LOG  : Lua         , 1729578249303> 149,512> Loading: media/lua/shared/StashDescriptions/WpStashDesc.lua.
+[22-10-24 06:24:09.312] LOG  : Lua         , 1729578249312> 149,522> Loading: media/lua/shared/Util/AdjacentFreeTileFinder.lua.
+[22-10-24 06:24:09.315] LOG  : Lua         , 1729578249315> 149,524> Loading: media/lua/shared/Util/BuildingHelper.lua.
+[22-10-24 06:24:09.316] LOG  : Lua         , 1729578249316> 149,525> Loading: media/lua/shared/Util/ISPriorityTable.lua.
+[22-10-24 06:24:09.317] LOG  : Lua         , 1729578249317> 149,526> Loading: media/lua/shared/Util/LuaList.lua.
+[22-10-24 06:24:09.319] LOG  : Lua         , 1729578249319> 149,528> Loading: media/lua/shared/Util/LuaNet.lua.
+[22-10-24 06:24:09.321] LOG  : Lua         , 1729578249321> 149,530> Loading: media/lua/shared/Util/StringReplacer.lua.
+[22-10-24 06:24:09.327] LOG  : Lua         , 1729578249327> 149,536> Loading: media/lua/shared/VehicleZoneDefinition.lua.
+[22-10-24 06:24:09.586] LOG  : Lua         , 1729578249586> 149,795> Loading: media/lua/server/BuildingObjects/ISAnvil.lua.
+[22-10-24 06:24:09.587] LOG  : Lua         , 1729578249587> 149,796> Loading: media/lua/server/BuildingObjects/ISBuildingObject.lua.
+[22-10-24 06:24:09.590] LOG  : Lua         , 1729578249590> 149,799> Loading: media/lua/server/BuildingObjects/ISBarbedWire.lua.
+[22-10-24 06:24:09.591] LOG  : Lua         , 1729578249591> 149,800> Loading: media/lua/server/BuildingObjects/ISBrushToolTileCursor.lua.
+[22-10-24 06:24:09.592] LOG  : Lua         , 1729578249592> 149,801> Loading: media/lua/server/BuildingObjects/ISBSFurnace.lua.
+[22-10-24 06:24:09.593] LOG  : Lua         , 1729578249593> 149,802> Loading: media/lua/server/BuildingObjects/ISBuildCursorMouse.lua.
+[22-10-24 06:24:09.594] LOG  : Lua         , 1729578249594> 149,803> Loading: media/lua/server/BuildingObjects/ISBuildUtil.lua.
+[22-10-24 06:24:09.598] LOG  : Lua         , 1729578249598> 149,807> Loading: media/lua/server/BuildingObjects/ISChopTreeCursor.lua.
+[22-10-24 06:24:09.599] LOG  : Lua         , 1729578249599> 149,808> Loading: media/lua/server/BuildingObjects/ISCleanBloodCursor.lua.
+[22-10-24 06:24:09.600] LOG  : Lua         , 1729578249600> 149,809> Loading: media/lua/server/BuildingObjects/ISCompost.lua.
+[22-10-24 06:24:09.601] LOG  : Lua         , 1729578249600> 149,810> Loading: media/lua/server/BuildingObjects/ISDestroyCursor.lua.
+[22-10-24 06:24:09.602] LOG  : Lua         , 1729578249602> 149,812> Loading: media/lua/server/BuildingObjects/ISDoubleDoor.lua.
+[22-10-24 06:24:09.604] LOG  : Lua         , 1729578249604> 149,813> Loading: media/lua/server/BuildingObjects/ISDoubleTileFurniture.lua.
+[22-10-24 06:24:09.605] LOG  : Lua         , 1729578249605> 149,814> Loading: media/lua/server/BuildingObjects/ISEmptyGraves.lua.
+[22-10-24 06:24:09.607] LOG  : Lua         , 1729578249607> 149,816> Loading: media/lua/server/BuildingObjects/ISLightSource.lua.
+[22-10-24 06:24:09.608] LOG  : Lua         , 1729578249607> 149,817> Loading: media/lua/server/BuildingObjects/ISMoveableCursor.lua.
+[22-10-24 06:24:09.620] LOG  : Lua         , 1729578249620> 149,829> Loading: media/lua/server/BuildingObjects/ISNaturalFloor.lua.
+[22-10-24 06:24:09.622] LOG  : Lua         , 1729578249622> 149,831> Loading: media/lua/server/BuildingObjects/ISPaintCursor.lua.
+[22-10-24 06:24:09.624] LOG  : Lua         , 1729578249623> 149,833> Loading: media/lua/server/BuildingObjects/ISPlace3DItemCursor.lua.
+[22-10-24 06:24:09.626] LOG  : Lua         , 1729578249625> 149,835> Loading: media/lua/server/BuildingObjects/ISRemovePlantCursor.lua.
+[22-10-24 06:24:09.626] LOG  : Lua         , 1729578249626> 149,836> Loading: media/lua/server/BuildingObjects/ISSelectCursor.lua.
+[22-10-24 06:24:09.627] LOG  : Lua         , 1729578249627> 149,836> Loading: media/lua/server/BuildingObjects/ISShovelGroundCursor.lua.
+[22-10-24 06:24:09.628] LOG  : Lua         , 1729578249628> 149,838> Loading: media/lua/server/BuildingObjects/ISSimpleFurniture.lua.
+[22-10-24 06:24:09.629] LOG  : Lua         , 1729578249629> 149,838> Loading: media/lua/server/BuildingObjects/ISWalkToCursor.lua.
+[22-10-24 06:24:09.630] LOG  : Lua         , 1729578249630> 149,839> Loading: media/lua/server/BuildingObjects/ISWoodenContainer.lua.
+[22-10-24 06:24:09.631] LOG  : Lua         , 1729578249630> 149,840> Loading: media/lua/server/BuildingObjects/ISWoodenDoor.lua.
+[22-10-24 06:24:09.631] LOG  : Lua         , 1729578249631> 149,841> Loading: media/lua/server/BuildingObjects/ISWoodenDoorFrame.lua.
+[22-10-24 06:24:09.632] LOG  : Lua         , 1729578249632> 149,841> Loading: media/lua/server/BuildingObjects/ISWoodenFloor.lua.
+[22-10-24 06:24:09.633] LOG  : Lua         , 1729578249633> 149,842> Loading: media/lua/server/BuildingObjects/ISWoodenStairs.lua.
+[22-10-24 06:24:09.634] LOG  : Lua         , 1729578249634> 149,843> Loading: media/lua/server/BuildingObjects/ISWoodenWall.lua.
+[22-10-24 06:24:09.635] LOG  : Lua         , 1729578249635> 149,844> Loading: media/lua/server/BuildingObjects/PaintingReference.lua.
+[22-10-24 06:24:09.637] LOG  : Lua         , 1729578249637> 149,846> Loading: media/lua/server/Camping/BuildingObjects/campingCampfire.lua.
+[22-10-24 06:24:09.638] LOG  : Lua         , 1729578249638> 149,847> Loading: media/lua/server/Camping/BuildingObjects/campingTent.lua.
+[22-10-24 06:24:09.639] LOG  : Lua         , 1729578249639> 149,848> Loading: media/lua/server/Camping/camping_fuel.lua.
+[22-10-24 06:24:09.640] LOG  : Lua         , 1729578249640> 149,849> Loading: media/lua/server/Camping/camping_tent.lua.
+[22-10-24 06:24:09.641] LOG  : Lua         , 1729578249641> 149,850> Loading: media/lua/server/Camping/camping_text.lua.
+[22-10-24 06:24:09.642] LOG  : Lua         , 1729578249642> 149,851> Loading: media/lua/server/Camping/SCampfireGlobalObject.lua.
+[22-10-24 06:24:09.643] LOG  : Lua         , 1729578249643> 149,852> Loading: media/lua/server/Map/SGlobalObject.lua.
+[22-10-24 06:24:09.644] LOG  : Lua         , 1729578249644> 149,853> Loading: media/lua/server/Camping/SCampfireSystem.lua.
+[22-10-24 06:24:09.645] LOG  : Lua         , 1729578249645> 149,854> Loading: media/lua/server/Map/SGlobalObjectSystem.lua.
+[22-10-24 06:24:09.653] LOG  : Lua         , 1729578249653> 149,862> Loading: media/lua/server/Camping/SCampfireSystemCommands.lua.
+[22-10-24 06:24:09.654] LOG  : Lua         , 1729578249654> 149,863> Loading: media/lua/server/ClientCommands.lua.
+[22-10-24 06:24:09.657] LOG  : Lua         , 1729578249657> 149,866> Loading: media/lua/server/Climate/ClimateMain.lua.
+[22-10-24 06:24:09.658] LOG  : Lua         , 1729578249658> 149,867> Loading: media/lua/server/Farming/BuildingObjects/farmingPlot.lua.
+[22-10-24 06:24:09.659] LOG  : Lua         , 1729578249659> 149,868> Loading: media/lua/server/Farming/BuildingObjects/ISFarmingCursor.lua.
+[22-10-24 06:24:09.660] LOG  : Lua         , 1729578249660> 149,869> Loading: media/lua/server/Farming/BuildingObjects/ISFarmingCursorMouse.lua.
+[22-10-24 06:24:09.660] LOG  : Lua         , 1729578249660> 149,869> Loading: media/lua/server/Farming/farming_vegetableconf.lua.
+[22-10-24 06:24:09.663] LOG  : Lua         , 1729578249663> 149,872> Loading: media/lua/server/Farming/farmingCommands.lua.
+[22-10-24 06:24:09.664] LOG  : Lua         , 1729578249664> 149,873> Loading: media/lua/server/Farming/SFarmingSystem.lua.
+[22-10-24 06:24:09.665] LOG  : Lua         , 1729578249665> 149,874> Loading: media/lua/server/Farming/ScavengeDefinition.lua.
+[22-10-24 06:24:09.667] LOG  : Lua         , 1729578249667> 149,876> Loading: media/lua/server/Farming/SPlantGlobalObject.lua.
+[22-10-24 06:24:09.669] LOG  : Lua         , 1729578249669> 149,878> Loading: media/lua/server/FireFighting/FireFighting.lua.
+[22-10-24 06:24:09.669] LOG  : Lua         , 1729578249669> 149,879> Loading: media/lua/server/FireFighting/ISExtinguishCursor.lua.
+[22-10-24 06:24:09.671] LOG  : Lua         , 1729578249671> 149,880> Loading: media/lua/server/Fishing/BuildingObjects/FishingNet.lua.
+[22-10-24 06:24:09.672] LOG  : Lua         , 1729578249671> 149,881> Loading: media/lua/server/Foraging/forageServer.lua.
+[22-10-24 06:24:09.672] LOG  : Lua         , 1729578249672> 149,881> Loading: media/lua/server/HealthSystem/HealthUpdate.lua.
+[22-10-24 06:24:09.673] LOG  : Lua         , 1729578249673> 149,882> Loading: media/lua/server/ISBuildingBlueprintManager.lua.
+[22-10-24 06:24:09.673] LOG  : Lua         , 1729578249673> 149,883> Loading: media/lua/server/ISCoordConversion.lua.
+[22-10-24 06:24:09.674] LOG  : Lua         , 1729578249674> 149,883> Loading: media/lua/server/ISObjectClickHandler.lua.
+[22-10-24 06:24:09.676] LOG  : Lua         , 1729578249676> 149,885> Loading: media/lua/server/Items/AcceptItemFunction.lua.
+[22-10-24 06:24:09.676] LOG  : Lua         , 1729578249676> 149,886> Loading: media/lua/server/Items/ApplianceOverlays.lua.
+[22-10-24 06:24:09.678] LOG  : Lua         , 1729578249678> 149,887> Loading: media/lua/server/Items/BentFences.lua.
+[22-10-24 06:24:09.680] LOG  : Lua         , 1729578249679> 149,889> Loading: media/lua/server/Items/BrokenFences.lua.
+[22-10-24 06:24:09.686] LOG  : Lua         , 1729578249686> 149,895> Loading: media/lua/server/Items/CounterOverlays.lua.
+[22-10-24 06:24:09.692] LOG  : Lua         , 1729578249692> 149,901> Loading: media/lua/server/Items/Distributions.lua.
+[22-10-24 06:24:09.734] LOG  : Lua         , 1729578249734> 149,943> Loading: media/lua/server/Items/FixturesOverlays.lua.
+[22-10-24 06:24:09.735] LOG  : Lua         , 1729578249735> 149,945> Loading: media/lua/server/Items/FloorStreetOverlays.lua.
+[22-10-24 06:24:09.737] LOG  : Lua         , 1729578249737> 149,946> Loading: media/lua/server/Items/FloorTileOverlays.lua.
+[22-10-24 06:24:09.739] LOG  : Lua         , 1729578249739> 149,948> Loading: media/lua/server/Items/FloorWoodOverlays.lua.
+[22-10-24 06:24:09.740] LOG  : Lua         , 1729578249740> 149,949> Loading: media/lua/server/Items/FurnitureOfficeOverlays.lua.
+[22-10-24 06:24:09.741] LOG  : Lua         , 1729578249741> 149,950> Loading: media/lua/server/Items/ItemBindingHandler.lua.
+[22-10-24 06:24:09.742] LOG  : Lua         , 1729578249741> 149,951> Loading: media/lua/server/Items/ItemPicker.lua.
+[22-10-24 06:24:09.742] LOG  : Lua         , 1729578249742> 149,951> Loading: media/lua/server/Items/ProceduralDistributions.lua.
+[22-10-24 06:24:09.783] LOG  : Lua         , 1729578249783> 149,992> Loading: media/lua/server/Items/ScriptItemInterface.lua.
+[22-10-24 06:24:09.784] LOG  : Lua         , 1729578249784> 149,993> Loading: media/lua/server/Items/SeatingOverlays.lua.
+[22-10-24 06:24:09.786] LOG  : Lua         , 1729578249786> 149,995> Loading: media/lua/server/Items/StorageOverlays.lua.
+[22-10-24 06:24:09.789] LOG  : Lua         , 1729578249789> 149,998> Loading: media/lua/server/Items/SuburbsDistributions.lua.
+[22-10-24 06:24:09.790] LOG  : Lua         , 1729578249790> 149,999> Loading: media/lua/server/Items/TileOverlays.lua.
+[22-10-24 06:24:09.795] LOG  : Lua         , 1729578249795> 150,004> Loading: media/lua/server/Items/TileOverlaysSmooth.lua.
+[22-10-24 06:24:09.802] LOG  : Lua         , 1729578249802> 150,012> Loading: media/lua/server/Items/WallsBrickOverlays.lua.
+[22-10-24 06:24:09.806] LOG  : Lua         , 1729578249806> 150,015> Loading: media/lua/server/Items/WorldFiller.lua.
+[22-10-24 06:24:09.811] LOG  : Lua         , 1729578249810> 150,020> Loading: media/lua/server/Map/MapObjects/MOBarricade.lua.
+[22-10-24 06:24:09.817] LOG  : Lua         , 1729578249817> 150,026> Loading: media/lua/server/Map/MapObjects/MOCampfire.lua.
+[22-10-24 06:24:09.818] LOG  : Lua         , 1729578249818> 150,027> Loading: media/lua/server/Map/MapObjects/MOCompost.lua.
+[22-10-24 06:24:09.819] LOG  : Lua         , 1729578249819> 150,028> Loading: media/lua/server/Map/MapObjects/MOFarming.lua.
+[22-10-24 06:24:09.821] LOG  : Lua         , 1729578249821> 150,030> Loading: media/lua/server/Map/MapObjects/MOGenerator.lua.
+[22-10-24 06:24:09.822] LOG  : Lua         , 1729578249822> 150,031> Loading: media/lua/server/Map/MapObjects/MOLampOnPillar.lua.
+[22-10-24 06:24:09.823] LOG  : Lua         , 1729578249823> 150,032> Loading: media/lua/server/Map/MapObjects/MOMetalDrum.lua.
+[22-10-24 06:24:09.824] LOG  : Lua         , 1729578249824> 150,034> Loading: media/lua/server/Map/MapObjects/MORainCollectorBarrel.lua.
+[22-10-24 06:24:09.825] LOG  : Lua         , 1729578249825> 150,034> Loading: media/lua/server/RainBarrel/BuildingObjects/RainCollectorBarrel.lua.
+[22-10-24 06:24:09.827] LOG  : Lua         , 1729578249827> 150,037> Loading: media/lua/server/Map/MapObjects/MORandomPottedPlant.lua.
+[22-10-24 06:24:09.828] LOG  : Lua         , 1729578249828> 150,037> Loading: media/lua/server/Map/MapObjects/MOTent.lua.
+[22-10-24 06:24:09.829] LOG  : Lua         , 1729578249829> 150,038> Loading: media/lua/server/Map/MapObjects/MOTrap.lua.
+[22-10-24 06:24:09.830] LOG  : Lua         , 1729578249830> 150,039> Loading: media/lua/server/Traps/TrapDefinition.lua.
+[22-10-24 06:24:09.831] LOG  : Lua         , 1729578249831> 150,040> Loading: media/lua/server/Traps/STrapSystem.lua.
+[22-10-24 06:24:09.833] LOG  : Lua         , 1729578249833> 150,042> Loading: media/lua/server/Map/MapObjects/MOWoodenWallFrame.lua.
+[22-10-24 06:24:09.834] LOG  : Lua         , 1729578249834> 150,043> Loading: media/lua/server/Map/MetaEnum.lua.
+[22-10-24 06:24:09.835] LOG  : Lua         , 1729578249835> 150,044> Loading: media/lua/server/MetalDrum/BuildingObjects/ISMetalDrum.lua.
+[22-10-24 06:24:09.836] LOG  : Lua         , 1729578249836> 150,045> Loading: media/lua/server/MetalDrum/SMetalDrumGlobalObject.lua.
+[22-10-24 06:24:09.837] LOG  : Lua         , 1729578249837> 150,046> Loading: media/lua/server/MetalDrum/SMetalDrumSystem.lua.
+[22-10-24 06:24:09.838] LOG  : Lua         , 1729578249838> 150,047> Loading: media/lua/server/metazones/metazoneHandler.lua.
+[22-10-24 06:24:09.840] LOG  : Lua         , 1729578249839> 150,050> Loading: media/lua/server/Movers/ISBaseMover.lua.
+[22-10-24 06:24:09.841] LOG  : Lua         , 1729578249841> 150,050> Loading: media/lua/server/Movers/MoverStateMachine.lua.
+[22-10-24 06:24:09.842] LOG  : Lua         , 1729578249842> 150,051> Loading: media/lua/server/Movers/MoverStates/ISBaseState.lua.
+[22-10-24 06:24:09.843] LOG  : Lua         , 1729578249843> 150,052> Loading: media/lua/server/Movers/MoverStates/MoveToState.lua.
+[22-10-24 06:24:09.843] LOG  : Lua         , 1729578249843> 150,052> Loading: media/lua/server/Movers/Rabbit.lua.
+[22-10-24 06:24:09.844] LOG  : Lua         , 1729578249844> 150,053> Loading: media/lua/server/NewSelectionSystem/GridSquareSelector.lua.
+[22-10-24 06:24:09.844] LOG  : Lua         , 1729578249844> 150,054> Loading: media/lua/server/NPCs/SadisticAIDirector/SadisticMusicDirector.lua.
+[22-10-24 06:24:09.845] LOG  : Lua         , 1729578249845> 150,054> Loading: media/lua/server/Professions/Professions.lua.
+[22-10-24 06:24:09.846] LOG  : Lua         , 1729578249846> 150,055> Loading: media/lua/server/radio/ISDynamicRadio.lua.
+[22-10-24 06:24:09.847] LOG  : Lua         , 1729578249847> 150,056> Loading: media/lua/server/radio/ISWeatherChannel.lua.
+[22-10-24 06:24:09.849] LOG  : Lua         , 1729578249849> 150,058> Loading: media/lua/server/RainBarrel/SRainBarrelGlobalObject.lua.
+[22-10-24 06:24:09.850] LOG  : Lua         , 1729578249850> 150,059> Loading: media/lua/server/RainBarrel/SRainBarrelSystem.lua.
+[22-10-24 06:24:09.850] LOG  : Lua         , 1729578249850> 150,060> Loading: media/lua/server/recipecode.lua.
+[22-10-24 06:24:09.856] LOG  : Lua         , 1729578249856> 150,065> Loading: media/lua/server/Seasons/season.lua.
+[22-10-24 06:24:09.861] LOG  : Lua         , 1729578249861> 150,070> Loading: media/lua/server/Seasons/seasonProps.lua.
+[22-10-24 06:24:09.863] LOG  : Lua         , 1729578249863> 150,072> Loading: media/lua/server/TemplateReplacers.lua.
+[22-10-24 06:24:09.865] LOG  : Lua         , 1729578249865> 150,074> Loading: media/lua/server/Traps/BuildingObjects/TrapBO.lua.
+[22-10-24 06:24:09.866] LOG  : Lua         , 1729578249866> 150,075> Loading: media/lua/server/Traps/ISUI/ISTrapMenu.lua.
+[22-10-24 06:24:09.867] LOG  : Lua         , 1729578249867> 150,076> Loading: media/lua/server/Traps/STrapGlobalObject.lua.
+[22-10-24 06:24:09.872] LOG  : Lua         , 1729578249872> 150,081> Loading: media/lua/server/Traps/trappingCommands.lua.
+[22-10-24 06:24:09.873] LOG  : Lua         , 1729578249873> 150,082> Loading: media/lua/server/Traps/TrapRecipeCode.lua.
+[22-10-24 06:24:09.874] LOG  : Lua         , 1729578249873> 150,083> Loading: media/lua/server/TurnBased/TurnBasedMain.lua.
+[22-10-24 06:24:09.874] LOG  : Lua         , 1729578249874> 150,083> Loading: media/lua/server/TutorialHelperFunctions.lua.
+[22-10-24 06:24:09.875] LOG  : Lua         , 1729578249875> 150,084> Loading: media/lua/server/Vehicles/VehicleCommands.lua.
+[22-10-24 06:24:09.877] LOG  : Lua         , 1729578249877> 150,086> Loading: media/lua/server/Vehicles/VehicleDistributions.lua.
+[22-10-24 06:24:09.888] LOG  : Lua         , 1729578249887> 150,097> Loading: media/lua/server/Vehicles/Vehicles.lua.
+[22-10-24 06:24:09.896] LOG  : Lua         , 1729578249895> 150,104> Loading: media/lua/server/XpSystem/XPSystem_SkillBook.lua.
+[22-10-24 06:24:09.898] LOG  : Lua         , 1729578249898> 150,107> Loading: media/lua/server/XpSystem/XpSystem_text.lua.
+[22-10-24 06:24:09.899] LOG  : Lua         , 1729578249899> 150,109> Loading: media/lua/server/XpSystem/XpUpdate.lua.
+[22-10-24 06:24:09.901] LOG  : General     , 1729578249901> 150,110> luaChecksum: baba5d5cd0137868287f2628ad5cb14b.
+[22-10-24 06:24:10.259] LOG  : Lua         , 1729578250258> 150,468> Loading: /home/steam/Zomboid/Server/pragmaticos_SandboxVars.lua.
+[22-10-24 06:24:10.287] ERROR: General     , 1729578250287> 150,497> ExceptionLogger.logException> Exception thrown se.krka.kahlua.vm.KahluaException: pragmaticos_SandboxVars.lua:480: '}' expected (to close '{' at line 1) near `PlayerDamageFromCrash` at LexState.lexerror line:278..
+[22-10-24 06:24:10.288] ERROR: General     , 1729578250288> 150,497> DebugLogStream.printException> Stack trace:.
+[22-10-24 06:24:10.293] LOG  : General     , 1729578250293> 150,502> Exiting due to errors loading /home/steam/Zomboid/Server/pragmaticos_SandboxVars.lua.
