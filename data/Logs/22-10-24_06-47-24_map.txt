@@ -1,3 +1,0 @@
-[22-10-24 06:47:24.328] 76561199040661533 "bramen" removed Door (fixtures_doors_01_4) at 10882,9919,0.
-[22-10-24 06:48:34.084] 76561199040661533 "bramen" removed Door (fixtures_doors_01_12) at 10882,9904,0.
-[22-10-24 06:49:25.895] 76561199040661533 "bramen" removed Door (fixtures_doors_01_12) at 10862,9911,0.
