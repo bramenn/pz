@@ -817,3 +817,8 @@ LOG  : Network     , 1729721744725> 219,960> [23-10-24 22:15:44.725] > ZNet: OnP
 LOG  : Network     , 1729721744725> 219,961> [23-10-24 22:15:44.725] > ZNet: SZombienet -> SSteamSDK: BSecure
 LOG  : Network     , 1729721744725> 219,961> [23-10-24 22:15:44.725] > ZNet: Zomboid Server is VAC Secure
 LOG  : General     , 1729721744834> 220,069> Unknown command process-status@eof
+LOG  : General     , 1729722042276> 517,511> SaveAll took 85.644078 ms
+LOG  : General     , 1729722042285> 517,521> reanimate: saved 0 zombies
+LOG  : General     , 1729722042311> 517,546> Saving GlobalModData
+LOG  : General     , 1729722042312> 517,548> Saving finish
+LOG  : General     , 1729722042313> 517,548> Saving took 129.532965 ms
