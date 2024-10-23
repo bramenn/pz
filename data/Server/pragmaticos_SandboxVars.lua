@@ -499,8 +499,8 @@ SandboxVars = {
     LightBulbLifespan = 1.0,
     Map = {
         AllowMiniMap = true,
-        AllowWorldMap = false,
-        MapAllKnown = false,
+        AllowWorldMap = true,
+        MapAllKnown = true,
     },
     ZombieLore = {
         -- Controls the zombie movement rate. Default=Fast Shamblers
