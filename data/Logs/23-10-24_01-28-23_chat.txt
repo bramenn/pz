@@ -1,0 +1,240 @@
+[23-10-24 01:28:23.153][info] Start chat server initialization....
+[23-10-24 01:28:23.159][info] General chat has id = 0.
+[23-10-24 01:28:23.159][info] Say chat has id = 1.
+[23-10-24 01:28:23.161][info] Shout chat has id = 2.
+[23-10-24 01:28:23.161][info] Radio chat has id = 3.
+[23-10-24 01:28:23.161][info] Admin chat has id = 4.
+[23-10-24 01:28:23.165][info] Server chat has id = 5.
+[23-10-24 01:28:23.165][info] Chat server successfully initialized.
+[23-10-24 01:29:06.928][info] Player with id = '0' tries to connect.
+[23-10-24 01:29:06.928][info] Adding player '0' to chat server.
+[23-10-24 01:29:06.929][info] Player joined to default chats.
+[23-10-24 01:29:06.930][info] Player bramen(0) joined to chat server successfully.
+[23-10-24 01:29:39.403][info] Player with id = '4' tries to connect.
+[23-10-24 01:29:39.403][info] Adding player '4' to chat server.
+[23-10-24 01:29:39.403][info] Player joined to default chats.
+[23-10-24 01:29:39.403][info] Player charlie(4) joined to chat server successfully.
+[23-10-24 01:29:56.403][info] Player with id = '8' tries to connect.
+[23-10-24 01:29:56.403][info] Adding player '8' to chat server.
+[23-10-24 01:29:56.403][info] Player joined to default chats.
+[23-10-24 01:29:56.403][info] Player DonDiego(8) joined to chat server successfully.
+[23-10-24 01:35:42.588][info] Player 0 disconnecting....
+[23-10-24 01:35:42.589][info] Disconnecting player 0 finished.
+[23-10-24 01:36:51.339][info] Player 0 disconnecting....
+[23-10-24 01:36:51.339][info] Disconnecting player 0 finished.
+[23-10-24 01:36:51.340][info] Player with id = '0' tries to connect.
+[23-10-24 01:36:51.340][info] Adding player '0' to chat server.
+[23-10-24 01:36:51.341][error] Player or connection is not found on server!.
+[23-10-24 01:36:51.341][error] player = null.
+[23-10-24 01:36:54.013][info] Player with id = '0' tries to connect.
+[23-10-24 01:36:54.013][info] Adding player '0' to chat server.
+[23-10-24 01:36:54.013][info] Player joined to default chats.
+[23-10-24 01:36:54.013][info] Player bramen(0) joined to chat server successfully.
+[23-10-24 01:48:08.294][info] Got message:ChatMessage{chat=Local, author='bramen', text='?HEY!'}.
+[23-10-24 01:48:08.296][info] Message ChatMessage{chat=Local, author='bramen', text='?HEY!'} sent to chat (id = 2) members.
+[23-10-24 01:48:48.826][info] Player 0 disconnecting....
+[23-10-24 01:48:48.826][info] Disconnecting player 0 finished.
+[23-10-24 01:49:23.097][info] Player 0 disconnecting....
+[23-10-24 01:49:23.097][info] Disconnecting player 0 finished.
+[23-10-24 01:49:23.098][info] Player with id = '0' tries to connect.
+[23-10-24 01:49:23.099][info] Adding player '0' to chat server.
+[23-10-24 01:49:23.099][error] Player or connection is not found on server!.
+[23-10-24 01:49:23.099][error] player = null.
+[23-10-24 01:49:25.313][info] Player with id = '0' tries to connect.
+[23-10-24 01:49:25.313][info] Adding player '0' to chat server.
+[23-10-24 01:49:25.314][info] Player joined to default chats.
+[23-10-24 01:49:25.314][info] Player bramen(0) joined to chat server successfully.
+[23-10-24 01:50:49.633][info] Got message:ChatMessage{chat=Local, author='bramen', text='?POR AQU?!'}.
+[23-10-24 01:50:49.634][info] Message ChatMessage{chat=Local, author='bramen', text='?POR AQU?!'} sent to chat (id = 2) members.
+[23-10-24 01:50:49.833][info] Got message:ChatMessage{chat=Local, author='bramen', text='?POR AQU?!'}.
+[23-10-24 01:50:49.833][info] Message ChatMessage{chat=Local, author='bramen', text='?POR AQU?!'} sent to chat (id = 2) members.
+[23-10-24 01:50:50.116][info] Got message:ChatMessage{chat=Local, author='bramen', text='?HEY!'}.
+[23-10-24 01:50:50.116][info] Message ChatMessage{chat=Local, author='bramen', text='?HEY!'} sent to chat (id = 2) members.
+[23-10-24 01:50:50.258][info] Got message:ChatMessage{chat=Local, author='bramen', text='?POR AQU?!'}.
+[23-10-24 01:50:50.258][info] Message ChatMessage{chat=Local, author='bramen', text='?POR AQU?!'} sent to chat (id = 2) members.
+[23-10-24 01:50:50.431][info] Got message:ChatMessage{chat=Local, author='bramen', text='?POR AQU?!'}.
+[23-10-24 01:50:50.432][info] Message ChatMessage{chat=Local, author='bramen', text='?POR AQU?!'} sent to chat (id = 2) members.
+[23-10-24 01:50:50.695][info] Got message:ChatMessage{chat=Local, author='bramen', text='?POR AQU?!'}.
+[23-10-24 01:50:50.695][info] Message ChatMessage{chat=Local, author='bramen', text='?POR AQU?!'} sent to chat (id = 2) members.
+[23-10-24 01:50:52.763][info] Got message:ChatMessage{chat=Local, author='bramen', text='?POR AQU?!'}.
+[23-10-24 01:50:52.763][info] Message ChatMessage{chat=Local, author='bramen', text='?POR AQU?!'} sent to chat (id = 2) members.
+[23-10-24 01:50:53.060][info] Got message:ChatMessage{chat=Local, author='bramen', text='?HEY!'}.
+[23-10-24 01:50:53.060][info] Message ChatMessage{chat=Local, author='bramen', text='?HEY!'} sent to chat (id = 2) members.
+[23-10-24 01:50:53.243][info] Got message:ChatMessage{chat=Local, author='bramen', text='?EH T?!'}.
+[23-10-24 01:50:53.243][info] Message ChatMessage{chat=Local, author='bramen', text='?EH T?!'} sent to chat (id = 2) members.
+[23-10-24 01:50:53.381][info] Got message:ChatMessage{chat=Local, author='bramen', text='?POR AQU?!'}.
+[23-10-24 01:50:53.381][info] Message ChatMessage{chat=Local, author='bramen', text='?POR AQU?!'} sent to chat (id = 2) members.
+[23-10-24 01:50:53.591][info] Got message:ChatMessage{chat=Local, author='bramen', text='?HEY!'}.
+[23-10-24 01:50:53.591][info] Message ChatMessage{chat=Local, author='bramen', text='?HEY!'} sent to chat (id = 2) members.
+[23-10-24 01:50:53.676][info] Got message:ChatMessage{chat=Local, author='bramen', text='?POR AQU?!'}.
+[23-10-24 01:50:53.676][info] Message ChatMessage{chat=Local, author='bramen', text='?POR AQU?!'} sent to chat (id = 2) members.
+[23-10-24 01:50:54.777][info] Got message:ChatMessage{chat=Local, author='bramen', text='?EH T?!'}.
+[23-10-24 01:50:54.777][info] Message ChatMessage{chat=Local, author='bramen', text='?EH T?!'} sent to chat (id = 2) members.
+[23-10-24 01:50:54.960][info] Got message:ChatMessage{chat=Local, author='bramen', text='?HEY!'}.
+[23-10-24 01:50:54.960][info] Message ChatMessage{chat=Local, author='bramen', text='?HEY!'} sent to chat (id = 2) members.
+[23-10-24 01:50:55.136][info] Got message:ChatMessage{chat=Local, author='bramen', text='?HEY!'}.
+[23-10-24 01:50:55.136][info] Message ChatMessage{chat=Local, author='bramen', text='?HEY!'} sent to chat (id = 2) members.
+[23-10-24 01:50:55.318][info] Got message:ChatMessage{chat=Local, author='bramen', text='?POR AQU?!'}.
+[23-10-24 01:50:55.320][info] Message ChatMessage{chat=Local, author='bramen', text='?POR AQU?!'} sent to chat (id = 2) members.
+[23-10-24 01:50:57.758][info] Got message:ChatMessage{chat=Local, author='bramen', text='?EH T?!'}.
+[23-10-24 01:50:57.758][info] Message ChatMessage{chat=Local, author='bramen', text='?EH T?!'} sent to chat (id = 2) members.
+[23-10-24 01:50:58.041][info] Got message:ChatMessage{chat=Local, author='bramen', text='?POR AQU?!'}.
+[23-10-24 01:50:58.041][info] Message ChatMessage{chat=Local, author='bramen', text='?POR AQU?!'} sent to chat (id = 2) members.
+[23-10-24 01:50:58.235][info] Got message:ChatMessage{chat=Local, author='bramen', text='?HEY!'}.
+[23-10-24 01:50:58.235][info] Message ChatMessage{chat=Local, author='bramen', text='?HEY!'} sent to chat (id = 2) members.
+[23-10-24 01:50:58.374][info] Got message:ChatMessage{chat=Local, author='bramen', text='?EH T?!'}.
+[23-10-24 01:50:58.374][info] Message ChatMessage{chat=Local, author='bramen', text='?EH T?!'} sent to chat (id = 2) members.
+[23-10-24 01:50:58.555][info] Got message:ChatMessage{chat=Local, author='bramen', text='?EH T?!'}.
+[23-10-24 01:50:58.555][info] Message ChatMessage{chat=Local, author='bramen', text='?EH T?!'} sent to chat (id = 2) members.
+[23-10-24 01:58:47.522][info] Got message:ChatMessage{chat=Local, author='bramen', text='?POR AQU?!'}.
+[23-10-24 01:58:47.523][info] Message ChatMessage{chat=Local, author='bramen', text='?POR AQU?!'} sent to chat (id = 2) members.
+[23-10-24 01:58:47.694][info] Got message:ChatMessage{chat=Local, author='bramen', text='?HEY!'}.
+[23-10-24 01:58:47.694][info] Message ChatMessage{chat=Local, author='bramen', text='?HEY!'} sent to chat (id = 2) members.
+[23-10-24 01:58:47.861][info] Got message:ChatMessage{chat=Local, author='bramen', text='?EH T?!'}.
+[23-10-24 01:58:47.861][info] Message ChatMessage{chat=Local, author='bramen', text='?EH T?!'} sent to chat (id = 2) members.
+[23-10-24 01:58:47.991][info] Got message:ChatMessage{chat=Local, author='bramen', text='?POR AQU?!'}.
+[23-10-24 01:58:47.991][info] Message ChatMessage{chat=Local, author='bramen', text='?POR AQU?!'} sent to chat (id = 2) members.
+[23-10-24 01:58:51.609][info] Got message:ChatMessage{chat=Local, author='bramen', text='?POR AQU?!'}.
+[23-10-24 01:58:51.609][info] Message ChatMessage{chat=Local, author='bramen', text='?POR AQU?!'} sent to chat (id = 2) members.
+[23-10-24 01:58:51.791][info] Got message:ChatMessage{chat=Local, author='bramen', text='?EH T?!'}.
+[23-10-24 01:58:51.791][info] Message ChatMessage{chat=Local, author='bramen', text='?EH T?!'} sent to chat (id = 2) members.
+[23-10-24 01:58:51.964][info] Got message:ChatMessage{chat=Local, author='bramen', text='?HEY!'}.
+[23-10-24 01:58:51.964][info] Message ChatMessage{chat=Local, author='bramen', text='?HEY!'} sent to chat (id = 2) members.
+[23-10-24 01:58:53.936][info] Got message:ChatMessage{chat=Local, author='bramen', text='?POR AQU?!'}.
+[23-10-24 01:58:53.936][info] Message ChatMessage{chat=Local, author='bramen', text='?POR AQU?!'} sent to chat (id = 2) members.
+[23-10-24 01:58:54.154][info] Got message:ChatMessage{chat=Local, author='bramen', text='?EH T?!'}.
+[23-10-24 01:58:54.154][info] Message ChatMessage{chat=Local, author='bramen', text='?EH T?!'} sent to chat (id = 2) members.
+[23-10-24 02:00:11.001][info] Got message:ChatMessage{chat=Local, author='bramen', text='?EH T?!'}.
+[23-10-24 02:00:11.002][info] Message ChatMessage{chat=Local, author='bramen', text='?EH T?!'} sent to chat (id = 2) members.
+[23-10-24 02:00:11.442][info] Got message:ChatMessage{chat=Local, author='bramen', text='?HEY!'}.
+[23-10-24 02:00:11.442][info] Message ChatMessage{chat=Local, author='bramen', text='?HEY!'} sent to chat (id = 2) members.
+[23-10-24 02:00:11.631][info] Got message:ChatMessage{chat=Local, author='bramen', text='?HEY!'}.
+[23-10-24 02:00:11.631][info] Message ChatMessage{chat=Local, author='bramen', text='?HEY!'} sent to chat (id = 2) members.
+[23-10-24 02:00:11.813][info] Got message:ChatMessage{chat=Local, author='bramen', text='?HEY!'}.
+[23-10-24 02:00:11.814][info] Message ChatMessage{chat=Local, author='bramen', text='?HEY!'} sent to chat (id = 2) members.
+[23-10-24 02:00:11.973][info] Got message:ChatMessage{chat=Local, author='bramen', text='?EH T?!'}.
+[23-10-24 02:00:11.973][info] Message ChatMessage{chat=Local, author='bramen', text='?EH T?!'} sent to chat (id = 2) members.
+[23-10-24 02:00:12.192][info] Got message:ChatMessage{chat=Local, author='bramen', text='?HEY!'}.
+[23-10-24 02:00:12.192][info] Message ChatMessage{chat=Local, author='bramen', text='?HEY!'} sent to chat (id = 2) members.
+[23-10-24 02:00:12.423][info] Got message:ChatMessage{chat=Local, author='bramen', text='?EH T?!'}.
+[23-10-24 02:00:12.423][info] Message ChatMessage{chat=Local, author='bramen', text='?EH T?!'} sent to chat (id = 2) members.
+[23-10-24 02:00:13.761][info] Got message:ChatMessage{chat=Local, author='bramen', text='?POR AQU?!'}.
+[23-10-24 02:00:13.762][info] Message ChatMessage{chat=Local, author='bramen', text='?POR AQU?!'} sent to chat (id = 2) members.
+[23-10-24 02:00:13.950][info] Got message:ChatMessage{chat=Local, author='bramen', text='?HEY!'}.
+[23-10-24 02:00:13.950][info] Message ChatMessage{chat=Local, author='bramen', text='?HEY!'} sent to chat (id = 2) members.
+[23-10-24 02:00:14.099][info] Got message:ChatMessage{chat=Local, author='bramen', text='?POR AQU?!'}.
+[23-10-24 02:00:14.099][info] Message ChatMessage{chat=Local, author='bramen', text='?POR AQU?!'} sent to chat (id = 2) members.
+[23-10-24 02:00:15.251][info] Got message:ChatMessage{chat=Local, author='bramen', text='?POR AQU?!'}.
+[23-10-24 02:00:15.251][info] Message ChatMessage{chat=Local, author='bramen', text='?POR AQU?!'} sent to chat (id = 2) members.
+[23-10-24 02:00:15.491][info] Got message:ChatMessage{chat=Local, author='bramen', text='?POR AQU?!'}.
+[23-10-24 02:00:15.491][info] Message ChatMessage{chat=Local, author='bramen', text='?POR AQU?!'} sent to chat (id = 2) members.
+[23-10-24 02:00:15.793][info] Got message:ChatMessage{chat=Local, author='bramen', text='?EH T?!'}.
+[23-10-24 02:00:15.793][info] Message ChatMessage{chat=Local, author='bramen', text='?EH T?!'} sent to chat (id = 2) members.
+[23-10-24 02:00:16.273][info] Got message:ChatMessage{chat=Local, author='bramen', text='?POR AQU?!'}.
+[23-10-24 02:00:16.274][info] Message ChatMessage{chat=Local, author='bramen', text='?POR AQU?!'} sent to chat (id = 2) members.
+[23-10-24 02:00:28.657][info] Player 0 disconnecting....
+[23-10-24 02:00:28.657][info] Disconnecting player 0 finished.
+[23-10-24 02:01:34.232][info] Player 0 disconnecting....
+[23-10-24 02:01:34.232][info] Disconnecting player 0 finished.
+[23-10-24 02:01:34.234][info] Player with id = '0' tries to connect.
+[23-10-24 02:01:34.234][info] Adding player '0' to chat server.
+[23-10-24 02:01:34.234][error] Player or connection is not found on server!.
+[23-10-24 02:01:34.234][error] player = null.
+[23-10-24 02:01:36.413][info] Player with id = '0' tries to connect.
+[23-10-24 02:01:36.413][info] Adding player '0' to chat server.
+[23-10-24 02:01:36.414][info] Player joined to default chats.
+[23-10-24 02:01:36.414][info] Player bramen(0) joined to chat server successfully.
+[23-10-24 02:03:02.366][info] Got message:ChatMessage{chat=Local, author='bramen', text='?EH T?!'}.
+[23-10-24 02:03:02.372][info] Message ChatMessage{chat=Local, author='bramen', text='?EH T?!'} sent to chat (id = 2) members.
+[23-10-24 02:03:02.567][info] Got message:ChatMessage{chat=Local, author='bramen', text='?HEY!'}.
+[23-10-24 02:03:02.568][info] Message ChatMessage{chat=Local, author='bramen', text='?HEY!'} sent to chat (id = 2) members.
+[23-10-24 02:03:02.887][info] Got message:ChatMessage{chat=Local, author='bramen', text='?POR AQU?!'}.
+[23-10-24 02:03:02.888][info] Message ChatMessage{chat=Local, author='bramen', text='?POR AQU?!'} sent to chat (id = 2) members.
+[23-10-24 02:03:03.052][info] Got message:ChatMessage{chat=Local, author='bramen', text='?HEY!'}.
+[23-10-24 02:03:03.055][info] Message ChatMessage{chat=Local, author='bramen', text='?HEY!'} sent to chat (id = 2) members.
+[23-10-24 02:03:03.746][info] Got message:ChatMessage{chat=Local, author='bramen', text='?HEY!'}.
+[23-10-24 02:03:03.747][info] Message ChatMessage{chat=Local, author='bramen', text='?HEY!'} sent to chat (id = 2) members.
+[23-10-24 02:03:03.940][info] Got message:ChatMessage{chat=Local, author='bramen', text='?EH T?!'}.
+[23-10-24 02:03:03.941][info] Message ChatMessage{chat=Local, author='bramen', text='?EH T?!'} sent to chat (id = 2) members.
+[23-10-24 02:03:04.152][info] Got message:ChatMessage{chat=Local, author='bramen', text='?EH T?!'}.
+[23-10-24 02:03:04.153][info] Message ChatMessage{chat=Local, author='bramen', text='?EH T?!'} sent to chat (id = 2) members.
+[23-10-24 02:03:04.354][info] Got message:ChatMessage{chat=Local, author='bramen', text='?POR AQU?!'}.
+[23-10-24 02:03:04.355][info] Message ChatMessage{chat=Local, author='bramen', text='?POR AQU?!'} sent to chat (id = 2) members.
+[23-10-24 02:03:04.800][info] Got message:ChatMessage{chat=Local, author='bramen', text='?EH T?!'}.
+[23-10-24 02:03:04.801][info] Message ChatMessage{chat=Local, author='bramen', text='?EH T?!'} sent to chat (id = 2) members.
+[23-10-24 02:03:05.316][info] Got message:ChatMessage{chat=Local, author='bramen', text='?HEY!'}.
+[23-10-24 02:03:05.317][info] Message ChatMessage{chat=Local, author='bramen', text='?HEY!'} sent to chat (id = 2) members.
+[23-10-24 02:12:41.839][info] Player 0 disconnecting....
+[23-10-24 02:12:41.839][info] Disconnecting player 0 finished.
+[23-10-24 02:14:11.011][info] Player 0 disconnecting....
+[23-10-24 02:14:11.011][info] Disconnecting player 0 finished.
+[23-10-24 02:14:11.014][info] Player with id = '0' tries to connect.
+[23-10-24 02:14:11.014][info] Adding player '0' to chat server.
+[23-10-24 02:14:11.018][error] Player or connection is not found on server!.
+[23-10-24 02:14:11.018][error] player = null.
+[23-10-24 02:14:13.425][info] Player with id = '0' tries to connect.
+[23-10-24 02:14:13.425][info] Adding player '0' to chat server.
+[23-10-24 02:14:13.425][info] Player joined to default chats.
+[23-10-24 02:14:13.425][info] Player bramen(0) joined to chat server successfully.
+[23-10-24 02:35:55.327][info] Got message:ChatMessage{chat=Local, author='bramen', text='?HEY!'}.
+[23-10-24 02:35:55.328][info] Message ChatMessage{chat=Local, author='bramen', text='?HEY!'} sent to chat (id = 2) members.
+[23-10-24 02:35:55.489][info] Got message:ChatMessage{chat=Local, author='bramen', text='?EH T?!'}.
+[23-10-24 02:35:55.490][info] Message ChatMessage{chat=Local, author='bramen', text='?EH T?!'} sent to chat (id = 2) members.
+[23-10-24 02:36:01.378][info] Got message:ChatMessage{chat=Local, author='bramen', text='?POR AQU?!'}.
+[23-10-24 02:36:01.379][info] Message ChatMessage{chat=Local, author='bramen', text='?POR AQU?!'} sent to chat (id = 2) members.
+[23-10-24 02:36:01.663][info] Got message:ChatMessage{chat=Local, author='bramen', text='?HEY!'}.
+[23-10-24 02:36:01.665][info] Message ChatMessage{chat=Local, author='bramen', text='?HEY!'} sent to chat (id = 2) members.
+[23-10-24 02:36:11.969][info] Got message:ChatMessage{chat=Local, author='bramen', text='?POR AQU?!'}.
+[23-10-24 02:36:11.970][info] Message ChatMessage{chat=Local, author='bramen', text='?POR AQU?!'} sent to chat (id = 2) members.
+[23-10-24 02:36:12.140][info] Got message:ChatMessage{chat=Local, author='bramen', text='?EH T?!'}.
+[23-10-24 02:36:12.140][info] Message ChatMessage{chat=Local, author='bramen', text='?EH T?!'} sent to chat (id = 2) members.
+[23-10-24 02:36:12.273][info] Got message:ChatMessage{chat=Local, author='bramen', text='?HEY!'}.
+[23-10-24 02:36:12.274][info] Message ChatMessage{chat=Local, author='bramen', text='?HEY!'} sent to chat (id = 2) members.
+[23-10-24 02:36:12.514][info] Got message:ChatMessage{chat=Local, author='bramen', text='?EH T?!'}.
+[23-10-24 02:36:12.514][info] Message ChatMessage{chat=Local, author='bramen', text='?EH T?!'} sent to chat (id = 2) members.
+[23-10-24 02:36:12.648][info] Got message:ChatMessage{chat=Local, author='bramen', text='?HEY!'}.
+[23-10-24 02:36:12.648][info] Message ChatMessage{chat=Local, author='bramen', text='?HEY!'} sent to chat (id = 2) members.
+[23-10-24 02:38:30.965][info] Player 0 disconnecting....
+[23-10-24 02:38:30.966][info] Disconnecting player 0 finished.
+[23-10-24 02:38:58.746][info] Player 0 disconnecting....
+[23-10-24 02:38:58.748][info] Disconnecting player 0 finished.
+[23-10-24 02:38:58.749][info] Player with id = '0' tries to connect.
+[23-10-24 02:38:58.749][info] Adding player '0' to chat server.
+[23-10-24 02:38:58.749][error] Player or connection is not found on server!.
+[23-10-24 02:38:58.749][error] player = null.
+[23-10-24 02:39:01.229][info] Player with id = '0' tries to connect.
+[23-10-24 02:39:01.229][info] Adding player '0' to chat server.
+[23-10-24 02:39:01.229][info] Player joined to default chats.
+[23-10-24 02:39:01.229][info] Player bramen(0) joined to chat server successfully.
+[23-10-24 02:39:43.566][info] Player 0 disconnecting....
+[23-10-24 02:39:43.566][info] Disconnecting player 0 finished.
+[23-10-24 02:41:38.148][info] Player 0 disconnecting....
+[23-10-24 02:41:38.149][info] Disconnecting player 0 finished.
+[23-10-24 02:41:38.150][info] Player with id = '0' tries to connect.
+[23-10-24 02:41:38.150][info] Adding player '0' to chat server.
+[23-10-24 02:41:38.150][error] Player or connection is not found on server!.
+[23-10-24 02:41:38.150][error] player = null.
+[23-10-24 02:41:40.454][info] Player with id = '0' tries to connect.
+[23-10-24 02:41:40.454][info] Adding player '0' to chat server.
+[23-10-24 02:41:40.454][info] Player joined to default chats.
+[23-10-24 02:41:40.455][info] Player bramen(0) joined to chat server successfully.
+[23-10-24 02:46:05.381][info] Got message:ChatMessage{chat=Local, author='bramen', text='?EH T?!'}.
+[23-10-24 02:46:05.383][info] Message ChatMessage{chat=Local, author='bramen', text='?EH T?!'} sent to chat (id = 2) members.
+[23-10-24 02:46:05.535][info] Got message:ChatMessage{chat=Local, author='bramen', text='?EH T?!'}.
+[23-10-24 02:46:05.536][info] Message ChatMessage{chat=Local, author='bramen', text='?EH T?!'} sent to chat (id = 2) members.
+[23-10-24 02:46:05.708][info] Got message:ChatMessage{chat=Local, author='bramen', text='?EH T?!'}.
+[23-10-24 02:46:05.708][info] Message ChatMessage{chat=Local, author='bramen', text='?EH T?!'} sent to chat (id = 2) members.
+[23-10-24 02:46:05.987][info] Got message:ChatMessage{chat=Local, author='bramen', text='?POR AQU?!'}.
+[23-10-24 02:46:05.987][info] Message ChatMessage{chat=Local, author='bramen', text='?POR AQU?!'} sent to chat (id = 2) members.
+[23-10-24 02:55:04.709][info] Player 0 disconnecting....
+[23-10-24 02:55:04.709][info] Disconnecting player 0 finished.
+[23-10-24 02:55:04.709][info] Player 0 disconnecting....
+[23-10-24 02:55:04.709][info] Disconnecting player 0 finished.
+[23-10-24 02:57:11.226][info] Player 8 disconnecting....
+[23-10-24 02:57:11.226][info] Disconnecting player 8 finished.
+[23-10-24 02:57:11.226][info] Player 8 disconnecting....
+[23-10-24 02:57:11.226][info] Disconnecting player 8 finished.
+[23-10-24 02:58:07.941][info] Player 4 disconnecting....
+[23-10-24 02:58:07.941][info] Disconnecting player 4 finished.
+[23-10-24 02:58:07.941][info] Player 4 disconnecting....
+[23-10-24 02:58:07.941][info] Disconnecting player 4 finished.
