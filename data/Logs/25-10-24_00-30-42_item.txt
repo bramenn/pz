@@ -1,0 +1,438 @@
+[25-10-24 00:30:42.878] 76561198333912692 "charlie" floor +1 8099,11546,0 [Base.Glasses_Reading].
+[25-10-24 00:31:47.315] 76561198333912692 "charlie" floor +1 8076,11543,0 [Base.Hat_BaseballCap].
+[25-10-24 00:33:27.599] 76561198333912692 "charlie" container +0 8075,11555,0 [Base.Bag_WorkerBag].
+[25-10-24 00:33:48.624] 76561198333912692 "charlie" container -15 8075,11555,0 [Base.PillsBeta, Base.BeerCan, Base.RosewoodMap, Base.LetterOpener, Base.Bandage, Base.Bandaid, Base.Lighter, Base.Pills, Base.PillsAntiDep, Base.Magazine, Base.HandTorch, Base.WestpointMap, Base.DuctTape].
+[25-10-24 00:33:51.602] 76561198333912692 "charlie" container -6 8075,11555,0 [Base.Book, Base.HandTorch, Base.Bag_WorkerBag, Base.Bag_DuffelBagTINT, Base.BookForaging1].
+[25-10-24 00:33:54.603] 76561198333912692 "charlie" container -5 8075,11555,0 [Base.Bag_MedicalBag, Base.Bag_NormalHikingBag, Base.Bag_Satchel, Base.WeldingMask].
+[25-10-24 00:33:57.596] 76561198333912692 "charlie" container -3 8075,11555,0 [Base.TirePump, Base.Crowbar].
+[25-10-24 00:34:00.611] 76561198333912692 "charlie" container -1 8075,11555,0 [Base.Crowbar].
+[25-10-24 00:34:18.433] 76561198333912692 "charlie" floor +1 8074,11552,0 [Base.Bag_MedicalBag].
+[25-10-24 00:34:22.730] 76561198333912692 "charlie" floor +1 8071,11556,0 [Base.Bag_MedicalBag].
+[25-10-24 00:34:39.639] 76561198333912692 "charlie" container -1 8071,11555,0 [Base.LetterOpener].
+[25-10-24 00:34:40.577] 76561198333912692 "charlie" floor -1 8071,11556,0 [Base.Bag_MedicalBag].
+[25-10-24 00:34:49.108] 76561198333912692 "charlie" floor -1 8074,11552,0 [Base.Bag_MedicalBag].
+[25-10-24 00:35:16.691] 76561198333912692 "charlie" floor +1 8085,11522,1 [Base.Bag_MedicalBag].
+[25-10-24 00:35:16.759] 76561198333912692 "charlie" floor +1 8085,11522,1 [Base.Bag_MedicalBag].
+[25-10-24 00:35:23.020] 76561198333912692 "charlie" floor -1 8085,11522,1 [Base.Bag_MedicalBag].
+[25-10-24 00:35:57.609] 76561198333912692 "charlie" container +0 8091,11524,1 [Base.SutureNeedleHolder, Base.Bandage, Base.Bandaid].
+[25-10-24 00:36:00.609] 76561198333912692 "charlie" container +0 8091,11524,1 [Base.WestpointMap, Base.RosewoodMap].
+[25-10-24 00:36:12.598] 76561198333912692 "charlie" container +0 8095,11524,1 [Base.BeerCan, Base.LetterOpener, Base.Bag_WorkerBag].
+[25-10-24 00:36:15.607] 76561198333912692 "charlie" container +0 8095,11524,1 [Base.Bag_WorkerBag, Base.Bag_DuffelBagTINT].
+[25-10-24 00:36:18.601] 76561198333912692 "charlie" container +0 8095,11524,1 [Base.Bag_MedicalBag, Base.Bag_Satchel].
+[25-10-24 00:36:21.593] 76561198333912692 "charlie" container -2 8095,11524,1 [Base.BeerCan].
+[25-10-24 00:36:21.594] 76561198333912692 "charlie" container +0 8095,11524,1 [Base.Bag_MedicalBag, Base.Bag_NormalHikingBag].
+[25-10-24 00:36:24.615] 76561198333912692 "charlie" container +0 8095,11524,1 [Base.HandTorch].
+[25-10-24 00:36:27.603] 76561198333912692 "charlie" container +0 8095,11524,1 [Base.WeldingMask, Base.DuctTape].
+[25-10-24 00:36:30.592] 76561198333912692 "charlie" container +0 8095,11524,1 [Base.TirePump].
+[25-10-24 00:36:42.609] 76561198333912692 "charlie" container +0 8095,11524,1 [Base.BaseballBatNails].
+[25-10-24 00:36:51.594] 76561198333912692 "charlie" container +0 8095,11524,1 [Base.Crowbar].
+[25-10-24 00:36:54.600] 76561198333912692 "charlie" container +0 8095,11524,1 [Base.SharpedStone].
+[25-10-24 00:36:57.590] 76561198333912692 "charlie" container +0 8095,11524,1 [Base.LetterOpener].
+[25-10-24 00:37:00.614] 76561198333912692 "charlie" container +0 8095,11524,1 [Base.BreadKnife, Base.ButterKnife].
+[25-10-24 00:37:15.602] 76561198333912692 "charlie" container -2 8083,11524,1 [Base.DriedSplitPeas, Base.DriedKidneyBeans].
+[25-10-24 00:37:18.624] 76561198333912692 "charlie" container -2 8083,11524,1 [Base.DriedChickpeas].
+[25-10-24 00:38:15.600] 76561198333912692 "charlie" container +0 8076,11548,0 [Base.Axe].
+[25-10-24 00:38:21.604] 76561198333912692 "charlie" container +0 8076,11548,0 [Base.Axe].
+[25-10-24 00:38:42.595] 76561198333912692 "charlie" container +0 8071,11560,0 [Base.HuntingKnife].
+[25-10-24 00:38:45.605] 76561198333912692 "charlie" container +0 8071,11560,0 [Base.HuntingKnife].
+[25-10-24 00:38:48.602] 76561198333912692 "charlie" container -1 8071,11560,0 [Base.HuntingKnife].
+[25-10-24 00:38:54.612] 76561198333912692 "charlie" container +0 8071,11560,0 [Base.WaterBottleFull].
+[25-10-24 00:38:57.595] 76561198333912692 "charlie" container +0 8071,11560,0 [Base.WaterBottleFull].
+[25-10-24 00:39:00.601] 76561198333912692 "charlie" container +0 8071,11560,0 [Base.WineWaterFull].
+[25-10-24 00:39:06.594] 76561198333912692 "charlie" container +0 8071,11560,0 [Base.Axe].
+[25-10-24 00:39:09.608] 76561198333912692 "charlie" container +0 8071,11560,0 [Base.Bag_MedicalBag].
+[25-10-24 00:42:15.611] 76561198333912692 "charlie" container -1 8115,12222,0 [Base.Machete].
+[25-10-24 00:58:31.341] 76561198333912692 "charlie" floor -1 10159,12342,0 [Base.Shovel].
+[25-10-24 00:59:49.715] 76561198333912692 "charlie" floor +1 10288,12322,0 [Base.Glasses_Reading].
+[25-10-24 00:59:58.052] 76561198333912692 "charlie" floor +1 10286,12320,0 [Base.Hat_Bandana].
+[25-10-24 01:00:08.642] 76561198333912692 "charlie" container -1 10285,12320,0 [Base.Bag_BigHikingBag].
+[25-10-24 01:00:27.107] 76561198333912692 "charlie" container -1 10260,12321,0 [Base.Bag_ALICEpack].
+[25-10-24 01:00:38.244] 76561198333912692 "charlie" floor -1 10260,12293,0 [Base.WaterBottleFull].
+[25-10-24 01:00:42.628] 76561198333912692 "charlie" container -4 10259,12293,0 [Base.BeerCan, Base.Pop, Base.WaterBottleFull].
+[25-10-24 01:00:49.573] 76561198333912692 "charlie" floor -1 10259,12293,0 [Base.Cooler].
+[25-10-24 01:00:56.917] 76561198333912692 "charlie" floor -1 10259,12293,0 [Base.WaterSaucepanPasta].
+[25-10-24 01:01:10.891] 76561198333912692 "charlie" floor -1 10260,12290,0 [Base.CannedCornedBeef].
+[25-10-24 01:01:39.627] 76561198333912692 "charlie" container +0 10287,12311,0 [Base.Saucepan, Moveables.furniture_seating_outdoor_01_19].
+[25-10-24 01:01:40.668] 76561198333912692 "charlie" floor +1 10290,12311,0 [Base.BeerCanEmpty].
+[25-10-24 01:01:40.669] 76561198333912692 "charlie" floor +1 10290,12311,0 [Base.BeerCanEmpty].
+[25-10-24 01:01:42.620] 76561198333912692 "charlie" container +0 10287,12311,0 [camping.CampfireKit].
+[25-10-24 01:01:54.298] 76561198333912692 "charlie" floor +1 10290,12311,0 [Base.Bag_MedicalBag].
+[25-10-24 01:01:54.615] 76561198333912692 "charlie" container -1 10287,12311,0 [Base.Bag_MedicalBag].
+[25-10-24 01:01:59.292] 76561198333912692 "charlie" floor +1 10290,12311,0 [Base.Cooler].
+[25-10-24 01:02:09.619] 76561198333912692 "charlie" container -2 10290,12311,0 [Base.DriedSplitPeas, Base.DriedKidneyBeans].
+[25-10-24 01:02:09.620] 76561198333912692 "charlie" container +0 10290,12311,0 [Base.DriedSplitPeas, Base.DriedKidneyBeans].
+[25-10-24 01:02:12.625] 76561198333912692 "charlie" container -1 10290,12311,0 [Base.DriedChickpeas].
+[25-10-24 01:02:12.625] 76561198333912692 "charlie" container +0 10290,12311,0 [Base.DriedChickpeas].
+[25-10-24 01:02:15.617] 76561198333912692 "charlie" container -2 10290,12311,0 [Base.HandTorch, Base.DriedChickpeas].
+[25-10-24 01:02:15.617] 76561198333912692 "charlie" container +0 10290,12311,0 [Base.DriedChickpeas].
+[25-10-24 01:02:18.624] 76561198333912692 "charlie" container +0 10290,12311,0 [Base.BeerCan].
+[25-10-24 01:02:21.628] 76561198333912692 "charlie" container +0 10290,12311,0 [Base.CannedCornedBeef, Base.Pop].
+[25-10-24 01:02:23.075] 76561198430296167 "DonDiego" container -1 8168,11262,0 [Base.Bag_SurvivorBag].
+[25-10-24 01:02:24.621] 76561198333912692 "charlie" container +0 10287,12311,0 [Base.Bag_BigHikingBag].
+[25-10-24 01:02:25.102] 76561198430296167 "DonDiego" floor +1 8170,11262,0 [Base.Bag_BigHikingBag].
+[25-10-24 01:02:26.073] 76561198430296167 "DonDiego" container -1 8168,11262,0 [Base.Bag_BigHikingBag].
+[25-10-24 01:02:28.964] 76561198333912692 "charlie" floor -1 10290,12311,0 [Base.Cooler].
+[25-10-24 01:02:31.793] 76561198333912692 "charlie" floor -1 10290,12311,0 [Base.Bag_MedicalBag].
+[25-10-24 01:02:32.817] 76561198333912692 "charlie" container +0 10287,12311,0 [Base.Bag_MedicalBag].
+[25-10-24 01:02:35.085] 76561198430296167 "DonDiego" container -1 8168,11262,0 [Base.Gloves_LeatherGloves].
+[25-10-24 01:02:38.085] 76561198430296167 "DonDiego" container -2 8168,11262,0 [Base.CarKey].
+[25-10-24 01:02:44.077] 76561198430296167 "DonDiego" container -1 8168,11262,0 [Base.JacketLong_Random].
+[25-10-24 01:02:56.071] 76561198430296167 "DonDiego" container -1 8168,11262,0 [Base.GardenHoe].
+[25-10-24 01:02:59.074] 76561198430296167 "DonDiego" container -2 8168,11262,0 [Base.GardenHoe].
+[25-10-24 01:03:02.081] 76561198430296167 "DonDiego" container -1 8168,11262,0 [Base.GardenHoe].
+[25-10-24 01:03:05.077] 76561198430296167 "DonDiego" container -2 8168,11262,0 [Base.Pills, Base.MetalBar].
+[25-10-24 01:03:11.228] 76561198430296167 "DonDiego" container -1 8170,11262,0 [Base.WhiskeyWaterFull].
+[25-10-24 01:03:14.074] 76561198430296167 "DonDiego" container -65 8170,11262,0 [Base.Cigarettes, Base.DuctTape].
+[25-10-24 01:03:17.073] 76561198430296167 "DonDiego" container -2 8170,11262,0 [Base.DuctTape].
+[25-10-24 01:03:20.079] 76561198430296167 "DonDiego" container -1 8170,11262,0 [Base.HandAxe].
+[25-10-24 01:03:26.082] 76561198430296167 "DonDiego" container -1 8170,11262,0 [Base.MetalPipe].
+[25-10-24 01:03:32.076] 76561198430296167 "DonDiego" container -2 8170,11262,0 [Base.TinOpener, Base.Axe].
+[25-10-24 01:03:38.074] 76561198430296167 "DonDiego" container -2 8170,11262,0 [Base.Saw, Base.Screwdriver].
+[25-10-24 01:03:44.072] 76561198430296167 "DonDiego" container -3 8170,11262,0 [Base.Matches, Base.Lighter].
+[25-10-24 01:03:56.071] 76561198430296167 "DonDiego" container -2 8168,11262,0 [Base.Key1, Base.Key3].
+[25-10-24 01:03:57.623] 76561198333912692 "charlie" container -1 10367,12398,0 [Base.MarchRidgeMap].
+[25-10-24 01:04:05.072] 76561198430296167 "DonDiego" container -2 8168,11262,0 [Base.WoodenStick].
+[25-10-24 01:04:14.079] 76561198430296167 "DonDiego" container +0 8168,11262,0 [Base.WoodenStick].
+[25-10-24 01:04:17.079] 76561198430296167 "DonDiego" container -1 8168,11262,0 [Base.Bandage].
+[25-10-24 01:04:17.080] 76561198430296167 "DonDiego" container +0 8168,11262,0 [Base.WoodenStick].
+[25-10-24 01:04:20.074] 76561198430296167 "DonDiego" container -1 8168,11262,0 [Base.WristWatch_Left_DigitalDress].
+[25-10-24 01:04:23.073] 76561198430296167 "DonDiego" container -1 8168,11262,0 [Base.PopBottle].
+[25-10-24 01:04:26.080] 76561198430296167 "DonDiego" container -1 8168,11262,0 [Base.PillsBeta].
+[25-10-24 01:04:44.082] 76561198430296167 "DonDiego" container -1 8168,11262,0 [Base.HandAxe].
+[25-10-24 01:05:13.057] 76561198430296167 "DonDiego" floor -1 8170,11262,0 [Base.Bag_BigHikingBag].
+[25-10-24 01:05:14.076] 76561198430296167 "DonDiego" container +0 8168,11262,0 [Base.Bag_BigHikingBag].
+[25-10-24 01:05:35.080] 76561198430296167 "DonDiego" container -5 8168,11256,0 [Base.WestpointMap, Base.RiversideMap, Base.LouisvilleMap4, Base.LouisvilleMap1].
+[25-10-24 01:05:44.080] 76561198430296167 "DonDiego" container +0 8168,11256,0 [Base.WestpointMap, Base.LouisvilleMap6, Base.RiversideMap, Base.LouisvilleMap4, Base.LouisvilleMap1].
+[25-10-24 01:05:47.076] 76561198430296167 "DonDiego" container -1 8168,11256,0 [Base.LouisvilleMap6].
+[25-10-24 01:05:56.080] 76561198430296167 "DonDiego" container -1 8168,11256,0 [Base.LouisvilleMap4].
+[25-10-24 01:06:08.074] 76561198430296167 "DonDiego" container -1 8168,11256,0 [Base.LouisvilleMap1].
+[25-10-24 01:06:14.082] 76561198430296167 "DonDiego" container -1 8168,11256,0 [Base.RiversideMap].
+[25-10-24 01:06:29.074] 76561198430296167 "DonDiego" container -1 8168,11256,0 [Base.WestpointMap].
+[25-10-24 01:06:41.085] 76561198430296167 "DonDiego" container -1 8168,11256,0 [Base.WestpointMap].
+[25-10-24 01:06:50.100] 76561198430296167 "DonDiego" container +0 8168,11256,0 [Base.WestpointMap, Base.LouisvilleMap6, Base.RiversideMap, Base.LouisvilleMap4, Base.LouisvilleMap1].
+[25-10-24 01:07:18.420] 76561198333912692 "charlie" floor +1 10369,12670,0 [Base.Glasses_Sun].
+[25-10-24 01:07:28.089] 76561198430296167 "DonDiego" floor +1 8170,11256,0 [Base.Bag_WorkerBag].
+[25-10-24 01:07:29.082] 76561198430296167 "DonDiego" container -1 8168,11256,0 [Base.Bag_WorkerBag].
+[25-10-24 01:07:38.077] 76561198430296167 "DonDiego" container -6 8168,11256,0 [Base.WestpointMap, Base.LouisvilleMap6, Base.RiversideMap, Base.LouisvilleMap4, Base.LouisvilleMap1].
+[25-10-24 01:07:38.078] 76561198430296167 "DonDiego" container +0 8170,11256,0 [Base.WestpointMap, Base.LouisvilleMap6, Base.RiversideMap, Base.LouisvilleMap4, Base.LouisvilleMap1].
+[25-10-24 01:07:44.076] 76561198430296167 "DonDiego" container -2 8168,11256,0 [Base.CameraFilm, Base.Earbuds].
+[25-10-24 01:07:44.077] 76561198430296167 "DonDiego" container +0 8170,11256,0 [Base.CameraFilm, Base.Earbuds].
+[25-10-24 01:07:47.082] 76561198430296167 "DonDiego" container -5 8168,11256,0 [Base.CameraDisposable, Base.Camera].
+[25-10-24 01:07:47.082] 76561198430296167 "DonDiego" container +0 8170,11256,0 [Base.CameraDisposable, Base.Camera].
+[25-10-24 01:07:50.083] 76561198430296167 "DonDiego" container -3 8168,11256,0 [Base.EmptySandbag, Base.WristWatch_Left_DigitalDress].
+[25-10-24 01:07:50.083] 76561198430296167 "DonDiego" container +0 8170,11256,0 [Base.EmptySandbag, Base.WristWatch_Left_DigitalDress].
+[25-10-24 01:07:53.087] 76561198430296167 "DonDiego" container -2 8168,11256,0 [Base.HandFork].
+[25-10-24 01:07:53.088] 76561198430296167 "DonDiego" container +0 8170,11256,0 [Base.HandFork].
+[25-10-24 01:07:56.085] 76561198430296167 "DonDiego" container -2 8168,11256,0 [Radio.WalkieTalkie3, Base.HandFork].
+[25-10-24 01:07:56.085] 76561198430296167 "DonDiego" container +0 8170,11256,0 [Radio.WalkieTalkie3, Base.HandFork].
+[25-10-24 01:07:58.559] 76561198430296167 "DonDiego" floor -1 8170,11256,0 [Base.Bag_WorkerBag].
+[25-10-24 01:08:06.635] 76561198333912692 "charlie" container -1 10377,12681,0 [Base.LouisvilleMap9].
+[25-10-24 01:08:09.630] 76561198333912692 "charlie" container -1 10377,12681,0 [Base.MarchRidgeMap].
+[25-10-24 01:08:14.085] 76561198430296167 "DonDiego" container +0 8168,11262,0 [Base.Bag_WorkerBag].
+[25-10-24 01:08:26.081] 76561198430296167 "DonDiego" container -2 8168,11262,0 [Base.Antibiotics, Base.PillsAntiDep].
+[25-10-24 01:08:51.161] 76561198333912692 "charlie" floor +1 10438,12687,0 [Base.Glasses_Normal].
+[25-10-24 01:09:31.911] 76561198333912692 "charlie" container -1 10448,12680,0 [Base.PillsBeta].
+[25-10-24 01:09:38.939] 76561198430296167 "DonDiego" floor +1 8108,11401,0 [Base.Glasses_Normal].
+[25-10-24 01:10:44.142] 76561198430296167 "DonDiego" floor +1 8112,11391,0 [Base.Glasses_Reading].
+[25-10-24 01:11:38.936] 76561198333912692 "charlie" floor +1 10450,12660,0 [Base.Glasses_Reading].
+[25-10-24 01:11:40.873] 76561198333912692 "charlie" floor +1 10450,12662,0 [Base.Glasses_Normal].
+[25-10-24 01:11:44.651] 76561198333912692 "charlie" floor +1 10450,12663,0 [Base.Glasses_Reading].
+[25-10-24 01:11:50.086] 76561198430296167 "DonDiego" container -1 8122,11320,0 [Base.Vest_BulletPolice].
+[25-10-24 01:11:50.393] 76561198333912692 "charlie" floor +1 10450,12663,0 [Base.Hat_BaseballCapKY].
+[25-10-24 01:11:53.215] 76561198333912692 "charlie" floor +1 10387,12694,0 [Base.UnusableWood].
+[25-10-24 01:11:53.216] 76561198333912692 "charlie" floor +1 10387,12694,0 [Base.Doorknob].
+[25-10-24 01:11:53.217] 76561198333912692 "charlie" floor +1 10387,12694,0 [Base.Hinge].
+[25-10-24 01:12:35.287] 76561198333912692 "charlie" floor +1 10409,12699,0 [Base.UnusableWood].
+[25-10-24 01:12:35.289] 76561198333912692 "charlie" floor +1 10409,12699,0 [Base.Doorknob].
+[25-10-24 01:12:35.289] 76561198333912692 "charlie" floor +1 10409,12699,0 [Base.Hinge].
+[25-10-24 01:12:35.290] 76561198333912692 "charlie" floor +1 10409,12699,0 [Base.Hinge].
+[25-10-24 01:12:55.842] 76561198333912692 "charlie" floor +1 10499,12682,0 [Base.Cooler].
+[25-10-24 01:13:03.630] 76561198333912692 "charlie" container -1 10499,12682,0 [Base.DriedKidneyBeans].
+[25-10-24 01:13:11.545] 76561198333912692 "charlie" floor -1 10499,12682,0 [Base.Cooler].
+[25-10-24 01:13:38.189] 76561198333912692 "charlie" floor +1 10450,12662,0 [Base.UnusableWood].
+[25-10-24 01:13:38.190] 76561198333912692 "charlie" floor +1 10450,12662,0 [Base.Doorknob].
+[25-10-24 01:14:55.683] 76561198430296167 "DonDiego" floor +1 8070,11536,0 [Base.Hat_FastFood].
+[25-10-24 01:15:00.659] 76561198333912692 "charlie" container -1 10494,12765,0 [Base.Butter].
+[25-10-24 01:15:10.506] 76561198333912692 "charlie" floor -1 10490,12758,0 [Base.PillsAntiDep].
+[25-10-24 01:15:23.084] 76561198430296167 "DonDiego" container -3 8070,11541,0 [Base.DuctTape].
+[25-10-24 01:15:26.084] 76561198430296167 "DonDiego" container -1 8070,11541,0 [Base.GardenHoe].
+[25-10-24 01:15:29.095] 76561198430296167 "DonDiego" container -1 8070,11541,0 [Base.Axe].
+[25-10-24 01:15:32.093] 76561198430296167 "DonDiego" container -1 8070,11541,0 [Base.Axe].
+[25-10-24 01:15:39.639] 76561198333912692 "charlie" container -1 10493,12761,1 [Base.HuntingMag2].
+[25-10-24 01:15:47.085] 76561198430296167 "DonDiego" container -1 8070,11541,0 [Base.Axe].
+[25-10-24 01:15:48.649] 76561198333912692 "charlie" container -1 10494,12761,1 [Base.BluePen].
+[25-10-24 01:15:48.650] 76561198333912692 "charlie" container +0 10494,12761,1 [Base.HuntingMag2].
+[25-10-24 01:15:50.085] 76561198430296167 "DonDiego" container -2 8070,11541,0 [Base.HandAxe, Base.Axe].
+[25-10-24 01:15:51.634] 76561198333912692 "charlie" container +0 10494,12761,1 [Base.BookForaging1].
+[25-10-24 01:15:53.080] 76561198430296167 "DonDiego" container -1 8070,11541,0 [Base.HandAxe].
+[25-10-24 01:16:03.629] 76561198333912692 "charlie" container +0 10494,12761,1 [Base.MarchRidgeMap].
+[25-10-24 01:16:11.083] 76561198430296167 "DonDiego" container +0 8070,11550,0 [Base.Axe].
+[25-10-24 01:16:20.084] 76561198430296167 "DonDiego" container +0 8070,11550,0 [Base.Axe].
+[25-10-24 01:16:26.083] 76561198430296167 "DonDiego" container +0 8070,11550,0 [Base.Axe].
+[25-10-24 01:16:35.083] 76561198430296167 "DonDiego" container +0 8070,11550,0 [Base.Axe].
+[25-10-24 01:16:41.087] 76561198430296167 "DonDiego" container +0 8070,11550,0 [Base.HandAxe].
+[25-10-24 01:16:47.093] 76561198430296167 "DonDiego" container +0 8070,11550,0 [Base.HandAxe].
+[25-10-24 01:16:53.099] 76561198430296167 "DonDiego" container -1 8070,11541,0 [Base.Shovel].
+[25-10-24 01:16:56.078] 76561198430296167 "DonDiego" container -1 8070,11541,0 [Base.Shovel].
+[25-10-24 01:16:59.080] 76561198430296167 "DonDiego" container -2 8070,11541,0 [Base.HandAxe].
+[25-10-24 01:17:02.075] 76561198430296167 "DonDiego" container -4 8070,11541,0 [Base.Woodglue, Base.HandAxe].
+[25-10-24 01:17:26.081] 76561198430296167 "DonDiego" container +0 8070,11550,0 [Base.HandAxe].
+[25-10-24 01:17:29.082] 76561198430296167 "DonDiego" container +0 8070,11550,0 [Base.HandAxe].
+[25-10-24 01:17:35.090] 76561198430296167 "DonDiego" container +0 8070,11550,0 [Base.HandAxe].
+[25-10-24 01:17:36.341] 76561198333912692 "charlie" floor +1 10497,12766,0 [Base.Hat_BandanaMaskTINT].
+[25-10-24 01:18:04.618] 76561198333912692 "charlie" floor +1 10500,12766,0 [Base.Glasses_Normal].
+[25-10-24 01:18:08.609] 76561198333912692 "charlie" floor +1 10502,12766,0 [Base.Hat_BaseballCapKY].
+[25-10-24 01:18:35.084] 76561198430296167 "DonDiego" container -1 8070,11541,0 [Base.Sledgehammer2].
+[25-10-24 01:18:53.100] 76561198430296167 "DonDiego" container +0 8069,11546,0 [Base.Sledgehammer2].
+[25-10-24 01:19:17.063] 76561198333912692 "charlie" floor -1 10482,12764,0 [Base.CannedCarrots2].
+[25-10-24 01:19:23.199] 76561198430296167 "DonDiego" floor +1 8084,11593,0 [Base.Doorknob].
+[25-10-24 01:19:23.201] 76561198430296167 "DonDiego" floor +1 8084,11593,0 [Base.Hinge].
+[25-10-24 01:19:23.202] 76561198430296167 "DonDiego" floor +1 8084,11593,0 [Base.Hinge].
+[25-10-24 01:19:27.331] 76561198333912692 "charlie" container -1 10478,12758,0 [Base.PillsBeta].
+[25-10-24 01:20:09.638] 76561198333912692 "charlie" container -1 10479,12765,1 [Base.Disinfectant].
+[25-10-24 01:20:42.647] 76561198333912692 "charlie" container -1 10483,12765,0 [Base.Onion].
+[25-10-24 01:20:48.649] 76561198333912692 "charlie" container -1 10483,12765,0 [Base.EggCarton].
+[25-10-24 01:21:39.655] 76561198333912692 "charlie" container -1 10484,12761,1 [Base.Book].
+[25-10-24 01:21:39.656] 76561198333912692 "charlie" container -1 10483,12761,1 [Base.Book].
+[25-10-24 01:23:27.649] 76561198333912692 "charlie" container -1 10471,12759,0 [Base.BookCarpentry2].
+[25-10-24 01:23:41.675] 76561198333912692 "charlie" floor -1 10471,12762,0 [Base.CannedPotato2].
+[25-10-24 01:23:42.106] 76561198333912692 "charlie" floor -1 10471,12762,0 [Base.CannedSardines].
+[25-10-24 01:23:42.537] 76561198333912692 "charlie" floor -1 10471,12762,0 [Base.CannedCarrots2].
+[25-10-24 01:23:57.636] 76561198333912692 "charlie" container -1 10474,12758,0 [Base.Key4].
+[25-10-24 01:24:18.645] 76561198333912692 "charlie" container -1 10476,12762,1 [Base.Rope].
+[25-10-24 01:24:42.652] 76561198333912692 "charlie" container -1 10476,12762,1 [Base.Gloves_LeatherGlovesBlack].
+[25-10-24 01:24:42.653] 76561198333912692 "charlie" container +0 10476,12762,1 [Base.Gloves_LeatherGloves].
+[25-10-24 01:24:57.640] 76561198333912692 "charlie" container -1 10474,12765,1 [Base.Pills].
+[25-10-24 01:25:18.652] 76561198333912692 "charlie" container -1 10472,12761,1 [Base.Book].
+[25-10-24 01:27:44.089] 76561198333912692 "charlie" floor +1 10475,12763,1 [Base.Cooler].
+[25-10-24 01:27:51.644] 76561198333912692 "charlie" container +0 10475,12763,1 [Base.CannedSardines, Base.Butter, Base.CannedPotato2].
+[25-10-24 01:27:57.653] 76561198333912692 "charlie" container -1 10475,12763,1 [Base.CannedCornedBeef].
+[25-10-24 01:28:00.655] 76561198333912692 "charlie" container +0 10475,12763,1 [Base.CannedCornedBeef].
+[25-10-24 01:28:12.640] 76561198333912692 "charlie" container -2 10475,12763,1 [Base.Pop].
+[25-10-24 01:28:15.642] 76561198333912692 "charlie" container +0 10475,12763,1 [Base.EggCarton].
+[25-10-24 01:28:17.120] 76561198333912692 "charlie" floor -1 10475,12763,1 [Base.Cooler].
+[25-10-24 01:28:42.050] 76561198333912692 "charlie" floor -1 10470,12756,0 [Base.Crisps2].
+[25-10-24 01:28:45.245] 76561198333912692 "charlie" floor -1 10470,12756,0 [Base.Cigarettes].
+[25-10-24 01:28:45.250] 76561198333912692 "charlie" floor -1 10470,12756,0 [Base.Cigarettes].
+[25-10-24 01:28:46.204] 76561198333912692 "charlie" floor -1 10470,12756,0 [Base.BeerCan].
+[25-10-24 01:28:47.272] 76561198333912692 "charlie" floor -1 10470,12756,0 [Base.BeerBottle].
+[25-10-24 01:28:54.651] 76561198333912692 "charlie" container -1 10470,12761,0 [Base.BookFishing2].
+[25-10-24 01:28:57.657] 76561198333912692 "charlie" container -1 10470,12761,0 [Base.BookForaging2].
+[25-10-24 01:29:03.175] 76561198333912692 "charlie" floor -1 10466,12758,0 [Base.PillsBeta].
+[25-10-24 01:29:17.986] 76561198430296167 "DonDiego" floor +1 10365,12642,0 [Base.Glasses_Normal].
+[25-10-24 01:29:25.458] 76561198430296167 "DonDiego" floor +1 10370,12632,0 [Base.Hat_Cowboy].
+[25-10-24 01:29:31.065] 76561198430296167 "DonDiego" floor +1 10369,12624,0 [Base.Glasses_Normal].
+[25-10-24 01:29:57.065] 76561198333912692 "charlie" floor -1 10467,12765,1 [Base.PillsAntiDep].
+[25-10-24 01:30:09.548] 76561198430296167 "DonDiego" floor +1 10367,12586,0 [Base.Glasses_Normal].
+[25-10-24 01:30:33.248] 76561198333912692 "charlie" floor -1 10460,12762,0 [Base.PotOfStew].
+[25-10-24 01:30:39.657] 76561198333912692 "charlie" container +0 10461,12762,0 [Base.BeerCan, Base.Crisps2, Base.Pop].
+[25-10-24 01:30:42.648] 76561198333912692 "charlie" container +0 10461,12762,0 [Base.CannedCarrots2].
+[25-10-24 01:30:51.655] 76561198333912692 "charlie" container +0 10459,12762,0 [Base.Disinfectant, Base.Pills, Base.PillsAntiDep].
+[25-10-24 01:30:54.662] 76561198333912692 "charlie" container +0 10459,12762,0 [Base.PillsBeta].
+[25-10-24 01:30:57.654] 76561198333912692 "charlie" container +0 10459,12762,0 [Base.PillsBeta].
+[25-10-24 01:30:58.581] 76561198430296167 "DonDiego" floor +1 10362,12608,0 [Base.Hat_BaseballCap].
+[25-10-24 01:31:00.665] 76561198333912692 "charlie" container +0 10461,12762,0 [Base.BeerBottle].
+[25-10-24 01:31:05.540] 76561198333912692 "charlie" floor -1 10459,12762,0 [Base.Cereal].
+[25-10-24 01:31:07.166] 76561198333912692 "charlie" floor -1 10459,12762,0 [Base.CannedCorn].
+[25-10-24 01:31:08.442] 76561198333912692 "charlie" floor -1 10459,12762,0 [Base.CannedSardines].
+[25-10-24 01:31:09.461] 76561198333912692 "charlie" floor -1 10459,12763,0 [Base.Soap2].
+[25-10-24 01:31:21.656] 76561198333912692 "charlie" container +0 10461,12762,0 [Base.CannedCorn, Base.CannedSardines, Base.Cereal].
+[25-10-24 01:31:32.501] 76561198430296167 "DonDiego" floor +1 10360,12633,0 [Base.Hat_BaseballCap].
+[25-10-24 01:31:51.665] 76561198333912692 "charlie" container -2 10464,12762,1 [Base.HandTorch].
+[25-10-24 01:31:57.665] 76561198333912692 "charlie" container -1 10459,12761,1 [Base.Book].
+[25-10-24 01:32:12.656] 76561198333912692 "charlie" container -1 10462,12765,1 [Base.Antibiotics].
+[25-10-24 01:33:40.593] 76561198430296167 "DonDiego" floor -1 10377,12645,0 [Base.Cigarettes].
+[25-10-24 01:33:40.594] 76561198430296167 "DonDiego" floor -1 10377,12645,0 [Base.Cigarettes].
+[25-10-24 01:33:51.651] 76561198333912692 "charlie" floor -1 10464,12721,0 [Base.Crisps].
+[25-10-24 01:33:52.564] 76561198333912692 "charlie" floor -1 10464,12721,0 [Base.BeerCan].
+[25-10-24 01:33:52.713] 76561198333912692 "charlie" floor -1 10464,12721,0 [Base.BeerCan].
+[25-10-24 01:33:53.407] 76561198333912692 "charlie" floor -1 10464,12721,0 [Base.BeerBottle].
+[25-10-24 01:33:54.505] 76561198333912692 "charlie" floor -1 10464,12721,0 [Base.Cigarettes].
+[25-10-24 01:33:54.509] 76561198333912692 "charlie" floor -1 10464,12721,0 [Base.Cigarettes].
+[25-10-24 01:34:12.911] 76561198333912692 "charlie" floor -1 10463,12724,0 [Base.Soap2].
+[25-10-24 01:34:37.310] 76561198430296167 "DonDiego" floor +1 10380,12735,0 [Base.Glasses_Normal].
+[25-10-24 01:34:46.840] 76561198333912692 "charlie" floor -1 10453,12726,0 [Base.PeanutButter].
+[25-10-24 01:34:47.900] 76561198333912692 "charlie" floor -1 10453,12726,0 [Base.JamFruit].
+[25-10-24 01:35:06.290] 76561198333912692 "charlie" floor -1 10455,12722,0 [Base.CannedChili].
+[25-10-24 01:35:12.647] 76561198333912692 "charlie" container -1 10453,12719,0 [Base.JuiceBox].
+[25-10-24 01:36:15.666] 76561198333912692 "charlie" container -1 10454,12764,0 [Base.BeefJerky].
+[25-10-24 01:36:21.360] 76561198333912692 "charlie" floor -1 10454,12762,0 [Base.WaterBottleFull].
+[25-10-24 01:36:51.796] 76561198430296167 "DonDiego" floor +1 10399,12749,0 [Base.Hat_BaseballCap].
+[25-10-24 01:36:54.653] 76561198333912692 "charlie" container -1 10453,12761,1 [Base.BookFarming1].
+[25-10-24 01:37:00.589] 76561198430296167 "DonDiego" floor +1 10398,12747,0 [Base.Hat_BaseballCap].
+[25-10-24 01:37:05.455] 76561198430296167 "DonDiego" floor +1 10376,12726,0 [Base.UnusableWood].
+[25-10-24 01:37:05.456] 76561198430296167 "DonDiego" floor +1 10376,12726,0 [Base.Doorknob].
+[25-10-24 01:37:05.457] 76561198430296167 "DonDiego" floor +1 10376,12726,0 [Base.Hinge].
+[25-10-24 01:37:30.649] 76561198333912692 "charlie" container +0 10461,12762,0 [Base.Crisps, Base.JamFruit, Base.PeanutButter, Base.BeefJerky].
+[25-10-24 01:37:33.663] 76561198333912692 "charlie" container +0 10461,12762,0 [Base.JuiceBox, Base.BeerCan].
+[25-10-24 01:37:39.666] 76561198333912692 "charlie" container +0 10459,12762,0 [Base.Antibiotics].
+[25-10-24 01:37:42.651] 76561198333912692 "charlie" container +0 10459,12762,0 [Base.Cigarettes].
+[25-10-24 01:37:45.653] 76561198333912692 "charlie" container +0 10459,12762,0 [Base.HandTorch].
+[25-10-24 01:37:48.658] 76561198333912692 "charlie" container +0 10459,12762,0 [Base.Rope].
+[25-10-24 01:37:54.651] 76561198333912692 "charlie" container +0 10459,12762,0 [Base.PillsAntiDep].
+[25-10-24 01:37:59.859] 76561198333912692 "charlie" floor +1 10460,12762,0 [Base.Pot].
+[25-10-24 01:38:03.654] 76561198333912692 "charlie" container +0 10461,12762,0 [Base.CannedChili].
+[25-10-24 01:38:22.287] 76561198430296167 "DonDiego" floor +1 10366,12703,0 [Base.Hat_BandanaTINT].
+[25-10-24 01:38:44.757] 76561198430296167 "DonDiego" floor +1 10369,12706,0 [Base.Hat_BaseballCapKY].
+[25-10-24 01:40:29.862] 76561198430296167 "DonDiego" floor +1 10400,12745,0 [Base.Hat_BaseballCap].
+[25-10-24 01:40:29.863] 76561198430296167 "DonDiego" floor +1 10400,12745,0 [Base.Glasses_Reading].
+[25-10-24 01:42:53.110] 76561198430296167 "DonDiego" container -1 10459,12762,0 [Base.HandTorch].
+[25-10-24 01:42:56.108] 76561198430296167 "DonDiego" container -4 10459,12762,0 [Base.Cigarettes].
+[25-10-24 01:43:08.109] 76561198430296167 "DonDiego" container -1 10461,12762,0 [Base.CannedCarrots2].
+[25-10-24 01:43:14.109] 76561198430296167 "DonDiego" container -1 10461,12762,0 [Base.CannedCarrots2].
+[25-10-24 01:43:41.112] 76561198430296167 "DonDiego" container -1 10461,12762,0 [Base.CannedCorn].
+[25-10-24 01:45:12.597] 76561198333912692 "charlie" floor +1 10463,12764,1 [Base.BookFarming1].
+[25-10-24 01:45:15.848] 76561198430296167 "DonDiego" floor -1 10463,12764,1 [Base.BookFarming1].
+[25-10-24 01:51:21.025] 76561198333912692 "charlie" floor +1 10463,12764,1 [Base.Cooler].
+[25-10-24 01:51:39.657] 76561198333912692 "charlie" container -1 10463,12764,1 [Base.EggCarton].
+[25-10-24 01:51:48.678] 76561198333912692 "charlie" container +0 10463,12764,1 [Base.Egg].
+[25-10-24 01:51:54.684] 76561198333912692 "charlie" container -1 10463,12764,1 [Base.CannedSardines].
+[25-10-24 01:51:54.685] 76561198333912692 "charlie" container +0 10463,12764,1 [Base.Egg].
+[25-10-24 01:52:04.321] 76561198333912692 "charlie" floor -1 10463,12764,1 [Base.Cooler].
+[25-10-24 01:52:05.992] 76561198430296167 "DonDiego" floor +1 10463,12765,1 [Base.BookFarming1].
+[25-10-24 01:52:14.056] 76561198333912692 "charlie" floor -1 10463,12765,1 [Base.BookFarming1].
+[25-10-24 01:56:47.598] 76561198333912692 "charlie" floor +1 10462,12764,1 [Base.Jacket_Varsity].
+[25-10-24 01:56:55.833] 76561198430296167 "DonDiego" floor +1 10399,12742,0 [Base.Glasses_Reading].
+[25-10-24 01:57:24.662] 76561198333912692 "charlie" container +0 10459,12763,0 [Base.LouisvilleMap9, Base.BookCarpentry2].
+[25-10-24 01:57:30.679] 76561198333912692 "charlie" container +0 10459,12763,0 [Base.BookFishing2, Base.BookForaging2].
+[25-10-24 01:58:21.141] 76561198333912692 "charlie" floor +1 10452,12745,0 [Base.Shovel].
+[25-10-24 01:59:39.676] 76561198333912692 "charlie" container -1 10432,12738,0 [Base.HerbalistMag].
+[25-10-24 02:00:28.866] 76561198430296167 "DonDiego" floor +1 10409,12746,0 [Base.Glasses_Normal].
+[25-10-24 02:00:39.690] 76561198333912692 "charlie" floor +1 10417,12738,0 [Base.Hat_Beret].
+[25-10-24 02:00:48.138] 76561198333912692 "charlie" floor -1 10417,12738,0 [Base.Hat_Beret].
+[25-10-24 02:00:50.248] 76561198333912692 "charlie" floor +1 10417,12737,0 [Base.Hat_Beret].
+[25-10-24 02:01:00.487] 76561198333912692 "charlie" container -1 10420,12730,0 [Base.Bag_BigHikingBag].
+[25-10-24 02:01:18.682] 76561198333912692 "charlie" container -2 10423,12728,0 [Base.DriedSplitPeas, Base.DriedWhiteBeans].
+[25-10-24 02:01:56.130] 76561198430296167 "DonDiego" container -1 10402,12720,0 [Base.MapleSyrup].
+[25-10-24 02:02:06.680] 76561198333912692 "charlie" container -1 10406,12730,0 [Base.Book].
+[25-10-24 02:02:35.426] 76561198333912692 "charlie" floor +1 10408,12722,0 [Base.Hat_BaseballCap].
+[25-10-24 02:02:48.679] 76561198333912692 "charlie" container -1 10408,12722,0 [Base.Bag_SurvivorBag].
+[25-10-24 02:03:26.125] 76561198430296167 "DonDiego" container -1 10400,12730,0 [Base.HandAxe].
+[25-10-24 02:03:31.073] 76561198430296167 "DonDiego" container -1 10400,12730,0 [Base.PickAxe].
+[25-10-24 02:04:05.122] 76561198430296167 "DonDiego" container -1 10405,12766,0 [Base.PropaneTank].
+[25-10-24 02:04:06.223] 76561198333912692 "charlie" floor +1 10410,12752,0 [Base.Glasses_Normal].
+[25-10-24 02:04:20.121] 76561198430296167 "DonDiego" container +0 10415,12745,0 [Base.PropaneTank].
+[25-10-24 02:04:45.683] 76561198333912692 "charlie" container -1 10415,12745,0 [Base.Sledgehammer2].
+[25-10-24 02:05:40.363] 76561198430296167 "DonDiego" floor +1 10430,12753,0 [Base.Hat_Cowboy].
+[25-10-24 02:06:35.146] 76561198430296167 "DonDiego" container -1 10429,12760,1 [Base.Gloves_LeatherGlovesBlack].
+[25-10-24 02:06:47.127] 76561198430296167 "DonDiego" container -1 10430,12761,1 [Base.MetalworkMag2].
+[25-10-24 02:07:08.131] 76561198430296167 "DonDiego" container -1 10425,12762,1 [Base.Bag_FannyPackFront].
+[25-10-24 02:07:33.519] 76561198430296167 "DonDiego" floor +1 10433,12770,0 [Base.Hat_Cowboy].
+[25-10-24 02:07:55.093] 76561198430296167 "DonDiego" floor +1 10433,12771,0 [Base.Glasses_Normal].
+[25-10-24 02:08:15.275] 76561198430296167 "DonDiego" floor +1 10442,12777,0 [Base.Glasses_Normal].
+[25-10-24 02:08:20.610] 76561198430296167 "DonDiego" floor +1 10445,12777,0 [Base.Hat_BaseballCap].
+[25-10-24 02:08:48.693] 76561198333912692 "charlie" container -1 10437,12762,1 [Base.BaseballBat].
+[25-10-24 02:09:34.909] 76561198333912692 "charlie" floor -1 10431,12757,1 [Base.Jacket_WhiteTINT].
+[25-10-24 02:09:38.134] 76561198430296167 "DonDiego" container -1 10431,12759,0 [Base.VHS_Retail].
+[25-10-24 02:09:47.053] 76561198430296167 "DonDiego" container -1 10435,12758,0 [Base.Disinfectant].
+[25-10-24 02:09:56.125] 76561198430296167 "DonDiego" container -1 10433,12762,0 [Base.WhiskeyFull].
+[25-10-24 02:11:34.524] 76561198430296167 "DonDiego" floor +1 10371,12739,0 [Base.Glasses_Normal].
+[25-10-24 02:12:09.080] 76561198430296167 "DonDiego" floor +1 10358,12731,0 [Base.Glasses_Reading].
+[25-10-24 02:12:15.682] 76561198333912692 "charlie" container -1 10379,12722,0 [Base.Crisps4].
+[25-10-24 02:12:36.684] 76561198333912692 "charlie" container -1 10387,12725,0 [Base.CookingMag2].
+[25-10-24 02:12:41.189] 76561198333912692 "charlie" floor -1 10378,12729,0 [Base.PeanutButter].
+[25-10-24 02:12:41.202] 76561198430296167 "DonDiego" floor +1 10362,12731,0 [Base.Glasses_Reading].
+[25-10-24 02:12:42.274] 76561198333912692 "charlie" floor -1 10378,12729,0 [Base.JamMarmalade].
+[25-10-24 02:13:12.693] 76561198333912692 "charlie" container +0 10367,12667,0 [Base.Sledgehammer2].
+[25-10-24 02:13:15.691] 76561198333912692 "charlie" container +0 10367,12667,0 [Base.BaseballBat, Base.CookingMag2, Base.JamMarmalade, Base.PeanutButter].
+[25-10-24 02:13:32.298] 76561198430296167 "DonDiego" floor +1 10373,12685,0 [Base.Hat_BaseballCapKY].
+[25-10-24 02:13:39.457] 76561198430296167 "DonDiego" floor +1 10372,12685,0 [Base.Glasses_Normal].
+[25-10-24 02:13:45.680] 76561198333912692 "charlie" container +0 10367,12667,0 [Base.HerbalistMag, Base.Soap2, Base.BluePen].
+[25-10-24 02:13:48.680] 76561198333912692 "charlie" container +0 10367,12667,0 [Base.BeerBottle, Base.Book, Base.Crisps4].
+[25-10-24 02:13:51.702] 76561198333912692 "charlie" container +0 10367,12667,0 [Base.BookFarming1, Base.CannedSardines, Base.DriedWhiteBeans].
+[25-10-24 02:13:54.691] 76561198333912692 "charlie" container +0 10367,12667,0 [Base.DriedSplitPeas].
+[25-10-24 02:13:57.701] 76561198333912692 "charlie" container +0 10367,12667,0 [Base.Bag_BigHikingBag].
+[25-10-24 02:14:00.700] 76561198333912692 "charlie" container +0 10367,12667,0 [Base.Bag_ALICEpack, Base.Bag_SurvivorBag].
+[25-10-24 02:14:06.687] 76561198333912692 "charlie" container +0 10367,12667,0 [Base.Cooler].
+[25-10-24 02:16:06.686] 76561198333912692 "charlie" container +0 10459,12762,0 [Base.PillsBeta].
+[25-10-24 02:16:42.699] 76561198333912692 "charlie" container -1 10461,12746,0 [Base.Sledgehammer2].
+[25-10-24 02:17:31.505] 76561198430296167 "DonDiego" floor -1 10494,12783,0 [Base.Cereal].
+[25-10-24 02:18:09.687] 76561198333912692 "charlie" container -1 10491,12791,1 [Base.Book].
+[25-10-24 02:20:02.401] 76561198430296167 "DonDiego" floor -1 10486,12787,0 [Base.Crisps4].
+[25-10-24 02:20:08.973] 76561198430296167 "DonDiego" floor -1 10486,12787,0 [Base.Cigarettes].
+[25-10-24 02:20:08.978] 76561198430296167 "DonDiego" floor -1 10486,12787,0 [Base.Cigarettes].
+[25-10-24 02:20:10.417] 76561198430296167 "DonDiego" floor -1 10486,12787,0 [Base.BeerEmpty].
+[25-10-24 02:20:13.815] 76561198430296167 "DonDiego" floor -1 10486,12787,0 [Base.BeerBottle].
+[25-10-24 02:20:30.756] 76561198333912692 "charlie" floor -1 10471,12791,1 [Base.HoodieDOWN_WhiteTINT].
+[25-10-24 02:20:36.706] 76561198333912692 "charlie" floor +1 10472,12792,1 [Base.Jacket_WhiteTINT].
+[25-10-24 02:21:20.139] 76561198430296167 "DonDiego" container -1 10482,12783,0 [Base.Pop2].
+[25-10-24 02:21:47.164] 76561198430296167 "DonDiego" container -1 10476,12783,0 [Base.Corkscrew].
+[25-10-24 02:21:51.312] 76561198430296167 "DonDiego" floor -1 10476,12783,0 [Base.TinOpener].
+[25-10-24 02:21:53.259] 76561198430296167 "DonDiego" floor -1 10476,12783,0 [Base.CannedCorn].
+[25-10-24 02:21:54.733] 76561198430296167 "DonDiego" floor -1 10476,12783,0 [Base.WaterBottleFull].
+[25-10-24 02:22:15.706] 76561198333912692 "charlie" container -1 10464,12787,1 [Base.Crowbar].
+[25-10-24 02:22:18.702] 76561198333912692 "charlie" container -1 10464,12787,1 [Base.Key3].
+[25-10-24 02:22:59.143] 76561198430296167 "DonDiego" container -1 10469,12783,0 [Base.Matches].
+[25-10-24 02:23:13.737] 76561198430296167 "DonDiego" floor -1 10459,12791,0 [Base.VideoGame].
+[25-10-24 02:23:42.693] 76561198333912692 "charlie" container -1 10459,12783,0 [Base.Ham].
+[25-10-24 02:23:59.417] 76561198333912692 "charlie" floor +1 10461,12785,0 [Base.Ham].
+[25-10-24 02:24:04.556] 76561198430296167 "DonDiego" floor -1 10461,12785,0 [Base.Ham].
+[25-10-24 02:26:13.177] 76561198430296167 "DonDiego" floor -1 10451,12783,0 [Base.Cereal].
+[25-10-24 02:26:14.923] 76561198430296167 "DonDiego" floor -1 10451,12783,0 [Base.CannedSardines].
+[25-10-24 02:26:20.144] 76561198430296167 "DonDiego" container -1 10451,12783,0 [Base.Popcorn].
+[25-10-24 02:26:35.147] 76561198430296167 "DonDiego" container -1 10454,12784,0 [farming.RemouladeFull].
+[25-10-24 02:27:32.148] 76561198430296167 "DonDiego" container -1 10443,12783,0 [Base.Ham].
+[25-10-24 02:27:48.714] 76561198333912692 "charlie" container -1 10437,12788,1 [Base.Rope].
+[25-10-24 02:28:13.565] 76561198333912692 "charlie" floor -1 10436,12789,1 [Base.Antibiotics].
+[25-10-24 02:28:23.142] 76561198430296167 "DonDiego" container -1 10442,12783,0 [Base.Chocolate].
+[25-10-24 02:28:53.146] 76561198430296167 "DonDiego" container -1 10436,12790,0 [Base.Antibiotics].
+[25-10-24 02:29:53.153] 76561198430296167 "DonDiego" container -1 10427,12783,0 [Base.Cereal].
+[25-10-24 02:29:54.691] 76561198333912692 "charlie" container -1 10424,12788,1 [Base.Key5].
+[25-10-24 02:30:15.706] 76561198333912692 "charlie" container -1 10422,12786,1 [Base.Machete].
+[25-10-24 02:30:24.708] 76561198333912692 "charlie" container -1 10424,12790,1 [Base.Antibiotics].
+[25-10-24 02:30:38.159] 76561198430296167 "DonDiego" container -1 10419,12783,0 [Base.Hotsauce].
+[25-10-24 02:32:09.640] 76561198430296167 "DonDiego" floor +1 10427,12836,0 [Base.Hat_BaseballCapKY].
+[25-10-24 02:32:23.052] 76561198430296167 "DonDiego" floor +1 10419,12840,0 [Base.Hat_BaseballCap].
+[25-10-24 02:33:07.782] 76561198430296167 "DonDiego" floor +1 10434,12838,0 [Base.Hat_BaseballCap].
+[25-10-24 02:33:11.162] 76561198333912692 "charlie" floor +1 10409,12804,0 [Base.Hat_BaseballCapKY_Reverse].
+[25-10-24 02:33:25.225] 76561198333912692 "charlie" floor +1 10387,12791,0 [Base.UnusableWood].
+[25-10-24 02:33:25.227] 76561198333912692 "charlie" floor +1 10387,12791,0 [Base.Doorknob].
+[25-10-24 02:33:36.120] 76561198333912692 "charlie" floor +1 10403,12799,0 [Base.Hat_BaseballCapKY].
+[25-10-24 02:33:42.372] 76561198333912692 "charlie" floor +1 10406,12797,0 [Base.Hat_Fedora].
+[25-10-24 02:33:45.354] 76561198333912692 "charlie" floor +1 10408,12795,0 [Base.Hat_BaseballCap].
+[25-10-24 02:34:14.260] 76561198430296167 "DonDiego" floor -1 10406,12797,0 [Base.Hat_Fedora].
+[25-10-24 02:34:28.235] 76561198333912692 "charlie" floor +1 10401,12810,0 [Base.HoodieDOWN_WhiteTINT].
+[25-10-24 02:34:30.559] 76561198333912692 "charlie" floor +1 10401,12810,0 [Base.Garter].
+[25-10-24 02:34:32.927] 76561198333912692 "charlie" floor +1 10401,12810,0 [Base.Shorts_ShortDenim].
+[25-10-24 02:34:37.186] 76561198333912692 "charlie" floor +1 10401,12810,0 [Base.Tshirt_PoloStripedTINT].
+[25-10-24 02:34:40.217] 76561198333912692 "charlie" floor +1 10401,12810,0 [Base.Tie_Worn].
+[25-10-24 02:34:48.705] 76561198333912692 "charlie" container -1 10400,12811,0 [Base.Vest_Waistcoat].
+[25-10-24 02:34:51.697] 76561198333912692 "charlie" container -2 10400,12811,0 [Base.Tshirt_WhiteLongSleeve, Base.Tie_BowTieWorn].
+[25-10-24 02:34:54.708] 76561198333912692 "charlie" container -1 10400,12811,0 [Base.Trousers_Suit].
+[25-10-24 02:35:03.002] 76561198333912692 "charlie" floor -1 10401,12810,0 [Base.Tie_Worn].
+[25-10-24 02:35:04.222] 76561198430296167 "DonDiego" floor +1 10390,12822,0 [Base.Hat_Beret].
+[25-10-24 02:35:05.820] 76561198333912692 "charlie" floor -1 10401,12810,0 [Base.HoodieDOWN_WhiteTINT].
+[25-10-24 02:35:17.130] 76561198430296167 "DonDiego" floor +1 10383,12829,0 [Base.Hat_Beret].
+[25-10-24 02:35:19.006] 76561198333912692 "charlie" floor +1 10383,12828,0 [Base.Hat_Beret].
+[25-10-24 02:36:17.205] 76561198430296167 "DonDiego" floor +1 10385,12830,0 [Base.Hat_BaseballCap].
+[25-10-24 02:36:26.203] 76561198333912692 "charlie" floor +1 10454,12816,0 [Base.Hat_BaseballCapKY].
+[25-10-24 02:37:22.898] 76561198430296167 "DonDiego" floor +1 10378,12829,0 [Base.TinCanEmpty].
+[25-10-24 02:37:22.920] 76561198430296167 "DonDiego" floor +1 10378,12829,0 [Base.TinCanEmpty].
+[25-10-24 02:37:22.961] 76561198430296167 "DonDiego" floor +1 10378,12829,0 [Base.TinCanEmpty].
+[25-10-24 02:38:56.157] 76561198430296167 "DonDiego" container -1 10382,12815,0 [Base.Matches].
+[25-10-24 02:40:05.152] 76561198430296167 "DonDiego" container -1 10366,12827,0 [Base.LouisvilleMap5].
+[25-10-24 02:40:08.151] 76561198430296167 "DonDiego" container -1 10366,12827,0 [Base.Pills].
+[25-10-24 02:40:17.196] 76561198333912692 "charlie" container -1 10473,12823,1 [Base.FishingMag1].
+[25-10-24 02:41:02.151] 76561198430296167 "DonDiego" container -1 10367,12818,0 [Base.Lighter].
+[25-10-24 02:41:05.149] 76561198430296167 "DonDiego" container -1 10367,12818,0 [Base.PillsAntiDep].
+[25-10-24 02:41:11.775] 76561198430296167 "DonDiego" floor +1 10377,12788,0 [Base.UnusableWood].
+[25-10-24 02:41:11.776] 76561198430296167 "DonDiego" floor +1 10377,12788,0 [Base.Doorknob].
+[25-10-24 02:41:35.206] 76561198333912692 "charlie" container -1 10463,12827,1 [Base.Soap2].
+[25-10-24 02:42:17.193] 76561198333912692 "charlie" container -1 10460,12827,0 [Base.Mustard].
+[25-10-24 02:42:50.952] 76561198430296167 "DonDiego" floor -1 10452,12824,0 [Base.Dogfood].
+[25-10-24 02:43:33.805] 76561198430296167 "DonDiego" floor +1 10450,12827,1 [Base.Ham].
+[25-10-24 02:43:38.047] 76561198333912692 "charlie" floor -1 10450,12827,1 [Base.Ham].
+[25-10-24 02:44:32.204] 76561198333912692 "charlie" container -1 10448,12823,1 [Base.HuntingKnife].
+[25-10-24 02:45:18.688] 76561198333912692 "charlie" floor -1 10439,12826,1 [Base.Antibiotics].
+[25-10-24 02:46:17.219] 76561198333912692 "charlie" container -1 10431,12823,1 [Base.Book].
+[25-10-24 02:46:38.154] 76561198430296167 "DonDiego" container -1 10436,12824,1 [Base.Gloves_LeatherGlovesBlack].
+[25-10-24 02:46:56.219] 76561198333912692 "charlie" container -1 10431,12824,1 [Base.Key1].
+[25-10-24 02:47:17.183] 76561198430296167 "DonDiego" container -2 10426,12823,1 [Base.WestpointMap, Base.JacketLong_Random].
+[25-10-24 02:47:17.207] 76561198333912692 "charlie" container -1 10427,12826,1 [Base.Disinfectant].
+[25-10-24 02:47:26.213] 76561198333912692 "charlie" container -1 10426,12823,1 [Base.Key2].
+[25-10-24 02:47:35.156] 76561198430296167 "DonDiego" container -1 10429,12822,1 [Base.JacketLong_Random].
+[25-10-24 02:47:38.815] 76561198430296167 "DonDiego" floor +1 10429,12821,1 [Base.JacketLong_Random].
+[25-10-24 02:48:32.157] 76561198430296167 "DonDiego" floor +1 10428,12822,0 [Base.Glasses].
+[25-10-24 02:48:53.202] 76561198333912692 "charlie" container -1 10419,12827,0 [Base.Hotsauce].
+[25-10-24 02:49:00.395] 76561198333912692 "charlie" floor -1 10421,12823,0 [Base.JamMarmalade].
+[25-10-24 02:49:00.560] 76561198333912692 "charlie" floor -1 10421,12823,0 [Base.PeanutButter].
