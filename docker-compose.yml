@@ -36,6 +36,7 @@ services:
       - "27015:27015/tcp"
     volumes:
       # Server data
-      - ./mnt-mega/project_zomboid:/home/steam
+      - ./mnt-mega/project_zomboid/data:/home/steam/Zomboid
+      - ./mnt-mega/project_zomboid/workshop-mods:/home/steam/pz-dedicated/steamapps/workshop
     depends_on:
       - rclone      
