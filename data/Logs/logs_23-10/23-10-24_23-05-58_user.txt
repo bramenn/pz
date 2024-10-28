@@ -1,8 +1,0 @@
-[23-10-24 23:05:58.695] added connection index=0 181.129.215.156.
-[23-10-24 23:05:59.585] 76561199040661533 "bramen" attempting to join.
-[23-10-24 23:05:59.587] 76561199040661533 "bramen" allowed to join.
-[23-10-24 23:06:10.649] 76561199040661533 "bramen" attempting to join used queue.
-[23-10-24 23:06:32.972] player bramen loading time was: 21785 ms.
-[23-10-24 23:07:01.862] 76561199040661533 "bramen" fully connected (8178,11270,0).
-[23-10-24 23:18:48.302] 76561199040661533 "bramen" removed connection index=0.
-[23-10-24 23:18:48.327] 76561199040661533 "bramen" disconnected player (8172,11272,0).

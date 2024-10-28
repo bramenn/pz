@@ -1,5 +1,27 @@
 version: "3.7"
 services:
+
+  rclone:
+    container_name: rclone
+    image: rclone/rclone
+    restart: always
+    network_mode: "bridge"
+    volumes:
+      - /root/.config/rclone/:/root/.config/rclone
+      - ./mnt-mega:/data:shared
+    devices:
+      - /dev/fuse
+    cap_add:
+      - SYS_ADMIN
+    security_opt:
+      - apparmor:unconfined
+        #command: "mount mega-1: /data --uid=1000 --gid=1000 --cache-dir=/cache --use-mmap --allow-other --allow-non-empty --umask=002 --rc --rc-no-auth"
+    command: "mount mega-1: /data --uid=1000 --gid=1000 --cache-dir=/cache --allow-other --dir-perms 0777 --file-perms 0777  --vfs-cache-mode full --allow-non-empty"
+    environment:
+      PUID: 1000
+      PGID: 1000
+      RCLONE_REMOTE_PATH: "mega-1:jellyfin"
+
   ProjectZomboidDedicatedServer:
     image: danixu86/project-zomboid-dedicated-server:latest
     restart: unless-stopped
@@ -14,6 +36,6 @@ services:
       - "27015:27015/tcp"
     volumes:
       # Server data
-      - ./data:/home/steam/Zomboid
-      # Workshop mods folder
-      - ./workshop-mods:/home/steam/pz-dedicated/steamapps/workshop
+      - ./mnt-mega/project_zomboid:/home/steam
+    depends_on:
+      - rclone      

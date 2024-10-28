@@ -1,2 +1,0 @@
-[23-10-24 23:07:04.401] [76561199040661533][bramen][8178,11270,0][Login][Hours Survived: 5].
-[23-10-24 23:07:04.401] [76561199040661533][bramen][8178,11270,0][Cooking=0, Fitness=10, Strength=9, Blunt=0, Axe=0, Sprinting=3, Lightfoot=1, Nimble=1, Sneak=0, Woodwork=0, Aiming=0, Reloading=0, Farming=0, Fishing=0, Trapping=0, PlantScavenging=0, Doctor=0, Electricity=0, MetalWelding=0, Mechanics=0, Spear=0, Maintenance=0, SmallBlade=0, LongBlade=0, SmallBlunt=0, Tailoring=0][Hours Survived: 5].
