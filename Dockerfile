@@ -1,7 +1,7 @@
 ###########################################################
 # Dockerfile that builds a CSGO Gameserver
 ###########################################################
-FROM cm2network/steamcmd:root
+FROM sonroyaalmerol/steamcmd-arm64:root-2024-12-08
 
 LABEL maintainer="daniel.carrasco@electrosoftcloud.com"
 
